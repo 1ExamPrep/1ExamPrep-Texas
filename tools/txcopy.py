@@ -310,3 +310,37 @@ BOOK_SHORT = {"electrical": "Open book, 2026 NEC", "plumbing": "Closed book", "a
 PROMO = "Texas electrical exams use the 2026 NEC since September 1, 2026"
 # product pages pictured in the home page collage (license/package paths)
 COLLAGE = ["journeyman-electrician/ultimate-combo-2026/", "master-electrician/super-combo-2026/", "journeyman-plumber/complete-package-2026/", "residential-wireman/highlighted-tabbed/"]
+
+# the words people use for each license, so the exam advisor (Max) can tell which one they mean
+MAX_ALIASES = {
+    "journeyman-electrician": ["journeyman electrician", "journeyman electric", "jman electrician", "electrical journeyman"],
+    "master-electrician": ["master electrician", "electrical master", "master electric"],
+    "master-electrician-contractor": ["electrical contractor", "master electrical contractor", "ec license", "contractor license electric"],
+    "residential-wireman": ["residential wireman", "wireman", "residential electrician", "residential electric"],
+    "maintenance-electrician": ["maintenance electrician", "maintenance electric"],
+    "journeyman-sign-electrician": ["sign electrician", "journeyman sign", "neon"],
+    "journeyman-lineman": ["lineman", "linemen", "line worker", "power line"],
+    "journeyman-industrial-electrician": ["industrial electrician", "journeyman industrial", "refinery electrician", "plant electrician"],
+    "residential-appliance-installer": ["appliance installer", "residential appliance", "water heater install"],
+    "journeyman-plumber": ["journeyman plumber", "journeyman plumbing", "plumber journeyman"],
+    "master-plumber": ["master plumber", "master plumbing", "rmp"],
+    "tradesman-limited-plumber": ["tradesman plumber", "tradesman limited", "plumber limited", "tradesman"],
+    "plumbing-inspector": ["plumbing inspector"],
+    "environmental-air-class-a": ["class a hvac", "hvac class a", "ac class a", "a/c class a", "environmental air a", "class a environmental"],
+    "environmental-air-class-b": ["class b hvac", "hvac class b", "ac class b", "a/c class b", "environmental air b", "class b environmental", "hvac license", "ac license"],
+    "commercial-refrigeration-class-a": ["refrigeration class a", "class a refrigeration", "commercial refrigeration a"],
+    "commercial-refrigeration-class-b": ["refrigeration class b", "class b refrigeration", "commercial refrigeration b", "refrigeration license"],
+    "acr-certified-technician": ["certified technician", "hvac technician", "ac technician", "acr technician", "hvac tech", "ac tech"],
+    "code-enforcement-officer": ["code enforcement", "code officer", "ceo"],
+    "san-antonio-commercial-sign-operator": ["sign operator", "974", "on premises sign", "commercial sign"],
+    "san-antonio-billboard-operator": ["billboard", "975", "off premises sign"],
+    "san-antonio-structural-masonry": ["masonry", "84cy", "structural masonry"],
+    "dallas-green-construction-professional": ["green construction", "gcp", "green building", "dallas green"],
+    "licensing-services": ["llc", "application help", "business setup", "form a company", "corporation", "apply for my license"],
+    "icc-general-building-contractor-a": ["general contractor", "general building", "building contractor a", "f11", "g11"],
+    "icc-building-contractor-b": ["building contractor b", "f12", "g12"],
+    "icc-residential-building-contractor-c": ["residential contractor", "home builder", "residential building", "f13", "g13"],
+    "nascla-commercial-general-building": ["nascla", "commercial general"],
+    "nascla-electrical": ["nascla electrical", "nascla journeyman", "nascla master"],
+    "code-books-and-courses": ["code book", "osha", "nec webinar", "ibc", "ipc", "calculations book"],
+}

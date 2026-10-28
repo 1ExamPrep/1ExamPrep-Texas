@@ -143,7 +143,7 @@ def head_extra(path, title, desc, image, rel, noindex=False, extra_ld=(), page_t
     if image: h.append('<meta name="twitter:image" content="%s">' % esc(image))
     if CFG.get("social", {}).get("twitter"): h.append('<meta name="twitter:site" content="@%s">' % CFG["social"]["twitter"].rstrip("/").split("/")[-1])
     h.append('<meta name="theme-color" content="#002759">')
-    h.append('<script>window.SITE=%s;</script>' % json.dumps({"brand": BRAND, "storeUrl": STORE, "fulfillment": FUL["name"], "cartTag": CART_TAG}))
+    h.append('<script>window.SITE=%s;</script>' % json.dumps({"brand": BRAND, "storeUrl": STORE, "fulfillment": FUL["name"], "cartTag": CART_TAG, "phone": CFG.get("phone", ""), "aiFinder": CFG.get("aiFinderUrl", "")}))
     if not LOGO_NAV: h.append('<style>.nav .brand{font-size:1.05rem;line-height:1.05;max-width:46vw}@media (max-width:720px){.nav .brand{font-size:.9rem}}</style>')
     h.append('<link rel="icon" href="%sshared/%s">' % (rel, "favicon.png\" type=\"image/png\" sizes=\"64x64" if HAS_PNG_ICONS else "favicon.svg\" type=\"image/svg+xml"))
     h.append('<link rel="apple-touch-icon" href="%sshared/apple-touch-icon.png">' % rel); h.append('<link rel="manifest" href="%smanifest.webmanifest">' % rel)
@@ -504,6 +504,13 @@ for s in ORDER:
     for p in c["products"]:
         urls.append(product_page(c, p)); generated.append(p["path"].rstrip("/"))
 with open(manifest, "w") as f: f.write("\n".join(generated) + "\n")
+
+# ---------- knowledge for the exam advisor (Max), only when aiFinderUrl is set ----------
+if CFG.get("aiFinderUrl"):
+    import maxkb
+    _n_items, _n_pieces = maxkb.write(ROOT, PRODUCTS, CLASSES, ORDER, vacopy, vaclass, FULL,
+                                      json.load(open(os.path.join(ROOT, "content", "faq-general.json"), encoding="utf-8")), old_code)
+    print("Max knowledge: %d products, %d fact pieces" % (_n_items, _n_pieces))
 
 # ---------- site index for search (independent of the catalog format) ----------
 idx = {"classes": [{"n": c["name"], "u": c["slug"] + "/", "g": GROUP_NAME[c["group"]], "k": len(c["products"]), "lo": c["lo"]} for c in (CLASSES[s] for s in ORDER if s in CLASSES)],

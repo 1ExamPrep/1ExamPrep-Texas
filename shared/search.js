@@ -47,6 +47,9 @@
     if(e.key==="Escape"&&!ov.hidden){close();return;}
     if(e.key==="/"&&ov.hidden&&!/input|textarea|select/i.test((document.activeElement||{}).tagName||"")){e.preventDefault();open();}
   });
+  /* the exam advisor (Max, shared/max.js) when aiFinderUrl is set in site-config.json */
+  window.SRCH={BASE:BASE,q:q,ov:ov,open:open,close:close};
+  if((window.SITE||{}).aiFinder){var mx=document.createElement("script");mx.src=BASE+"shared/max.js";mx.defer=true;document.head.appendChild(mx);}
   var sp=document.getElementById("searchPage");
   if(sp){var m=location.search.match(/[?&]q=([^&]*)/);var inp=sp.querySelector("input");inp.value=m?decodeURIComponent(m[1].replace(/\+/g," ")):"";
     function go(){ensureIndex(function(){var out=document.getElementById("searchOut");out.innerHTML=rows(search(inp.value))||(inp.value.trim()?'<p class="srch-none">Nothing found. Try a trade, such as roofing, plumber or inspector.</p>':"");

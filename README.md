@@ -26,3 +26,15 @@ Logo: `brand/logo-source.png`, cut into `shared/` by `python3 tools/make_logo.py
 
 - Products change in Shopify: the dashboard sync rebuilds. Or pull locally with `tools/sync_shopify.py`.
 - Copy change: edit `tools/txcopy.py`, `content/faq-general.json` or `build.py`, run `python3 build.py`, push.
+
+## Max, the exam advisor
+
+Search opens Max: trade, then license, then what you want, and the best package with Buy now (runs in the browser
+from `shared/kb/products.json`). Typed questions go to the Cloudflare Worker `1exam-texas`
+(https://1exam-texas.ori-972.workers.dev), which answers from `shared/kb/texas.json`.
+
+- Site files: `shared/max.js`, `shared/max.css`, `tools/maxkb.py` (writes `shared/kb/` on every build),
+  aliases in `MAX_ALIASES` in `tools/txcopy.py`, switch in `site-config.json` (`aiFinderUrl`, empty turns Max off).
+- Worker: `worker/max-texas-worker.js`. Paste it in Cloudflare (Workers & Pages, 1exam-texas, Edit code, Deploy).
+  It needs a Workers AI binding named `AI`. Allowed sites are in `ALLOWED_ORIGINS` at the top of the file.
+- Fix a wrong answer by fixing `tools/txcopy.py`, the FAQ or the Shopify description, then rebuild.

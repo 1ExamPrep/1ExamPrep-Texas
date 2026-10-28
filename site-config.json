@@ -55,5 +55,7 @@
   "_design_help": "Which look the site uses: 0 = original, 1 Storefront, 2 State Guide, 3 Seminar Sheet, 4 Code Index, 5 Lone Star Editorial. Compare them at /designs/, or add ?design=N to any page.",
   "licenseList": 3,
   "_licenseList_help": "Style of the license lists on the home page: 1 tiles, 2 price list, 3 price-first cards, 4 table, 5 chips. Preview with ?list=N on the home page.",
-  "logoNav": "shared/logo-nav.png"
+  "logoNav": "shared/logo-nav.png",
+  "aiFinderUrl": "https://1exam-texas.ori-972.workers.dev",
+  "_aiFinderUrl_help": "Address of the Texas exam advisor (Max) Cloudflare Worker. Empty switches Max off; set, search opens Max and build.py writes shared/kb/."
 }
