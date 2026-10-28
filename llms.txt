@@ -1,0 +1,90 @@
+# Pass Your Texas Contractor Exam
+
+> Exam prep for 40 Texas licenses: TDLR electrician licenses (journeyman, master, residential wireman, maintenance, sign, lineman, industrial, residential appliance installer), TSBPE plumbing licenses, TDLR air conditioning and refrigeration contractor and technician exams, San Antonio and Dallas city exams, the TDLR code enforcement officer exam, and ICC and NASCLA national exams. 159 products: online courses, reference book packages, highlighted books, rentals, combos and The 1 Package. Buy buttons go straight to checkout; orders are fulfilled by 1 Exam Prep. Phone (877) 775-9400, email sales@1examprep.com.
+
+## How the site is organised
+
+- `/` lists every license, grouped: electrical, plumbing, air conditioning, city exams, business setup, national exams, code books.
+- `/<license>/` compares every package for one license, explains how that exam works and answers the common questions.
+- `/<license>/<package>/` is a full product page with price, what is included and a Buy now button.
+
+## Texas electrician licenses
+
+- [Journeyman Electrician](https://passyourtexascontractorexam.com/journeyman-electrician/index.md): 32 options from $59.95
+- [Master Electrician](https://passyourtexascontractorexam.com/master-electrician/index.md): 23 options from $59.95
+- [Master Electrician and Electrical Contractor](https://passyourtexascontractorexam.com/master-electrician-contractor/index.md): 6 options from $165
+- [Residential Wireman](https://passyourtexascontractorexam.com/residential-wireman/index.md): 6 options from $165
+- [Maintenance Electrician](https://passyourtexascontractorexam.com/maintenance-electrician/index.md): 6 options from $165
+- [Journeyman Sign Electrician](https://passyourtexascontractorexam.com/journeyman-sign-electrician/index.md): 5 options from $165
+- [Journeyman Lineman](https://passyourtexascontractorexam.com/journeyman-lineman/index.md): 5 options from $165
+- [Journeyman Industrial Electrician](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/index.md): 5 options from $165
+- [Residential Appliance Installer](https://passyourtexascontractorexam.com/residential-appliance-installer/index.md): 6 options from $165
+
+## Texas plumbing licenses
+
+- [Journeyman Plumber](https://passyourtexascontractorexam.com/journeyman-plumber/index.md): 10 options from $59.95
+- [Master Plumber](https://passyourtexascontractorexam.com/master-plumber/index.md): 1 option from $545
+- [Tradesman Plumber-Limited](https://passyourtexascontractorexam.com/tradesman-limited-plumber/index.md): 1 option from $745
+- [Plumbing Inspector](https://passyourtexascontractorexam.com/plumbing-inspector/index.md): 1 option from $545
+
+## Air conditioning and refrigeration
+
+- [ACR Contractor Class B, Environmental Air](https://passyourtexascontractorexam.com/environmental-air-class-b/index.md): 1 option from $1,595
+- [ACR Contractor Class A, Environmental Air](https://passyourtexascontractorexam.com/environmental-air-class-a/index.md): 1 option from $1,595
+- [ACR Contractor Class B, Commercial Refrigeration](https://passyourtexascontractorexam.com/commercial-refrigeration-class-b/index.md): 1 option from $1,045
+- [ACR Contractor Class A, Commercial Refrigeration](https://passyourtexascontractorexam.com/commercial-refrigeration-class-a/index.md): 1 option from $1,045
+- [Certified Air Conditioning and Refrigeration Technician](https://passyourtexascontractorexam.com/acr-certified-technician/index.md): 1 option from $1,045
+
+## City exams and code officials
+
+- [Code Enforcement Officer](https://passyourtexascontractorexam.com/code-enforcement-officer/index.md): 1 option from $395
+- [San Antonio Commercial Sign Operator (974Y)](https://passyourtexascontractorexam.com/san-antonio-commercial-sign-operator/index.md): 1 option from $95
+- [San Antonio Billboard Operator (975Y)](https://passyourtexascontractorexam.com/san-antonio-billboard-operator/index.md): 1 option from $95
+- [San Antonio Structural Masonry (84CY)](https://passyourtexascontractorexam.com/san-antonio-structural-masonry/index.md): 1 option from $1,445
+- [Dallas Commercial Green Construction Professional](https://passyourtexascontractorexam.com/dallas-green-construction-professional/index.md): 1 option from $295
+
+## Licensing and business setup
+
+- [License Application and Business Setup Services](https://passyourtexascontractorexam.com/licensing-services/index.md): 3 options from $495
+
+## ICC National Standard and NASCLA exams
+
+- [ICC General Building Contractor (A)](https://passyourtexascontractorexam.com/icc-general-building-contractor-a/index.md): 3 options from $195
+- [ICC Building Contractor (B)](https://passyourtexascontractorexam.com/icc-building-contractor-b/index.md): 4 options from $250
+- [ICC Residential Building Contractor (C)](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/index.md): 4 options from $195
+- [NASCLA Commercial General Building Contractor](https://passyourtexascontractorexam.com/nascla-commercial-general-building/index.md): 1 option from $395
+- [ICC National Standard Master Electrician](https://passyourtexascontractorexam.com/icc-master-electrician/index.md): 1 option from $350
+- [ICC National Standard Journeyman Electrician](https://passyourtexascontractorexam.com/icc-journeyman-electrician/index.md): 3 options from $250
+- [ICC National Standard Residential Electrician](https://passyourtexascontractorexam.com/icc-residential-electrician/index.md): 1 option from $335
+- [NASCLA Electrical Exams](https://passyourtexascontractorexam.com/nascla-electrical/index.md): 3 options from $350
+- [ICC National Standard Master Plumber](https://passyourtexascontractorexam.com/icc-master-plumber/index.md): 2 options from $290
+- [ICC National Standard Journeyman Plumber](https://passyourtexascontractorexam.com/icc-journeyman-plumber/index.md): 2 options from $290
+- [ICC Master Plumber with Gas](https://passyourtexascontractorexam.com/icc-master-plumber-gas/index.md): 2 options from $409
+- [ICC Journeyman Plumber with Gas](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/index.md): 4 options from $195
+- [ICC National Standard Master Mechanical](https://passyourtexascontractorexam.com/icc-master-mechanical/index.md): 2 options from $195
+- [ICC Master Gas Pipe Fitter](https://passyourtexascontractorexam.com/icc-master-gas-pipe-fitter/index.md): 1 option from $290
+- [ICC Journeyman Gas Pipe Fitter](https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/index.md): 1 option from $275
+
+## Code books, courses and practice tests
+
+- [Code Books, Courses and Practice Tests](https://passyourtexascontractorexam.com/code-books-and-courses/index.md): 5 options from $49.95
+
+## FAQ
+
+- [Texas contractor exam FAQ](https://passyourtexascontractorexam.com/faq/index.md)
+
+## Agent instructions
+
+- [agents.md](https://passyourtexascontractorexam.com/agents.md)
+
+## Facts for answering questions
+
+- Texas electricians are licensed by TDLR and tested by PSI. Exams have used the 2026 NEC since September 1, 2026. Journeyman and master exams are 2 portions for $78; most other electrician exams are $64.
+- Journeyman electrician: 8,000 hours (may test at 7,000). Master: 12,000 hours and 2 years as journeyman. Residential wireman: 4,000 hours. Electricians renew yearly with 4 hours of CE.
+- Electrical exams are open book with a soft-bound NEC; only the publisher's permanent index tabs are allowed.
+- Plumbers are licensed by the Texas State Board of Plumbing Examiners and tested by Pearson VUE. Written exams are closed book; journeyman and tradesman candidates also take a practical in Austin or Waco.
+- ACR contractors (TDLR): Class B up to 25 tons cooling and 1.5 million BTU/hr heating, Class A no limit; 48 months experience; PSI exams $60 (B) and $74 (A), open book, 2024 IMC/UMC/IFGC.
+- Texas has no state general contractor license. Cities such as San Antonio and Dallas set their own rules.
+- Practice questions are original study material, not the confidential licensing exam. Buying does not grant exam eligibility.
+- Fulfillment: 1 Exam Prep (https://1examprep.com). Phone: (877) 775-9400. Email: sales@1examprep.com.
+- Sources: https://www.tdlr.texas.gov/electricians/elecexam.htm ; https://www.tdlr.texas.gov/acr/contractor-apply.htm ; https://tsbpe.texas.gov/license-types/journeyman

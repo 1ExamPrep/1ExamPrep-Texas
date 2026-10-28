@@ -1,0 +1,64 @@
+/* Design 2: State Guide. A licensing guide first: dark full-bleed hero over a canyon landscape, the license finder inside it,
+   a stats row, a licensing table; license pages get sticky section tabs and a Quick Facts sidebar. */
+:root{--bg:#f4f6f9;--fg:#16233a;--muted:#55627a;--ink:#0b2545;--accent:#1769d1;--accent-hover:#1258b0;--on-accent:#fff;--card:#fff;--line:#d9e0ea;--flag:#c62828;--radius:14px;--radius-btn:10px;
+--font-display:"Nunito Sans",sans-serif;--font-body:"Nunito Sans",sans-serif}
+body{font-size:1.02rem}
+.nav{background:#fff;box-shadow:0 1px 0 var(--line)}
+.nav .brand{font-family:var(--font-display);font-weight:900;color:var(--ink)}.nav .brand span{color:var(--flag)}
+.nav-links a{color:var(--ink);font-weight:700}
+/* hero */
+.hero{position:relative;overflow:hidden;background:var(--ink);color:#fff;text-align:left;padding:4.5rem 0 2.5rem}
+.hero::before{content:"";position:absolute;inset:0 0 0 35%;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600' preserveAspectRatio='xMidYMax slice'%3E%3Cdefs%3E%3ClinearGradient id='s' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%23f0b37e'/%3E%3Cstop offset='.55' stop-color='%23c97b5a'/%3E%3Cstop offset='1' stop-color='%238a4f3f'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='900' height='600' fill='url(%23s)'/%3E%3Ccircle cx='640' cy='190' r='60' fill='%23ffe2b0' opacity='.8'/%3E%3Cpath d='M0 300 L120 300 L140 260 L300 260 L320 300 L420 300 L440 230 L620 230 L650 290 L900 290 V600 H0Z' fill='%23a65d45'/%3E%3Cpath d='M0 380 L80 380 L100 340 L260 340 L290 390 L520 390 L540 350 L700 350 L730 400 L900 400 V600 H0Z' fill='%23854434'/%3E%3Cpath d='M0 470 C150 450 260 480 420 460 S700 440 900 470 V600 H0Z' fill='%23543026'/%3E%3Cpath d='M0 540 C200 520 420 560 620 530 S820 520 900 540 V600 H0Z' fill='%23321d1a'/%3E%3C/svg%3E") center bottom/cover no-repeat}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--ink) 30%,rgba(11,37,69,.86) 50%,rgba(11,37,69,.15) 100%)}
+.hero>.wrap{position:relative;z-index:1}
+.hero h1{font-family:var(--font-display);font-weight:900;text-transform:none;letter-spacing:-.02em;font-size:clamp(2.4rem,5.4vw,4.2rem);line-height:1.05;color:#fff;max-width:14ch}
+.hero .lead{color:#d6dfee;margin:1.2rem 0 1.6rem;max-width:52ch}
+.va-find{display:none}
+.tx-finder{display:flex;flex-wrap:wrap;gap:.8rem;align-items:flex-end;max-width:760px;padding:1.1rem;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:14px;backdrop-filter:blur(4px)}
+.tx-finder label span{color:#c4d2ea}
+.tx-finder select{border:0}
+.gauge{display:flex;gap:0;margin:2.5rem 0 0;max-width:640px;border-top:1px solid rgba(255,255,255,.2);padding-top:1.4rem}
+.g{background:none;padding:0 2rem 0 0;margin-right:2rem;border-right:1px solid rgba(255,255,255,.2);border-radius:0;flex:1}
+.g:last-child{border:0;margin:0}
+.g b{font-size:2rem;font-weight:900;color:#fff}.g span{color:#c4d2ea;font-size:.85rem}
+@media (max-width:720px){.hero::before{inset:auto 0 0 0;height:45%}.hero::after{background:linear-gradient(180deg,var(--ink) 50%,rgba(11,37,69,.4) 100%)}.gauge{flex-direction:column;gap:1rem}.g{border:0;margin:0}}
+/* headings get a short flag rule above them */
+h2{font-family:var(--font-display);font-weight:900;letter-spacing:-.015em;text-transform:none;color:var(--ink);font-size:clamp(1.7rem,3.2vw,2.4rem)}
+h2::before{content:"";display:block;width:42px;height:4px;border-radius:2px;background:var(--flag);margin-bottom:.8rem}
+.center h2::before{margin-inline:auto}
+.takeaways h2::before,.tx-qf h2::before,.related-pages h2::before,.sources h2::before,.final h2::before{display:none}
+.takeaways{border-left:5px solid var(--accent);background:#fff}
+.takeaways h2{color:var(--accent)}
+.va-group,.va-group:nth-of-type(even){background:#fff}.va-group:nth-of-type(odd){background:var(--bg)}
+.compare{border:1px solid var(--line)}.compare th{background:var(--ink);color:#fff}
+.big>div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:1.5rem;text-align:left}
+.big b{display:inline-grid;place-items:center;width:2.3rem;height:2.3rem;border-radius:50%;background:var(--ink);color:#fff;font-size:1rem;font-family:var(--font-display)}
+.sg{box-shadow:none;border:1px solid var(--line)}
+.pc-tier{color:var(--accent);font-weight:800}
+.final{background:linear-gradient(90deg,var(--ink),#163a6a)}.final h2 em{color:#9cc3ff;font-style:normal}
+/* license pages: sticky tabs and the Quick Facts sidebar */
+.hero--class{padding:3rem 0 2.2rem}
+.hero--class h1{max-width:20ch;font-size:clamp(2.1rem,4.4vw,3.4rem)}
+.hero--class .crumb,.hero--class .crumb a{color:#c4d2ea}
+.tx-tabs{display:block;position:sticky;top:70px;z-index:40;background:#fff;border-bottom:1px solid var(--line)}
+.tx-tabs .wrap{display:flex;gap:.5rem;padding:.7rem 0;overflow-x:auto;scrollbar-width:none}
+.tx-tabs a{flex:none;padding:.5rem 1rem;border-radius:999px;font-weight:800;font-size:.9rem;color:var(--ink);text-decoration:none;background:var(--bg)}
+.tx-tabs a:first-child,.tx-tabs a:hover{background:var(--ink);color:#fff}
+.tx-qf{display:block;background:#eef4fd;border:1px solid #cddcf3;border-radius:14px;padding:1.4rem}
+.tx-qf .btn{margin-top:.4rem}
+@media (min-width:1100px){
+  main#main:has(> .tx-qf){display:grid;grid-template-columns:minmax(0,1fr) 330px;column-gap:2rem;padding-right:max(1rem,calc((100vw - 1180px) / 2))}
+  main#main:has(> .tx-qf)>*{grid-column:1}
+  main#main:has(> .tx-qf)>.hero,main#main:has(> .tx-qf)>.tx-tabs{grid-column:1 / -1;margin-right:calc(-1 * max(1rem,(100vw - 1180px) / 2))}
+  main#main:has(> .tx-qf)>.tx-qf{grid-column:2;grid-row:3 / span 12;align-self:start;position:sticky;top:140px;margin-top:2rem}
+  main#main:has(> .tx-qf) .wrap{width:auto;margin-left:max(1rem,calc((100vw - 1180px) / 2))}
+  main#main:has(> .tx-qf)>.hero .wrap,main#main:has(> .tx-qf)>.tx-tabs .wrap{width:min(1180px,100% - 2rem);margin-inline:auto}
+  main#main:has(> .tx-qf)>.takeaways{margin-left:max(1rem,calc((100vw - 1180px) / 2));max-width:none}
+}
+@media (max-width:1099px){.tx-qf{margin:1.5rem 1rem 0}}
+/* product page */
+.buybox{box-shadow:none;border:1px solid var(--line);border-top:5px solid var(--ink)}
+.pdp-h1{font-weight:900;text-transform:none;color:var(--ink);letter-spacing:-.015em}
+.g-main{box-shadow:none;border:1px solid var(--line)}
+.stickybar{background:var(--ink)}
+.hero{border-radius:0;margin:0}

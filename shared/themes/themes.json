@@ -1,0 +1,32 @@
+{
+ "1": {
+  "name": "Storefront",
+  "list": 3,
+  "about": "A shop first: promo strip, product collage beside the headline, a two-step license finder bar, swipeable license cards and big product tiles with pill buttons. Montserrat headings, Poppins body, in the logo's navy and orange.",
+  "fonts": "https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Poppins:wght@400;500;600&display=swap"
+ },
+ "2": {
+  "name": "State Guide",
+  "list": 5,
+  "about": "A licensing guide first: dark hero over a canyon landscape with the license finder in it, a stats row, licensing tables, and sticky section tabs with a Quick Facts sidebar on license pages.",
+  "fonts": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap"
+ },
+ "3": {
+  "name": "Seminar Sheet",
+  "list": 2,
+  "about": "One centered column like a class flyer: logo on its own row, a solid menu bar, boxed sections, check-mark lists, packages as rows and big amber buttons.",
+  "fonts": "https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap"
+ },
+ "4": {
+  "name": "Code Index",
+  "list": 4,
+  "about": "Reads like a tabbed code book: every license in a left index rail, dense tables, mono labels, a spec sheet on each license page and a compact product sheet.",
+  "fonts": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+ },
+ "5": {
+  "name": "Lone Star Editorial",
+  "list": 1,
+  "about": "A magazine layout: split hero with a big serif headline beside a stacked product collage, star rules between sections, a fact strip on license pages and a wide product image.",
+  "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Public+Sans:wght@400;600;700&display=swap"
+ }
+}

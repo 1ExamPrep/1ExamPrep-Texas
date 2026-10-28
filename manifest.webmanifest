@@ -1,0 +1,20 @@
+{
+ "name": "Pass Your Texas Contractor Exam",
+ "short_name": "TX Contractor",
+ "start_url": "./",
+ "display": "browser",
+ "background_color": "#ffffff",
+ "theme_color": "#002759",
+ "icons": [
+  {
+   "src": "shared/logo-mark.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "shared/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

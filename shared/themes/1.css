@@ -1,0 +1,81 @@
+/* Design 1: Storefront (the live design). Montserrat headings, Poppins body, logo navy #002759 and orange. A shop first: promo strip, product collage beside the headline, a two-step license finder bar,
+   swipeable license cards and big product tiles with pill buttons. */
+:root{--bg:#ffffff;--fg:#14203a;--muted:#55607a;--ink:#002759;--accent:#e2580b;--accent-hover:#c74c08;--on-accent:#fff;--card:#fff;--line:#e2e6ee;--soft:#f3f5f9;--radius:16px;--radius-btn:999px;
+--font-display:"Montserrat",sans-serif;--font-body:"Poppins",sans-serif}
+body{background:var(--bg);font-size:1rem}
+/* promo strip */
+.tx-promo{display:block;background:var(--ink);color:#fff;font-size:.85rem;font-weight:600}
+.tx-promo .wrap{display:flex;justify-content:center;gap:2.2rem;padding:.55rem 0;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.tx-promo span+span::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--accent);margin:0 1.1rem 0 -1.1rem;vertical-align:middle}
+.tx-promo a{color:#fff}
+@media (max-width:720px){.tx-promo .wrap{justify-content:flex-start}}
+.nav{background:#fff;border-bottom:1px solid var(--line)}
+.nav .brand{font-family:var(--font-display);font-weight:800}.nav .brand span{color:var(--accent)}
+.nav-links a{color:var(--fg);font-weight:600}
+/* home hero: text left, product collage right, finder bar across the bottom */
+.hero{background:linear-gradient(180deg,#fff 0%,var(--soft) 100%);text-align:left;padding:3.5rem 0 0}
+.hero:not(.hero--class) .wrap{display:grid;grid-template-columns:1.1fr .9fr;grid-template-areas:"h c" "l c" "f f" "g g";column-gap:3rem;align-items:start}
+.hero:not(.hero--class) h1{grid-area:h}.hero:not(.hero--class) .lead{grid-area:l}
+.hero h1{font-weight:800;text-transform:none;letter-spacing:-.035em;font-size:clamp(2.4rem,5.4vw,4.4rem);line-height:1.02;color:var(--ink)}
+.hero .lead{margin:1.2rem 0 1.5rem;max-width:54ch}
+.va-find{display:none}
+.tx-collage{grid-area:c;display:grid;grid-template-columns:1fr 1fr;gap:.9rem;align-self:center}
+.tx-collage a{display:block;aspect-ratio:1/1;border-radius:18px;overflow:hidden;background:#fff;box-shadow:0 18px 40px -24px rgba(20,33,61,.45);transition:transform .2s}
+.tx-collage a:nth-child(2){transform:translateY(1.4rem)}.tx-collage a:nth-child(4){transform:translateY(1.4rem)}
+.tx-collage a:hover{transform:translateY(-4px)}
+.tx-finder{grid-area:f;display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-end;margin:3rem 0 0;padding:1.4rem 1.6rem;background:var(--ink);color:#fff;border-radius:20px 20px 0 0}
+.tx-finder label span{color:#c9d1e6}
+.tx-finder .btn{padding:.95rem 1.8rem}
+.gauge{grid-area:g;display:flex;justify-content:center;gap:2.5rem;margin:0;padding:1rem 0;max-width:none;background:var(--ink);border-radius:0 0 20px 20px;border-top:1px solid rgba(255,255,255,.12)}
+.g{background:none;padding:0;color:#fff;display:flex;align-items:baseline;gap:.5rem;border-radius:0}
+.g b{font-size:1.25rem;font-weight:800;color:#fff}.g span{color:#c9d1e6;font-size:.9rem}
+@media (max-width:860px){.hero:not(.hero--class) .wrap{grid-template-columns:1fr;grid-template-areas:"h" "l" "c" "f" "g"}.tx-collage{margin-top:.5rem}.gauge{flex-direction:column;gap:.4rem;padding:1rem 1.6rem}}
+.takeaways{margin-top:2.5rem;border-left:none;border-radius:16px;background:var(--soft);border:none}
+.takeaways h2{color:var(--accent)}
+/* license groups as swipeable card rows */
+h2{font-family:var(--font-display);font-weight:800;letter-spacing:-.025em;text-transform:none;color:var(--ink);font-size:clamp(1.7rem,3.4vw,2.5rem)}
+.va-group,.va-group:nth-of-type(even){background:#fff;padding:2.5rem 0 1rem}
+.va-group .sub-h{font-size:1rem}
+[data-list] .va-lics{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(220px,240px);grid-template-columns:none;overflow-x:auto;gap:1rem;padding:.4rem .2rem 1.2rem;scroll-snap-type:x mandatory;scrollbar-width:thin}
+[data-list] .va-lics li{scroll-snap-align:start}
+[data-list] .va-lic{border-top:none;border:1px solid var(--line);border-radius:16px;box-shadow:none;background:#fff}
+[data-list] .va-lic:hover{box-shadow:0 0 0 2px var(--accent)}
+/* product tiles */
+.singles{grid-template-columns:repeat(auto-fill,minmax(240px,1fr))}
+.sg{border:1px solid var(--line);box-shadow:none;border-radius:18px;position:relative}
+.pc-img{aspect-ratio:1/1;background:var(--soft)}
+.sg .pc-save{position:absolute;top:12px;left:12px;background:var(--accent);color:#fff;padding:.3rem .7rem;font-size:.75rem}.pdp-price .pc-save{background:#fde9dc;color:#a8410a}
+.pc-tier{color:var(--muted);font-weight:600;font-size:.8rem}
+.pc-name{font-weight:700;font-size:1rem}
+.pc-now{font-size:1.35rem;font-weight:800;color:var(--fg)}
+.pc-actions{display:flex;flex-direction:column;gap:.5rem}.pc-actions .btn{width:100%}
+.btn-details{background:none;color:var(--fg);border:1px solid var(--line)}
+.btn-buy{border-radius:999px}
+.compare{border:1px solid var(--line);border-radius:16px}.compare th{background:var(--soft);color:var(--ink)}
+.big b{background:var(--accent);color:#fff;border-radius:50%;width:2.4rem;height:2.4rem;display:grid;place-items:center;font-size:1.1rem}
+.final{background:var(--accent)}.final h2{color:#fff}.final h2 em{color:#fff;font-style:normal;text-decoration:underline}.final .btn-buy{background:#fff;color:var(--accent)}
+/* license pages */
+.hero--class{background:var(--soft);padding:2.5rem 0}
+.hero--class h1{font-size:clamp(2.1rem,4.6vw,3.6rem)}
+/* product page: flat buy box with trust chips */
+.g-main{box-shadow:none;background:var(--soft);border-radius:20px}
+.buybox{box-shadow:none;padding:.5rem 0}
+.pdp-h1{font-weight:800;letter-spacing:-.025em;color:var(--ink);text-transform:none}
+.pdp-price .pc-now{font-size:2.2rem}
+.btn-buy--lg{width:100%;border-radius:999px}
+.assure{display:flex;flex-wrap:wrap;gap:.5rem}.assure li{list-style:none;background:var(--soft);border-radius:999px;padding:.45rem .85rem;font-size:.82rem;color:var(--fg)}
+
+.rel{background:var(--soft)}
+.stickybar{background:var(--ink)}
+.hero:not(.hero--class) .wrap{grid-template-rows:auto 1fr auto auto}.hero:not(.hero--class) .lead{align-self:start}
+.hero{border-radius:0;margin:0}
+main#main>.takeaways{margin-top:2.5rem!important}
+
+/* Montserrat for headings, prices and buttons; Poppins for reading text */
+h1,h2,h3,.pdp-h1,.pc-name,.pc-now,.btn,.g b,.va-lic b,.va-p,.tx-qf-h,.faq summary{font-family:var(--font-display)}
+.hero .lead,.sub-h,p,li,dd{font-family:var(--font-body)}
+.nav .brand-img{height:58px;width:auto}
+@media (max-width:720px){.nav .brand-img{height:42px}}
+.site-footer .brand-img{height:52px;width:auto}
+.assure li{padding:.45rem .9rem .45rem 2.1rem}.assure li::before{left:.85rem;top:.95em}
+@media (max-width:720px){.tx-promo span+span{display:none}.tx-promo .wrap{justify-content:center}}@media (max-width:600px){.tx-collage{display:none}}

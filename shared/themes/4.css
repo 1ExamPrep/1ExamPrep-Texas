@@ -1,0 +1,85 @@
+/* Design 4: Code Index. Reads like a tabbed code book: every license in a left index rail, dense tables, mono labels,
+   a spec sheet at the top of each license page, and a compact two-column product sheet. */
+:root{--bg:#f3f2ee;--fg:#1f2328;--muted:#5d6168;--ink:#25292e;--accent:#e8590c;--accent-hover:#cc4d09;--on-accent:#fff;--card:#fff;--line:#d6d3cc;--radius:4px;--radius-btn:4px;
+--font-display:"IBM Plex Sans",sans-serif;--font-body:"IBM Plex Sans",sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+body{font-size:.98rem}
+.nav{background:var(--ink)}
+.nav .brand{font-family:var(--font-display);font-weight:700;color:#fff}.nav .brand span{color:var(--accent)}
+.nav-links a{color:#d9dadc;font-family:var(--mono);font-size:.85rem;text-transform:uppercase;letter-spacing:.04em}
+.nav-phone,.nav-search{color:#fff}
+/* the index rail */
+@media (min-width:1200px){
+  body{padding-left:270px}
+  .tx-rail{display:block;position:fixed;left:0;top:0;bottom:0;width:270px;overflow-y:auto;background:#fff;border-right:1px solid var(--line);padding:1.2rem 1.1rem 2rem;z-index:60;scrollbar-width:thin}
+  .tx-rail::before{content:"TEXAS LICENSE INDEX";display:block;font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--accent);font-weight:600;padding-bottom:.6rem;border-bottom:2px solid var(--ink);margin-bottom:.4rem}
+  .tx-rail-h{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:1.1rem 0 .3rem}
+  .tx-rail ul{list-style:none;margin:0;padding:0;border-left:2px solid var(--line)}
+  .tx-rail a{display:block;padding:.22rem 0 .22rem .7rem;margin-left:-2px;border-left:2px solid transparent;color:var(--fg);text-decoration:none;font-size:.86rem;line-height:1.3}
+  .tx-rail a:hover,.tx-rail a[aria-current]{border-left-color:var(--accent);color:var(--accent)}
+  .wrap{width:min(1100px,100% - 3rem)}
+  .stickybar{left:290px}
+}
+/* hero: compact and left aligned */
+.hero{background:var(--bg);text-align:left;padding:2.5rem 0 1.5rem;border-bottom:1px solid var(--line)}
+.hero h1{font-family:var(--font-display);font-weight:700;text-transform:none;letter-spacing:-.02em;font-size:clamp(2rem,4vw,3rem);line-height:1.1;color:var(--ink);max-width:24ch}
+.hero .lead{margin:1rem 0 1.4rem;font-size:1.05rem}
+.va-find{max-width:720px}
+.va-find input{border-radius:4px;border:2px solid var(--ink);font-family:var(--mono);font-size:.95rem}
+.gauge{display:grid;grid-template-columns:repeat(3,auto);justify-content:start;gap:0;margin:1.8rem 0 0;border:1px solid var(--line);background:#fff;max-width:640px}
+.g{background:#fff;color:var(--fg);border-radius:0;padding:.8rem 1.4rem;border-right:1px solid var(--line)}
+.g:last-child{border-right:0}
+.g b{font-family:var(--mono);font-size:1.6rem;font-weight:600;color:var(--ink)}.g.hot b{color:var(--accent)}
+.g span{font-family:var(--mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+@media (max-width:720px){.gauge{grid-template-columns:1fr}.g{border-right:0;border-bottom:1px solid var(--line)}}
+h2{font-family:var(--font-display);font-weight:700;text-transform:none;letter-spacing:-.015em;color:var(--ink);font-size:clamp(1.5rem,2.8vw,2rem);text-align:left}
+h2::before{content:"§ ";color:var(--accent);font-family:var(--mono);font-weight:500}
+.takeaways h2::before,.final h2::before,.tx-qf h2::before{content:none}
+.center,.wrap.center{text-align:left}.sub-h{margin-inline:0}
+.takeaways{max-width:none;margin:1.5rem auto;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0;background:#fff}
+.takeaways h2{font-family:var(--mono);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.va-group,.va-group:nth-of-type(even),.va-group:nth-of-type(odd){background:transparent;padding:2rem 0 .5rem}
+.compare{border:1px solid var(--line);border-radius:0;background:#fff}.compare th{font-family:var(--mono);font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;background:var(--ink);color:#fff}
+#compare,#classes{background:transparent!important}
+.big{grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--line);background:#fff}
+.big>div{padding:1.4rem;border-right:1px solid var(--line);text-align:left}.big>div:last-child{border-right:0}
+.big b{font-family:var(--mono);color:var(--accent);font-size:.9rem}
+@media (max-width:800px){.big{grid-template-columns:1fr}.big>div{border-right:0;border-bottom:1px solid var(--line)}}
+/* products: compact sheet rows */
+.singles{grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:.75rem}
+@media (max-width:520px){.singles{grid-template-columns:1fr}}
+.sg{flex-direction:row;border:1px solid var(--line);border-radius:0;box-shadow:none}
+.sg .pc-img{flex:0 0 120px;aspect-ratio:auto;background:#faf9f6;border-right:1px solid var(--line)}
+.sg .pc-body{padding:.9rem 1rem;gap:.35rem}
+.pc-tier{font-family:var(--mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--accent)}
+.pc-name{font-size:.95rem;font-weight:600}
+.pc-now{font-family:var(--mono);font-weight:600}
+.pc-actions{display:flex;gap:.5rem}.pc-actions .btn{padding:.55rem .9rem;font-size:.85rem}
+.btn-details{background:none;border:1px solid var(--ink);color:var(--ink)}
+.final{background:var(--ink);text-align:left}.final h2{color:#fff}.final h2 em{color:var(--accent);font-style:normal}
+/* license pages: tab strip and spec sheet */
+.hero--class{padding:2rem 0 1.2rem}
+.hero--class .crumb{font-family:var(--mono);font-size:.78rem}
+.tx-tabs{display:block;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:70px;z-index:40}
+.tx-tabs .wrap{display:flex;gap:0;overflow-x:auto;scrollbar-width:none}
+.tx-tabs a{flex:none;padding:.85rem 1.1rem;font-family:var(--mono);font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);text-decoration:none;border-bottom:3px solid transparent}
+.tx-tabs a:first-child,.tx-tabs a:hover{color:var(--ink);border-bottom-color:var(--accent)}
+.tx-qf{display:grid;grid-template-columns:1fr auto;gap:1rem 2rem;align-items:center;width:min(1100px,100% - 3rem);margin:1.5rem auto 0;background:#fff;border:1px solid var(--line);border-top:4px solid var(--ink);padding:1.2rem 1.4rem}
+.tx-qf-h{grid-column:1 / -1;font-family:var(--mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.tx-qf dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:.2rem 1.5rem;margin:0}
+.tx-qf dt{font-family:var(--mono);font-size:.68rem;margin-top:.4rem}.tx-qf dd{font-size:.92rem}
+.tx-qf .btn{width:auto}.tx-qf-call{grid-column:1 / -1;margin:0}
+@media (max-width:720px){.tx-qf{grid-template-columns:1fr;width:auto;margin:1rem 16px 0}}
+/* product page: spec sheet */
+.pdp-top{grid-template-columns:.8fr 1.2fr;gap:2rem}
+@media (max-width:860px){.pdp-top{grid-template-columns:1fr}}
+.g-main{box-shadow:none;border:1px solid var(--line);border-radius:0;background:#fff}
+.buybox{box-shadow:none;border:1px solid var(--line);border-top:4px solid var(--ink);border-radius:0}
+.pdp-h1{font-weight:700;text-transform:none;letter-spacing:-.015em;color:var(--ink);font-size:clamp(1.5rem,2.6vw,2.1rem)}
+.pdp-price .pc-now{font-family:var(--mono);font-size:2rem}
+.assure{list-style:none;padding:0;border-top:1px solid var(--line);gap:0}
+.assure li{padding:.45rem 0;border-bottom:1px solid var(--line);font-family:var(--mono);font-size:.8rem}
+.rel{border-radius:0;border:1px solid var(--line)}
+.stickybar{background:var(--ink);border-radius:4px}
+.nav-search{background:transparent;border-color:rgba(255,255,255,.35);color:#fff}
+.takeaways{width:min(1100px,100% - 3rem);box-sizing:border-box}
+.hero{border-radius:0;margin:0}

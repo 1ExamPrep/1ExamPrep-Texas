@@ -1,0 +1,54 @@
+# robots.txt for Pass Your Texas Contractor Exam (https://passyourtexascontractorexam.com)
+# Search engines and AI assistants are both welcome. Internal search, raw data and the admin page are held back.
+
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /designs/
+Disallow: /store/
+Disallow: /admin/
+Disallow: /*?q=
+
+# Named so the allow is explicit for AI crawlers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+Sitemap: https://passyourtexascontractorexam.com/sitemap.xml
+# Blog: https://passyourtexascontractorexam.com/blog/ (RSS at https://passyourtexascontractorexam.com/blog/feed.xml). FAQ: https://passyourtexascontractorexam.com/faq/
+# Guides for AI assistants: https://passyourtexascontractorexam.com/llms.txt and https://passyourtexascontractorexam.com/agents.md
