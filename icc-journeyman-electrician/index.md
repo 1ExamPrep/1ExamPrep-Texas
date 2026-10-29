@@ -48,22 +48,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course (any state)
+[ICC F17 Journeyman Electrician - Online Exam Prep Course](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course/)
 
-### [ICC F17 Journeyman Electrician - Online Exam Prep Course](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $250 (was $279) Save 10%
 [Buy now](https://1examprep.com/cart/33042872533049:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course/)
 
 Online Exam Prep Course (any state)
+[ICC G17 National Standard Journeyman Electrician - Online Exam Prep Course](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course-2/)
 
-### [ICC G17 National Standard Journeyman Electrician - Online Exam Prep Course](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $250 (was $279) Save 10%
 [Buy now](https://1examprep.com/cart/43803433238585:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course-2/)
 
 Exam Prep Package (any state)
+[ICC G17 National Standard Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-electrician/exam-prep-package/)
 
-### [ICC G17 National Standard Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-electrician/exam-prep-package/)
+An exam prep package.
 
 $350 (was $389.50) Save 10%
 [Buy now](https://1examprep.com/cart/31670543220793:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-electrician/exam-prep-package/)

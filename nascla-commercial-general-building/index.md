@@ -48,8 +48,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course (any state)
+[NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-commercial-general-building/online-course/)
 
-### [NASCLA Commercial General Building Contractor - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-commercial-general-building/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $440) Save 10%  to $695
 [Buy now](https://1examprep.com/cart/44193376010297:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/nascla-commercial-general-building/online-course/)

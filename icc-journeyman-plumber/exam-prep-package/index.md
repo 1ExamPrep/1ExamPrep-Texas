@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Journeyman Plumber exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $290 and is written for the ICC National Standard Journeyman Plumber exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Journeyman Plumber package
 
 ICC F25 National Standard Journeyman Plumber Exam Prep PackageThe ICC F25 National Standard Journeyman Plumber Exam Prep Package by Pass Your Texas Contractor Exam is structured to prepare candidates for the ICC F25 certification administered under the International Code Council (ICC).

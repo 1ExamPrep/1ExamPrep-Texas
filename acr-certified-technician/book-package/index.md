@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Certified Air Conditioning and Refrigeration Technician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,045 and is written for the Certified Air Conditioning and Refrigeration Technician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Certified Air Conditioning and Refrigeration Technician package
 
 Texas Certified Air Conditioning & Refrigeration Technician Contractor Book Package Prepare for the Texas Air Conditioning and Refrigeration Certified Technician examination with a comprehensive collection of Texas licensing references, current mechanical and fuel-gas codes, HVACR technical material, safety information, and air-distribution resources.

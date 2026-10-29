@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician and Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $1,815 and is written for the Master Electrician and Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician and Electrical Contractor package
 
 The 1 Package: All-Inclusive Texas Master Electrical Contractor Exam, Licensing & Business Setup Solution Prepare for the Texas Master Electrician examination while also building the foundation for your electrical contracting business with an all-inclusive preparation, licensing, and business setup package.

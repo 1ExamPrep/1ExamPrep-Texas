@@ -48,15 +48,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC F24 National Standard Master Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package/)
 
-### [ICC F24 National Standard Master Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package/)
+An exam prep package.
 
 $290 (was $325) Save 11%
 [Buy now](https://1examprep.com/cart/31670020997177:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package/)
 
 Exam Prep Package (any state)
+[ICC G24 National Standard Master Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package-2/)
 
-### [ICC G24 National Standard Master Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package-2/)
+An exam prep package.
 
 $290 (was $325) Save 11%
 [Buy now](https://1examprep.com/cart/39347461292089:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-master-plumber/exam-prep-package-2/)

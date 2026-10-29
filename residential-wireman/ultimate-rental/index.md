@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Wireman exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,065 and is written for the Residential Wireman exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Wireman package
 
 Texas Residential Wireman Electrician Ultimate Exam Prep Rental Package Prepare for the Texas Residential Wireman licensing examination with a comprehensive Ultimate exam preparation package built around the National Electrical Code, NEC, 2026.

@@ -52,15 +52,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Texas Journeyman Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-electrician/online-course/)
 
-### [Texas Journeyman Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-electrician/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/50516437106745:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/online-course/)
 
 Online Exam Prep Course (any state)
+[Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online Course](https://passyourtexascontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
 
-### [Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online Course](https://passyourtexascontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
+An online course with practice exams you can take on a phone or laptop.
 
 $129.95 (was $145) Save 10%
 [Buy now](https://1examprep.com/cart/38957669453:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/online-course-2014-any-state/)
@@ -70,198 +72,225 @@ $129.95 (was $145) Save 10%
 10 products of the 32 Journeyman Electrician options, from $59.95.
 
 Study Guide and Flash Cards
+[2026 Texas Journeyman Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
 
-### [2026 Texas Journeyman Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
+The study guide with practice exams plus flash cards.
 
 $99.95 (was $125) Save 20%  to $309.95
 [Buy now](https://1examprep.com/cart/45947350089785:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-flash-cards-2026/)
 
 Study Guide
+[Texas 2023 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2023/)
 
-### [Texas 2023 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2023/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/45907837616185:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2023/)
 
 Study Guide
+[Texas 2026 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2026/)
 
-### [Texas 2026 Journeyman Electrician Exam Prep and Study Guide: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2026/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/45899853463609:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-2026/)
 
 Book Package
+[Texas Journeyman Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-electrician/book-package/)
 
-### [Texas Journeyman Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-electrician/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $165 (was $265) Save 38%
 [Buy now](https://1examprep.com/cart/50514620284985:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/book-package/)
 
 Study Guide + NEC with Tabs
+[Texas 2023 Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023-2/)
 
-### [Texas 2023 Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023-2/)
+The study guide, the national electrical code and tabs.
 
 $240 (was $275) Save 13%
 [Buy now](https://1examprep.com/cart/41175666360377:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023-2/)
 
 Study Guide + NEC with Tabs
+[2023 Texas Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
 
-### [2023 Texas Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
+The study guide, the national electrical code and tabs.
 
 $249.95 (was $280) Save 11%  to $339.95
 [Buy now](https://1examprep.com/cart/46206973837369:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2023/)
 
 Study Guide + NEC with Tabs
+[2026 Texas Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
 
-### [2026 Texas Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
+The study guide, the national electrical code and tabs.
 
 $249.95 (was $350) Save 29%  to $339.95
 [Buy now](https://1examprep.com/cart/45967736340537:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-nec-tabs-2026/)
 
 Study Guide + Calculations + NEC
+[2023 Texas Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
 
-### [2023 Texas Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46209579778105:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2023/)
 
 Study Guide + Calculations + NEC
+[2026 Texas Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
 
-### [2026 Texas Journeyman Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46207413715001:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/study-guide-calculations-nec-2026/)
 
 Highlighted and Tabbed Books
+[Texas Journeyman Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-electrician/highlighted-tabbed/)
 
-### [Texas Journeyman Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-electrician/highlighted-tabbed/)
+The reference books already highlighted and tabbed.
 
 $345 (was $545) Save 37%
 [Buy now](https://1examprep.com/cart/50516373274681:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/highlighted-tabbed/)
 
 ## Journeyman Electrician options: combos and complete packages, part 1
 
-12 products of the 32 Journeyman Electrician options, from $240.
+10 products of the 32 Journeyman Electrician options, from $240.
 
 Super Combo
+[2023 Texas Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2023/)
 
-### [2023 Texas Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2023/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213498110009:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2023/)
 
 Super Combo
+[2026 Texas Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2026/)
 
-### [2026 Texas Journeyman Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2026/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213822709817:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/super-combo-2026/)
 
 Complete Package
+[Texas 2020 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020/)
 
-### [Texas 2020 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31822395768889:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020/)
 
 Complete Package
+[Texas 2023 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023/)
 
-### [Texas 2023 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/41174352330809:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023/)
 
 Ultimate Combo
+[2023 Texas Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
 
-### [2023 Texas Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46290869715001:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2023/)
 
 Ultimate Combo
+[2026 Texas Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
 
-### [2026 Texas Journeyman Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46454112026681:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2026/)
 
 Study Package with NEC Course
+[2023 Texas Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2023/)
 
-### [2023 Texas Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2023/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46286117371961:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2023/)
 
 Study Package with NEC Course
+[2026 Texas Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2026/)
 
-### [2026 Texas Journeyman Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2026/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46295210262585:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/nec-course-package-2026/)
 
 Exam Prep Package
+[Texas 2020 Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
 
-### [Texas 2020 Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
+An exam prep package.
 
 $240 (was $275) Save 13%
 [Buy now](https://1examprep.com/cart/31811593338937:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2020/)
 
 Exam Prep Package
+[Texas 2017 Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
 
-### [Texas 2017 Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
+An exam prep package.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/19316328464441:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2017/)
 
-Jump Start Package (any state)
+## Journeyman Electrician options: combos and complete packages, part 1
 
-### [2020 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
+7 products of the 32 Journeyman Electrician options, from $350.
+
+Jump Start Package (any state)
+[2020 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
+
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31343909077049:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state-2/)
 
 Jump Start Package (any state)
+[2023 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
 
-### [2023 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/41165705216057:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2023-any-state/)
 
-## Journeyman Electrician options: combos and complete packages, part 2
-
-5 products of the 32 Journeyman Electrician options, from $350.
-
 Jump Start Package (any state)
+[2025 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
 
-### [2025 Journeyman Electrician Jump Start Package](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/44070067568697:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2025-any-state/)
 
 Jump Start Package (any state)
+[2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC)](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
 
-### [2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC)](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
+A starter set of books and online practice.
 
 $360 (was $400) Save 10%
 [Buy now](https://1examprep.com/cart/31518024859705:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/jump-start-package-2020-any-state/)
 
 Complete Package (any state)
+[2020 Complete Journeyman Electrician Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
 
-### [2020 Complete Journeyman Electrician Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/39303835254841:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2020-any-state/)
 
 Complete Package (any state)
+[2023 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
 
-### [2023 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
+The books, tabs and course together.
 
 $350 (was $490) Save 29%
 [Buy now](https://1examprep.com/cart/41165580369977:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2023-any-state/)
 
 Complete Package (any state)
+[2025 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
 
-### [2025 Complete Journeyman Electrician Exam Prep Package](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
+The books, tabs and course together.
 
 $350 (was $490) Save 29%
 [Buy now](https://1examprep.com/cart/44069982765113:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/complete-package-2025-any-state/)
@@ -271,15 +300,17 @@ $350 (was $490) Save 29%
 2 products of the 32 Journeyman Electrician options, from $640.
 
 Books and Courses Rental
+[Texas Journeyman Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-electrician/rental-package/)
 
-### [Texas Journeyman Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-electrician/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $640 (was $940) Save 32%
 [Buy now](https://1examprep.com/cart/50516490387513:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/rental-package/)
 
 Ultimate Rental Package
+[Texas Journeyman Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-rental/)
 
-### [Texas Journeyman Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,065 (was $1,465) Save 27%
 [Buy now](https://1examprep.com/cart/50516538359865:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-rental/)
@@ -289,8 +320,9 @@ $1,065 (was $1,465) Save 27%
 1 product of the 32 Journeyman Electrician options, from $350.
 
 Electrician Package
+[Texas 2020 Journeyman Electrician Package](https://passyourtexascontractorexam.com/journeyman-electrician/electrician-package-2020/)
 
-### [Texas 2020 Journeyman Electrician Package](https://passyourtexascontractorexam.com/journeyman-electrician/electrician-package-2020/)
+The books and online practice for an earlier code cycle.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/36981884158009:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-electrician/electrician-package-2020/)

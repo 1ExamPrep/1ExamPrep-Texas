@@ -48,29 +48,33 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course (any state)
+[ICC F13 National Standard Residential Building Contractor (C) Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course/)
 
-### [ICC F13 National Standard Residential Building Contractor (C) Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $195 (was $220) Save 11%
 [Buy now](https://1examprep.com/cart/31693391921209:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course/)
 
 Online Exam Prep Course (any state)
+[ICC G13 National Standard Residential Building Contractor (C) Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course-2/)
 
-### [ICC G13 National Standard Residential Building Contractor (C) Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $195 (was $279) Save 30%
 [Buy now](https://1examprep.com/cart/39353186517049:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course-2/)
 
 Exam Prep Package (any state)
+[ICC F13 National Standard Residential Building Contractor (C) Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package/)
 
-### [ICC F13 National Standard Residential Building Contractor (C) Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package/)
+An exam prep package.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31674237616185:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package/)
 
 Exam Prep Package (any state)
+[ICC G13 National Standard Residential Building Contractor (C) Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package-2/)
 
-### [ICC G13 National Standard Residential Building Contractor (C) Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package-2/)
+An exam prep package.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/39353186779193:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package-2/)

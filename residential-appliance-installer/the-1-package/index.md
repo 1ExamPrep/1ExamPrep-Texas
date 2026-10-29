@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Appliance Installer exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The The 1 Package (all-inclusive) costs $1,815 and is written for the Residential Appliance Installer exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Appliance Installer package
 
 The 1 Package: All-Inclusive Texas Residential Appliance Installer Exam, Licensing & Business Setup Solution Prepare for the Texas Residential Appliance Installer licensing examination while also building the foundation for your contracting business with an all-inclusive exam, licensing, and business setup package.

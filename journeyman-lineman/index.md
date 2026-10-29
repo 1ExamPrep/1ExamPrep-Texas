@@ -52,36 +52,41 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Texas Journeyman Lineman Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-lineman/online-course/)
 
-### [Texas Journeyman Lineman Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-lineman/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/50516455522361:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-lineman/online-course/)
 
 Book Package
+[Texas Journeyman Lineman Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-lineman/book-package/)
 
-### [Texas Journeyman Lineman Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-lineman/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $165 (was $265) Save 38%
 [Buy now](https://1examprep.com/cart/50515130253369:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-lineman/book-package/)
 
 Highlighted and Tabbed Books
+[Texas Journeyman Lineman Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-lineman/highlighted-tabbed/)
 
-### [Texas Journeyman Lineman Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-lineman/highlighted-tabbed/)
+The reference books already highlighted and tabbed.
 
 $345 (was $545) Save 37%
 [Buy now](https://1examprep.com/cart/50516430454841:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-lineman/highlighted-tabbed/)
 
 Books and Courses Rental
+[Texas Journeyman Lineman Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-lineman/rental-package/)
 
-### [Texas Journeyman Lineman Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-lineman/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $640 (was $940) Save 32%
 [Buy now](https://1examprep.com/cart/50516526399545:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-lineman/rental-package/)
 
 Ultimate Rental Package
+[Texas Journeyman Lineman Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-lineman/ultimate-rental/)
 
-### [Texas Journeyman Lineman Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-lineman/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,065 (was $1,465) Save 27%
 [Buy now](https://1examprep.com/cart/50516571881529:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-lineman/ultimate-rental/)

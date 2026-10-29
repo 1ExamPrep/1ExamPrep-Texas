@@ -48,8 +48,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/exam-prep-package/)
 
-### [ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/exam-prep-package/)
+An exam prep package.
 
 $275 (was $310) Save 11%
 [Buy now](https://1examprep.com/cart/31672108122169:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/exam-prep-package/)

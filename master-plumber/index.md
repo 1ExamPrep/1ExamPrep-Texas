@@ -52,8 +52,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Texas Master Plumber Book Package](https://passyourtexascontractorexam.com/master-plumber/book-package/)
 
-### [Texas Master Plumber Book Package](https://passyourtexascontractorexam.com/master-plumber/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%
 [Buy now](https://1examprep.com/cart/50515570950201:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-plumber/book-package/)

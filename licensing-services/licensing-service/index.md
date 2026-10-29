@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the License Application and Business Setup Services exam
 - The service starts after purchase; we contact you for the details
 
+The Licensing Service costs $990 and is written for the License Application and Business Setup Services exam. The service starts after purchase; we contact you for the details, and Buy now takes you straight to checkout.
+
 ## About this License Application and Business Setup Services package
 
 Texas Contractor Application Processing & Business Formation Ultimate Package The Texas Contractor Application Processing & Business Formation Ultimate Package is designed for contractors who want organized help setting up a legal Texas business entity and preparing a Texas contractor license, registration, trade credential, municipal business license, permit-related contractor account, or cont...

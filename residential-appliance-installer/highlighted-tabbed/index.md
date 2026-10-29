@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Appliance Installer exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $345 and is written for the Residential Appliance Installer exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Appliance Installer package
 
 Texas Residential Appliance Installer - Highlighted and Tabbed Book Package Prepare for the Texas Residential Appliance Installer examination with a highlighted and tabbed 2026 National Electrical Code designed to support organized study, faster code navigation, and more efficient open-book exam preparation.

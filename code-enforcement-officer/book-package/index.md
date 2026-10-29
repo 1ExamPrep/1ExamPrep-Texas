@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Enforcement Officer exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $395 and is written for the Code Enforcement Officer exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Code Enforcement Officer package
 
 Texas Code Enforcement Officer (ICC - CE-O) Exam Book Package The Texas Code Enforcement Officer (ICC - CE-O) Exam Book Package is designed for candidates preparing for the ICC Code Enforcement Officer exam using the 2024 International Property Maintenance Code and Strategic Code Enforcement.

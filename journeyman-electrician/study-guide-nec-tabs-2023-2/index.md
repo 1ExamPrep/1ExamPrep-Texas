@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Written to the 2023 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 
+The Study Guide + NEC with Tabs costs $240 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 TEXAS 2023 JOURNEYMAN ELECTRICIAN STUDY GUIDE & NATIONAL ELECTRICAL CODE COMBO WITH TABS The Texas 2023 Journeyman Electrician Study Guide & National Electrical Code Combo with Tabs by Pass Your Texas Contractor Exam is a complete reference package for candidates preparing for the Texas Journeyman Electrician licensing exam under the Texas Department of Licensing and Regulation (TDLR).

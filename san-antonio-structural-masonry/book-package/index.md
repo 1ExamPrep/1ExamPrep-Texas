@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the San Antonio Structural Masonry (84CY) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,445 and is written for the San Antonio Structural Masonry (84CY) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this San Antonio Structural Masonry (84CY) package
 
 San Antonio Texas Structural Masonry Code Module (ICC - 84CY) Exam Book Package The San Antonio Texas Structural Masonry Code Module (ICC - 84CY) Exam Book Package is designed for candidates preparing for the structural masonry code portion of the ICC special inspector exam path using the masonry code, inspector handbook, and ASTM standards listed for this product.

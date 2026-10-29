@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Sign Electrician exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Journeyman Sign Electrician exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Sign Electrician package
 
 Texas Journeyman Sign Electrician - Online Exam Prep Prepare for the Texas Journeyman Sign Electrician licensing examination with a structured online exam-preparation program built around the National Electrical Code, NEC, 2026.

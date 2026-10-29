@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $175 and is written for the Journeyman Plumber exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 Journeyman Plumber Exam Prep Package [2021 IPC] Passing a Journeyman Plumber exam takes more than memorizing a few code sections. You need a working understanding of plumbing systems, the confidence to interpret code language correctly, and the speed to locate answers under time pressure.

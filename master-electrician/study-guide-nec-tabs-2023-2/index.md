@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Written to the 2023 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 
+The Study Guide + NEC with Tabs costs $240 and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician package
 
 TEXAS 2023 MASTER ELECTRICIAN STUDY GUIDE & NATIONAL ELECTRICAL CODE COMBO WITH TABSThe TEXAS 2023 MASTER ELECTRICIAN STUDY GUIDE & NATIONAL ELECTRICAL CODE COMBO WITH TABS, published by Pass Your Texas Contractor Exam, is specifically tailored for electricians preparing for the Texas Master Electrician examination administered by the Texas Department of Licensing and Regulation (TDLR).

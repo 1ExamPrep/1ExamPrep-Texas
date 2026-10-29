@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Master Plumber with Gas exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $409 and is written for the ICC Master Plumber with Gas exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Master Plumber with Gas package
 
 ICC G27 NATIONAL STANDARD MASTER PLUMBER WITH GAS EXAM PREP PACKAGEThe ICC G27 National Standard Master Plumber with Gas Exam Prep Package by Pass Your Texas Contractor Exam is a complete study program for professionals preparing for the ICC Master Plumber with Gas (G27) examination, administered by the International Code Council (ICC).

@@ -48,29 +48,33 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course (any state)
+[ICC F28 National Standard Journeyman Plumber with Gas Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course/)
 
-### [ICC F28 National Standard Journeyman Plumber with Gas Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $195 (was $220) Save 11%
 [Buy now](https://1examprep.com/cart/36976654450745:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course/)
 
 Online Exam Prep Course (any state)
+[ICC G28 National Standard Journeyman Plumber with Gas Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course-2/)
 
-### [ICC G28 National Standard Journeyman Plumber with Gas Exam Prep [Online Course Only]](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $195 (was $220) Save 11%
 [Buy now](https://1examprep.com/cart/39353367298105:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/online-course-2/)
 
 Exam Prep Package (any state)
+[ICC F28 National Standard Journeyman Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package/)
 
-### [ICC F28 National Standard Journeyman Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package/)
+An exam prep package.
 
 $409 (was $455) Save 10%
 [Buy now](https://1examprep.com/cart/31670111141945:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package/)
 
 Exam Prep Package (any state)
+[ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package-2/)
 
-### [ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package-2/)
+An exam prep package.
 
 $409 (was $455) Save 10%
 [Buy now](https://1examprep.com/cart/39353367691321:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package-2/)

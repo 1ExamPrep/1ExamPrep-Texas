@@ -39,6 +39,23 @@ The second is the code year. Texas switched its electrical exams to the 2026 NEC
 
 **Texas licensing.** TDLR electrician and air conditioning licenses, TSBPE plumbing licenses and the city rules that stand in for a state general contractor license. Rules change without much notice, so each post carries the date it was last checked and a link to the board's own page.
 
+## What does a six-week study plan for a Texas license exam look like?
+
+Six weeks at about 90 minutes a day is enough for most journeyman and master candidates who already work in the trade. The plan below is built for the Texas journeyman electrician exam, which PSI gives in two portions: 59 NEC knowledge items in 130 minutes and 26 calculation items in 110 minutes, with a 70 percent passing score on each. Adjust the weeks for your own license; the order of the work stays the same.
+
+1. **Week 1: learn the book, not the answers.** Read the table of contents of the 2026 NEC until you can name the chapter for any topic without looking. Time yourself finding ten random articles a night and write down how long each one took.
+2. **Week 2: mark the book.** Highlight the tables and exceptions you keep coming back to. Highlighting, underlining and notes are allowed if they are done before exam day, but only the publisher's permanent index tabs may be in the book, so plan your marking around those tabs.
+3. **Week 3: calculations.** Work one type of calculation each night: box fill, conductor ampacity with correction factors, voltage drop, service and feeder load. The calculation portion gives you about 4 minutes per item, so practise with a timer from the first night.
+4. **Week 4: first full practice exam.** Sit a complete timed exam in one go. Score it, then sort every miss into one of three piles: did not know the rule, could not find it in time, or misread the question. The pile sizes tell you where weeks 5 and 6 go.
+5. **Week 5: fix the biggest pile.** If you ran out of time, drill lookups. If you did not know the rule, reread those articles. If you misread, slow down on the words "except", "not" and "minimum".
+6. **Week 6: two more timed exams and rest.** Take a full practice exam early in the week and another three days before the test, then stop. The last two days are for sleep, not new material.
+
+## How do you adjust the plan for other Texas exams?
+
+The same six weeks work for the other Texas exams with two changes. Air conditioning and refrigeration candidates swap the NEC for the codes in the PSI bulletin, the 2024 IMC, UMC and IFGC, plus the ACCA manuals for the Environmental Air exams. Plumbing candidates study without the book in the room, because the Texas plumbing written exams are closed book, so weeks 1 and 2 become memorising the code sections the exam is built on rather than learning to find them.
+
+Keep one error log for all six weeks, on paper or in a phone note, whichever you will actually open. Write the question, the code section that answers it and how long it took you, and reread the log every Sunday. Candidates who track their misses this way usually find that most of their lost points come from fewer than ten code sections.
+
 ## Questions we get asked most
 
 ### How long should I study for a Texas electrician exam?

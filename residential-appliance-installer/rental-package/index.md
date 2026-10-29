@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Appliance Installer exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Residential Appliance Installer exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Appliance Installer package
 
 Texas Residential Appliance Installer Books & Course Rental Prepare for the Texas Residential Appliance Installer licensing examination with a complete books and course rental package designed around the National Electrical Code, NEC, 2026.

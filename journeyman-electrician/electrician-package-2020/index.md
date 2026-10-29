@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center, 1 Exam Prep
 - Written to the 2020 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 
+The Electrician Package costs $350 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 TEXAS 2020 Journeyman Electrician PackageThe 2020 Journeyman Electrician Package for Texas is designed to support candidates planning to take the Texas Department of Licensing & Regulation (TDLR) journeyman electrician licensing examination, aligning with the National Electrical Code 2020 (NEC 2020) standards.

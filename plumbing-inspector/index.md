@@ -52,8 +52,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Texas Plumbing Inspector Book Package](https://passyourtexascontractorexam.com/plumbing-inspector/book-package/)
 
-### [Texas Plumbing Inspector Book Package](https://passyourtexascontractorexam.com/plumbing-inspector/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%
 [Buy now](https://1examprep.com/cart/50515672956985:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/plumbing-inspector/book-package/)

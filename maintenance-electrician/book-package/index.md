@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Maintenance Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Maintenance Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Maintenance Electrician package
 
 Texas Maintenance Electrician Book Package Prepare for the Texas Maintenance Electrician examination with the National Electrical Code, NEC, 2026 Edition, the current electrical code reference used for Texas electrician examinations.

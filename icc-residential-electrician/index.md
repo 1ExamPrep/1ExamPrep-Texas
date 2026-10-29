@@ -48,8 +48,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC G18 National Standard Residential Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-electrician/exam-prep-package/)
 
-### [ICC G18 National Standard Residential Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-residential-electrician/exam-prep-package/)
+An exam prep package.
 
 $335 (was $375) Save 11%
 [Buy now](https://1examprep.com/cart/31670546792505:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-residential-electrician/exam-prep-package/)

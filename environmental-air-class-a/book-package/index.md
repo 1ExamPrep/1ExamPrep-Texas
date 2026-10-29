@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ACR Contractor Class A, Environmental Air exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,595 and is written for the ACR Contractor Class A, Environmental Air exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ACR Contractor Class A, Environmental Air package
 
 Texas Environmental Air Class A Contractor Book Package Prepare for the Texas Environmental Air Class A Contractor examination with a comprehensive collection of business, law, mechanical-code, fuel-gas, refrigeration, air-distribution, load-calculation, and equipment-selection references.

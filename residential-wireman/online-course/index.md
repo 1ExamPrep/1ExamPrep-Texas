@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Wireman exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Residential Wireman exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Residential Wireman package
 
 Texas Residential Wireman Electrician - Online Exam Prep Prepare for the Texas Residential Wireman Electrician licensing examination with a structured online exam-preparation program built around the National Electrical Code, NEC, 2026.

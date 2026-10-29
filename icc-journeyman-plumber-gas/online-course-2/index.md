@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Journeyman Plumber with Gas exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195 and is written for the ICC Journeyman Plumber with Gas exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC Journeyman Plumber with Gas package
 
 ICC G28 National Standard Journeyman Plumber with Gas Exam Prep [Online Course Only]The ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Online Course from Pass Your Texas Contractor Exam is designed for individuals pursuing the ICC G28 Journeyman Plumber with Gas credential, a nationally recognized certification under the International Code Council (ICC).

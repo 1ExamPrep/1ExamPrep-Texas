@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Appliance Installer exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Residential Appliance Installer exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Appliance Installer package
 
 Texas Residential Appliance Installer Book Package Prepare for the Texas Residential Appliance Installer examination with the National Electrical Code, NEC, 2026 Edition, the current electrical code reference used for Texas electrician examinations.

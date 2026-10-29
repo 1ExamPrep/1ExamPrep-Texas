@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Building Contractor (B) exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $250 and is written for the ICC Building Contractor (B) exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC Building Contractor (B) package
 
 ICC G12 NATIONAL STANDARD BUILDING CONTRACTOR (B) EXAM PREP [ONLINE COURSE ONLY]The ICC G12 National Standard Building Contractor (B) Exam Prep Online Course by Pass Your Texas Contractor Exam is a digital training program developed to prepare candidates for the ICC National Building Contractor (B) licensing exam.

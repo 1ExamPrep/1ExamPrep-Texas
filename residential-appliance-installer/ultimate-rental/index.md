@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Appliance Installer exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,065 and is written for the Residential Appliance Installer exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Residential Appliance Installer package
 
 Texas Residential Appliance Installer Ultimate Exam Prep Rental Package Prepare for the Texas Residential Appliance Installer licensing examination with a comprehensive Ultimate exam preparation package built around the National Electrical Code, NEC, 2026.

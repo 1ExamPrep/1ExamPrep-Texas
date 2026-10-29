@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Sign Electrician exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Journeyman Sign Electrician exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Sign Electrician package
 
 Texas Journeyman Sign Electrician Books & Course Rental Prepare for the Texas Journeyman Sign Electrician licensing examination with a complete books and course rental package designed to support organized study, code navigation, and focused exam preparation.

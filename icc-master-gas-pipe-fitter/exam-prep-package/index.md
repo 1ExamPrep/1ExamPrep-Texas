@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Master Gas Pipe Fitter exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $290 and is written for the ICC Master Gas Pipe Fitter exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Master Gas Pipe Fitter package
 
 ICC F33 NATIONAL STANDARD MASTER GAS PIPE FITTER EXAM PREP PACKAGEThe ICC F33 National Standard Master Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) standards for the F33 Master Gas Pipe Fitter license.

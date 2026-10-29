@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Residential Building Contractor (C) exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $350 and is written for the ICC Residential Building Contractor (C) exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Residential Building Contractor (C) package
 
 ICC G13 National Standard Residential Building Contractor (C) Exam Prep PackageThe ICC G13 National Standard Residential Building Contractor (C) Exam Prep Package from Pass Your Texas Contractor Exam is developed to prepare candidates for the International Code Council (ICC) G13 examination, which certifies residential building contractors authorized to construct, remodel, and repair one- and two-family dwellings....

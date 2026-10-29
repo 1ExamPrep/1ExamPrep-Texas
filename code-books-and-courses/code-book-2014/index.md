@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books, Courses and Practice Tests exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Code Book costs $49.95 and is written for the Code Books, Courses and Practice Tests exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Code Books, Courses and Practice Tests package
 
 Calculations for Electrical Exam 2014 NECThis reference focuses on calculation methods aligned with the 2014 National Electrical Code, supporting exam preparation for electrical licensing tests by covering load calculations, conductor and overcurrent protection sizing, motor and transformer calculations, voltage drop, box and raceway fill, service and feeder sizing, and other NEC-based quantita...

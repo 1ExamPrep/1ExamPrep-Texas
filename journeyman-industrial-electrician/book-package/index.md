@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Industrial Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Journeyman Industrial Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Industrial Electrician package
 
 Texas Journeyman Industrial Electrician Book Package Prepare for the Texas Journeyman Industrial Electrician examination with the National Electrical Code, NEC, 2026 Edition, the current electrical code reference used for Texas electrician examinations.

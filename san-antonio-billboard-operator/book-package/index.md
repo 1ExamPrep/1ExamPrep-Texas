@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the San Antonio Billboard Operator (975Y) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $95 and is written for the San Antonio Billboard Operator (975Y) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this San Antonio Billboard Operator (975Y) package
 
 Texas San Antonio Billboard Operator (ICC - 975Y) Exam Book Package If you’re preparing for the Texas (San Antonio) Billboard Operator exam (ICC 975Y), the fastest way to feel confident on exam day is to study from the same references the questions are built from.

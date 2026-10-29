@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Books ship from our fulfillment center; online parts arrive by email
 - Written to the 2020 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 
+The Jump Start Package costs $360 and is written for the Journeyman Electrician exam (any state). Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 2020 Journeyman Electrician Jump Start Book Package (w/ Spiral-bound NEC) If you’re preparing for a journeyman electrician exam, you already know the hard part isn’t just “learning the code.” The real challenge is answering questions quickly, staying accurate under time pressure, and proving you can navigate the National Electrical Code when a scenario gets specific.

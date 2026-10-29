@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Study Guide costs $59.95 and is written for the Journeyman Plumber exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 JOURNEYMAN PLUMBER EXAM STUDY GUIDE [BASED ON 2021 INTERNATIONAL PLUMBING CODE]The Journeyman Plumber Exam Study Guide from Pass Your Texas Contractor Exam is designed to prepare candidates for state and local journeyman plumbing licensing exams referencing the 2021 International Plumbing Code (IPC).

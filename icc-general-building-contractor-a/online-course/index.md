@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC General Building Contractor (A) exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195 and is written for the ICC General Building Contractor (A) exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC General Building Contractor (A) package
 
 ICC F11 National Standard General Building Contractor (A) Exam Prep [Online Course Only] The ICC F11 National Standard General Building Contractor (A) Exam Prep Course by Pass Your Texas Contractor Exam provides study resources aligned with the International Code Council (ICC) standards for the General Building Contractor (A) credential.

@@ -52,36 +52,41 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course
+[Texas Journeyman Industrial Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/online-course/)
 
-### [Texas Journeyman Industrial Electrician - Online Exam Prep](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $295 (was $395) Save 25%
 [Buy now](https://1examprep.com/cart/50516456898617:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/online-course/)
 
 Book Package
+[Texas Journeyman Industrial Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/book-package/)
 
-### [Texas Journeyman Industrial Electrician Book Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $165 (was $265) Save 38%
 [Buy now](https://1examprep.com/cart/50515272597561:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/book-package/)
 
 Highlighted and Tabbed Books
+[Texas Journeyman Industrial Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/highlighted-tabbed/)
 
-### [Texas Journeyman Industrial Electrician - Highlighted and Tabbed Book Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/highlighted-tabbed/)
+The reference books already highlighted and tabbed.
 
 $345 (was $545) Save 37%
 [Buy now](https://1examprep.com/cart/50516434255929:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/highlighted-tabbed/)
 
 Books and Courses Rental
+[Texas Journeyman Industrial Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/rental-package/)
 
-### [Texas Journeyman Industrial Electrician Books & Course Rental](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/rental-package/)
+The reference books on rental plus the online course, returned after your exam.
 
 $640 (was $940) Save 32%
 [Buy now](https://1examprep.com/cart/50516532789305:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/rental-package/)
 
 Ultimate Rental Package
+[Texas Journeyman Industrial Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/ultimate-rental/)
 
-### [Texas Journeyman Industrial Electrician Ultimate Exam Prep Rental Package](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/ultimate-rental/)
+Highlighted and tabbed rental books, the online course and live training.
 
 $1,065 (was $1,465) Save 27%
 [Buy now](https://1examprep.com/cart/50516587610169:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-industrial-electrician/ultimate-rental/)

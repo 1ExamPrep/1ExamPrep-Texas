@@ -52,71 +52,81 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Study Guide and Online Course
+[2026 Texas Journeyman Plumber Exam Prep Study Guide & Online Course](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
 
-### [2026 Texas Journeyman Plumber Exam Prep Study Guide & Online Course](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
+The study guide plus the online course.
 
 $119.99 (was $150) Save 20%
 [Buy now](https://1examprep.com/cart/45745371086905:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-online-course-2026/)
 
 Study Guide
+[2026 Texas Journeyman Plumber Exam Prep Study Guide](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2026/)
 
-### [2026 Texas Journeyman Plumber Exam Prep Study Guide](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2026/)
+The printed study guide with practice exams.
 
 $59.99 (was $79) Save 24%
 [Buy now](https://1examprep.com/cart/45745373249593:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2026/)
 
 Book Package
+[Texas Journeyman Plumber Book Package](https://passyourtexascontractorexam.com/journeyman-plumber/book-package/)
 
-### [Texas Journeyman Plumber Book Package](https://passyourtexascontractorexam.com/journeyman-plumber/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $545 (was $645) Save 16%
 [Buy now](https://1examprep.com/cart/50515462684729:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/book-package/)
 
 Complete Package
+[2026 Texas Journeyman Plumber Exam Complete Books, Tabs & Course Package](https://passyourtexascontractorexam.com/journeyman-plumber/complete-package-2026/)
 
-### [2026 Texas Journeyman Plumber Exam Complete Books, Tabs & Course Package](https://passyourtexascontractorexam.com/journeyman-plumber/complete-package-2026/)
+The books, tabs and course together.
 
 $344.99 (was $400) Save 14%
 [Buy now](https://1examprep.com/cart/45745368694841:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/complete-package-2026/)
 
 Ultimate Exam Prep Package
+[Texas Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021/)
 
-### [Texas Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021/)
+The complete exam prep package.
 
 $325 (was $362) Save 10%
 [Buy now](https://1examprep.com/cart/40078855471161:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021/)
 
 Exam Prep Package
+[Texas Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
 
-### [Texas Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
+An exam prep package.
 
 $175 (was $195) Save 10%
 [Buy now](https://1examprep.com/cart/40038681509945:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021/)
 
 Online Exam Prep Course (any state)
+[Journeyman Plumber Exam Prep - Test Success Online Course [Based on 2021 International Plumbing Code]](https://passyourtexascontractorexam.com/journeyman-plumber/online-course-2021-any-state/)
 
-### [Journeyman Plumber Exam Prep - Test Success Online Course [Based on 2021 International Plumbing Code]](https://passyourtexascontractorexam.com/journeyman-plumber/online-course-2021-any-state/)
+An online course with practice exams you can take on a phone or laptop.
 
 $195.95 (was $218) Save 10%
 [Buy now](https://1examprep.com/cart/40078443675705:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/online-course-2021-any-state/)
 
 Study Guide (any state)
+[Journeyman Plumber Exam Study Guide [Based on 2021 International Plumbing Code]](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2021-any-state/)
 
-### [Journeyman Plumber Exam Study Guide [Based on 2021 International Plumbing Code]](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2021-any-state/)
+The printed study guide with practice exams.
 
 $59.95 (was $66.65) Save 10%
 [Buy now](https://1examprep.com/cart/39983467692089:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2021-any-state/)
 
 Ultimate Exam Prep Package (any state)
+[Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021-any-state/)
 
-### [Journeyman Plumber Ultimate Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021-any-state/)
+The complete exam prep package.
 
 $325 (was $362) Save 10%
 [Buy now](https://1examprep.com/cart/40078470873145:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021-any-state/)
 
 Exam Prep Package (any state)
+[Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021-any-state/)
 
-### [Journeyman Plumber Exam Prep Package [2021 IPC]](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021-any-state/)
+An exam prep package.
 
 $175 (was $195) Save 10%
 [Buy now](https://1examprep.com/cart/40037254496313:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/journeyman-plumber/exam-prep-package-2021-any-state/)

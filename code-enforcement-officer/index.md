@@ -52,8 +52,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Texas Code Enforcement Officer (ICC - CE-O) Exam Book Package](https://passyourtexascontractorexam.com/code-enforcement-officer/book-package/)
 
-### [Texas Code Enforcement Officer (ICC - CE-O) Exam Book Package](https://passyourtexascontractorexam.com/code-enforcement-officer/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $395 (was $495) Save 20%
 [Buy now](https://1examprep.com/cart/45947206303801:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-enforcement-officer/book-package/)

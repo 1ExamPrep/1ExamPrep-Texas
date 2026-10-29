@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the NASCLA Electrical Exams exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $350 and is written for the NASCLA Electrical Exams exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this NASCLA Electrical Exams package
 
 NASCLA RESIDENTIAL ELECTRICAL - ONLINE EXAM PREP COURSE The NASCLA Residential Electrical Online Exam Prep Course from Pass Your Texas Contractor Exam is designed to prepare electricians for the NASCLA-accredited residential electrical contractor licensing examination.

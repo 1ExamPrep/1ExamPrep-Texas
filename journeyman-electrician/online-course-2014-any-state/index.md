@@ -36,6 +36,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Online access arrives by email after purchase
 - Written to the 2014 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 
+The Online Exam Prep Course costs $129.95 and is written for the Journeyman Electrician exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Ray Holder's 2014 Journeyman's Electrician Licensing Tests; Online CourseThis online course provides practice exams aligned with the 2014 National Electrical Code for journeyman electrician candidates, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations and essential workplace safety requirements to s...

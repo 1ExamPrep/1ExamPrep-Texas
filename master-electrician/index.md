@@ -52,163 +52,185 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Study Guide and Flash Cards
+[2026 Texas Master Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-flash-cards-2026/)
 
-### [2026 Texas Master Electrician Exam Prep and Study Guide + Flash Card Combo: 12 Practice Exams +2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-flash-cards-2026/)
+The study guide with practice exams plus flash cards.
 
 $99.95 (was $125) Save 20%  to $309.95
 [Buy now](https://1examprep.com/cart/45958987317305:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-flash-cards-2026/)
 
 Study Guide
+[Texas 2023 Master Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-2023/)
 
-### [Texas 2023 Master Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-2023/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/45905665130553:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-2023/)
 
 Study Guide
+[Texas 2026 Master Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-2026/)
 
-### [Texas 2026 Master Electrician Exam Prep and Study Guide: 12 Practice Exams + 2 Full Final Exams](https://passyourtexascontractorexam.com/master-electrician/study-guide-2026/)
+The printed study guide with practice exams.
 
 $59.95 (was $70) Save 14%  to $144.95
 [Buy now](https://1examprep.com/cart/45899898355769:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-2026/)
 
 Study Guide + NEC with Tabs
+[Texas 2020 Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2020/)
 
-### [Texas 2020 Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2020/)
+The study guide, the national electrical code and tabs.
 
 $240 (was $275) Save 13%
 [Buy now](https://1examprep.com/cart/31820159189049:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2020/)
 
 Study Guide + NEC with Tabs
+[Texas 2023 Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023-2/)
 
-### [Texas 2023 Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023-2/)
+The study guide, the national electrical code and tabs.
 
 $240 (was $275) Save 13%
 [Buy now](https://1examprep.com/cart/41175606460473:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023-2/)
 
 Study Guide + NEC with Tabs
+[2023 Texas Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023/)
 
-### [2023 Texas Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023/)
+The study guide, the national electrical code and tabs.
 
 $249.95 (was $280) Save 11%  to $339.95
 [Buy now](https://1examprep.com/cart/46206976917561:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2023/)
 
 Study Guide + NEC with Tabs
+[2026 Texas Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2026/)
 
-### [2026 Texas Master Electrician Study Guide & National Electrical Code Combo with Tabs](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2026/)
+The study guide, the national electrical code and tabs.
 
 $249.95 (was $350) Save 29%  to $339.95
 [Buy now](https://1examprep.com/cart/46021212176441:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2026/)
 
 Study Guide + Calculations + NEC
+[2023 Texas Master Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2023/)
 
-### [2023 Texas Master Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2023/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46209769275449:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2023/)
 
 Study Guide + Calculations + NEC
+[2026 Texas Master Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2026/)
 
-### [2026 Texas Master Electrician + Electrician Calculations Study Guides & National Electrical Code Combo](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2026/)
+The study guide, the calculations guide and the national electrical code.
 
 $279.95 (was $315) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46207415615545:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/study-guide-calculations-nec-2026/)
 
 ## Master Electrician options: combos and complete packages, part 1
 
-12 products of the 23 Master Electrician options, from $240.
+10 products of the 23 Master Electrician options, from $240.
 
 Super Combo
+[2023 Texas Master Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code +Tabs Super Combo](https://passyourtexascontractorexam.com/master-electrician/super-combo-2023/)
 
-### [2023 Texas Master Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code +Tabs Super Combo](https://passyourtexascontractorexam.com/master-electrician/super-combo-2023/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213497847865:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/super-combo-2023/)
 
 Super Combo
+[2026 Texas Master Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/master-electrician/super-combo-2026/)
 
-### [2026 Texas Master Electrician + Electrician Calculations Study Guides + Flash Cards & National Electrical Code + Tabs Super Combo](https://passyourtexascontractorexam.com/master-electrician/super-combo-2026/)
+Study guide, calculations guide, flash cards, the nec and tabs.
 
 $349.95 (was $395) Save 11%  to $399.95
 [Buy now](https://1examprep.com/cart/46213823397945:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/super-combo-2026/)
 
 Complete Package
+[Texas 2020 Complete Master Electrician Book Package](https://passyourtexascontractorexam.com/master-electrician/complete-package-2020/)
 
-### [Texas 2020 Complete Master Electrician Book Package](https://passyourtexascontractorexam.com/master-electrician/complete-package-2020/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31820521177145:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/complete-package-2020/)
 
 Complete Package
+[Texas 2023 Complete Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/complete-package-2023/)
 
-### [Texas 2023 Complete Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/complete-package-2023/)
+The books, tabs and course together.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/41174376775737:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/complete-package-2023/)
 
 Ultimate Combo
+[2023 Texas Master Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2023/)
 
-### [2023 Texas Master Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2023/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46290870140985:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2023/)
 
 Ultimate Combo
+[2026 Texas Master Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2026/)
 
-### [2026 Texas Master Electrician Exam Prep Study Guides & Code Book Ultimate Combo](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2026/)
+The full study set plus the online test kit.
 
 $399.95 (was $495) Save 19%  to $499.95
 [Buy now](https://1examprep.com/cart/46454113665081:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/ultimate-combo-2026/)
 
 Study Package with NEC Course
+[2023 Texas Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2023/)
 
-### [2023 Texas Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2023/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46285799522361:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2023/)
 
 Study Package with NEC Course
+[2026 Texas Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2026/)
 
-### [2026 Texas Master Electrician Exam Prep Study Package Includes Instructor Led NEC Course](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2026/)
+The study package plus an instructor-led nec course.
 
 $499.95 (was $650) Save 23%
 [Buy now](https://1examprep.com/cart/46295125590073:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/nec-course-package-2026/)
 
 Exam Prep Package
+[Texas 2020 Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2020/)
 
-### [Texas 2020 Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2020/)
+An exam prep package.
 
 $240 (was $275) Save 13%  to $770
 [Buy now](https://1examprep.com/cart/31522240987193:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2020/)
 
 Exam Prep Package
+[Texas 2017 Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2017/)
 
-### [Texas 2017 Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2017/)
+An exam prep package.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/19296986267705:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2017/)
 
-Jump Start Package (any state)
+## Master Electrician options: combos and complete packages, part 1
 
-### [2020 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2020-any-state/)
+3 products of the 23 Master Electrician options, from $350.
+
+Jump Start Package (any state)
+[2020 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2020-any-state/)
+
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/31487617531961:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2020-any-state/)
 
 Jump Start Package (any state)
+[2023 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2023-any-state/)
 
-### [2023 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2023-any-state/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/41166301364281:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2023-any-state/)
 
-## Master Electrician option: combos and complete packages, part 2
-
-1 product of the 23 Master Electrician options, from $350.
-
 Jump Start Package (any state)
+[2025 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2025-any-state/)
 
-### [2025 Master Electrician Jump Start Package](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2025-any-state/)
+A starter set of books and online practice.
 
 $350 (was $390) Save 10%
 [Buy now](https://1examprep.com/cart/44070234423353:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/jump-start-package-2025-any-state/)
@@ -218,8 +240,9 @@ $350 (was $390) Save 10%
 1 product of the 23 Master Electrician options, from $129.95.
 
 Online Exam Prep Course (any state)
+[Ray Holder's 2014 Master Electrician Exam Questions Tests; Online Course](https://passyourtexascontractorexam.com/master-electrician/online-course-2014-any-state/)
 
-### [Ray Holder's 2014 Master Electrician Exam Questions Tests; Online Course](https://passyourtexascontractorexam.com/master-electrician/online-course-2014-any-state/)
+An online course with practice exams you can take on a phone or laptop.
 
 $129.95 (was $145) Save 10%
 [Buy now](https://1examprep.com/cart/38958192077:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/master-electrician/online-course-2014-any-state/)

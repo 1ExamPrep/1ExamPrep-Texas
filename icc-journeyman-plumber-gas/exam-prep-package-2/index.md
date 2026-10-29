@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Journeyman Plumber with Gas exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $409 and is written for the ICC Journeyman Plumber with Gas exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Journeyman Plumber with Gas package
 
 ICC G28 National Standard Journeyman Plumber with Gas Exam Prep PackageThe ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Package from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G28 examination, which certifies journeyman plumbers authorized to install, maintain, and repair plumbing systems including gas piping in accordance with the International ...

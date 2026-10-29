@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Journeyman Gas Pipe Fitter exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $275 and is written for the ICC Journeyman Gas Pipe Fitter exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Journeyman Gas Pipe Fitter package
 
 ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep PackageThe ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides complete preparation for the International Code Council (ICC) F34 certification exam, which validates a tradesperson’s competence in installing, maintaining, and testing gas piping systems in accordance with national fuel gas co...

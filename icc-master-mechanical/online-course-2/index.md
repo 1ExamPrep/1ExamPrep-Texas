@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Master Mechanical exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195 and is written for the ICC National Standard Master Mechanical exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Master Mechanical package
 
 ICC G29 National Standard Master Mechanical Exam Prep [Online Course Only]The ICC G29 National Standard Master Mechanical Exam Prep online course from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G29 Master Mechanical certification, recognized by authorities having jurisdiction for mechanical contractor licensing.

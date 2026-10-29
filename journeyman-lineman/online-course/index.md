@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Lineman exam
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $295 and is written for the Journeyman Lineman exam. Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Lineman package
 
 Texas Journeyman Lineman Electrician - Online Exam Prep Prepare for the Texas Journeyman Lineman Electrician licensing examination with structured online exam preparation built around the National Electrical Code, NEC, 2026.

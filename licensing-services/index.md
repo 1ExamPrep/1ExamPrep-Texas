@@ -48,22 +48,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Licensing Service
+[Texas Contractor License Application Service](https://passyourtexascontractorexam.com/licensing-services/licensing-service-2/)
 
-### [Texas Contractor License Application Service](https://passyourtexascontractorexam.com/licensing-services/licensing-service-2/)
+Help preparing and filing the license application or business setup.
 
 $495 (was $695) Save 29%
 [Buy now](https://1examprep.com/cart/45954469101625:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/licensing-services/licensing-service-2/)
 
 Licensing Service
+[Texas Corporation or LLC Filing Registration Formation Setup](https://passyourtexascontractorexam.com/licensing-services/licensing-service-3/)
 
-### [Texas Corporation or LLC Filing Registration Formation Setup](https://passyourtexascontractorexam.com/licensing-services/licensing-service-3/)
+Help preparing and filing the license application or business setup.
 
 $495 (was $595) Save 17%
 [Buy now](https://1examprep.com/cart/45955628302393:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/licensing-services/licensing-service-3/)
 
 Licensing Service
+[Texas Contractor Application Processing & Business Formation Ultimate Package](https://passyourtexascontractorexam.com/licensing-services/licensing-service/)
 
-### [Texas Contractor Application Processing & Business Formation Ultimate Package](https://passyourtexascontractorexam.com/licensing-services/licensing-service/)
+Help preparing and filing the license application or business setup.
 
 $990 (was $1,200) Save 18%
 [Buy now](https://1examprep.com/cart/45956362371129:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/licensing-services/licensing-service/)

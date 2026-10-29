@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ACR Contractor Class B, Commercial Refrigeration exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $1,045 and is written for the ACR Contractor Class B, Commercial Refrigeration exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ACR Contractor Class B, Commercial Refrigeration package
 
 Texas Commercial Refrigeration Class B Contractor Book Package Prepare for the Texas Commercial Refrigeration Class B Contractor examination with a focused collection of Texas licensing references, current mechanical and fuel-gas codes, refrigeration technical material, workplace safety information, and air-distribution resources.

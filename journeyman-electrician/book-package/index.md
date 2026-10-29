@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Journeyman Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Electrician package
 
 Texas Journeyman Electrician Book Package Prepare for the Texas Journeyman Electrician examination with the National Electrical Code, NEC, 2026 Edition, the current code reference used for Texas electrician examinations effective September 1, 2026.

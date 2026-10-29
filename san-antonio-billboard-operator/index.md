@@ -52,8 +52,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Book Package
+[Texas San Antonio Billboard Operator (ICC - 975Y) Exam Book Package](https://passyourtexascontractorexam.com/san-antonio-billboard-operator/book-package/)
 
-### [Texas San Antonio Billboard Operator (ICC - 975Y) Exam Book Package](https://passyourtexascontractorexam.com/san-antonio-billboard-operator/book-package/)
+The reference books the exam is written to, new and unmarked.
 
 $95 (was $195) Save 51%
 [Buy now](https://1examprep.com/cart/45933841940537:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/san-antonio-billboard-operator/book-package/)

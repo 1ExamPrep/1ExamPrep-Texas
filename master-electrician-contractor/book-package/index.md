@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician and Electrical Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Master Electrician and Electrical Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician and Electrical Contractor package
 
 Texas Master Electrical Contractor Book Package Prepare for the Texas Master Electrician examination and the technical responsibilities associated with operating or qualifying an electrical contracting business with the National Electrical Code, NEC, 2026 Edition.

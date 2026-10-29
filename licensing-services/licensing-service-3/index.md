@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the License Application and Business Setup Services exam
 - The service starts after purchase; we contact you for the details
 
+The Licensing Service costs $495 and is written for the License Application and Business Setup Services exam. The service starts after purchase; we contact you for the details, and Buy now takes you straight to checkout.
+
 ## About this License Application and Business Setup Services package
 
 Texas Corporation or LLC Filing Registration Formation Setup The Texas Corporation or LLC Filing Registration Formation Setup service is designed for contractors, business owners, entrepreneurs, tradespeople, consultants, and startup operators who want organized help forming a legal business entity in Texas.

@@ -48,22 +48,25 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Exam Prep Course (any state)
+[NASCLA Residential Electrical - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course-3/)
 
-### [NASCLA Residential Electrical - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course-3/)
+An online course with practice exams you can take on a phone or laptop.
 
 $350 (was $389) Save 10%
 [Buy now](https://1examprep.com/cart/41314834153529:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/nascla-electrical/online-course-3/)
 
 Online Exam Prep Course (any state)
+[NASCLA Journeyman Electrician Exam - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course/)
 
-### [NASCLA Journeyman Electrician Exam - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $495) Save 20%  to $595
 [Buy now](https://1examprep.com/cart/46432396967993:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/nascla-electrical/online-course/)
 
 Online Exam Prep Course (any state)
+[NASCLA Master Unlimited Electrical Contractor Exam - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course-2/)
 
-### [NASCLA Master Unlimited Electrical Contractor Exam - Online Exam Prep Course](https://passyourtexascontractorexam.com/nascla-electrical/online-course-2/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $495) Save 20%  to $695
 [Buy now](https://1examprep.com/cart/46432394018873:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/nascla-electrical/online-course-2/)

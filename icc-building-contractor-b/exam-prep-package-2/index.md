@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Building Contractor (B) exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $698 and is written for the ICC Building Contractor (B) exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC Building Contractor (B) package
 
 ICC G12 NATIONAL STANDARD BUILDING CONTRACTOR (B) EXAM PREP PACKAGEThe ICC G12 National Standard Building Contractor (B) Exam Prep Package by Pass Your Texas Contractor Exam provides comprehensive preparation for candidates seeking the Building Contractor (B) credential under the International Code Council (ICC).

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Master Plumber exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $290 and is written for the ICC National Standard Master Plumber exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Master Plumber package
 
 ICC G24 NATIONAL STANDARD MASTER PLUMBER EXAM PREP PACKAGEThe ICC G24 National Standard Master Plumber Exam Prep Package by Pass Your Texas Contractor Exam is designed to help candidates prepare for the ICC Master Plumber (G24) examination, administered by the International Code Council (ICC).

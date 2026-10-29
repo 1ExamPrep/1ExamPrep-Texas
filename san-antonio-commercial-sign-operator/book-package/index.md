@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the San Antonio Commercial Sign Operator (974Y) exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $95 and is written for the San Antonio Commercial Sign Operator (974Y) exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this San Antonio Commercial Sign Operator (974Y) package
 
 Texas San Antonio Commercial Sign Operator (ICC - 974Y) Exam Book Package When you’re getting ready for the Texas (San Antonio) Commercial Sign Operator exam (ICC 974Y), the smartest way to study is with the exact ordinance reference the exam is built on.

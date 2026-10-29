@@ -48,15 +48,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC F25 National Standard Journeyman Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package/)
 
-### [ICC F25 National Standard Journeyman Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package/)
+An exam prep package.
 
 $290 (was $325) Save 11%
 [Buy now](https://1examprep.com/cart/31670073229369:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package/)
 
 Exam Prep Package (any state)
+[ICC G25 National Standard Journeyman Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package-2/)
 
-### [ICC G25 National Standard Journeyman Plumber Exam Prep Package](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package-2/)
+An exam prep package.
 
 $290 (was $325) Save 11%
 [Buy now](https://1examprep.com/cart/39347464110137:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-journeyman-plumber/exam-prep-package-2/)

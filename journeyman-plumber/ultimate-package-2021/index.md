@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Ultimate Exam Prep Package costs $325 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 TEXAS JOURNEYMAN PLUMBER ULTIMATE EXAM PREP PACKAGE [2021 IPC]The Texas Journeyman Plumber Ultimate Exam Prep Package, offered by Pass Your Texas Contractor Exam, provides a complete set of study materials aligned with the Texas State Board of Plumbing Examiners (TSBPE) requirements.

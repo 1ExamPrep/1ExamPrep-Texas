@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books, Courses and Practice Tests exam (any state)
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $125 and is written for the Code Books, Courses and Practice Tests exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Code Books, Courses and Practice Tests package
 
 ONLINE COURSE REVIEW TO THE INTERNATIONAL BUILDING CODE (IBC)®The Online Course Review to the International Building Code (IBC)® by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Master Electrician exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $350 and is written for the ICC National Standard Master Electrician exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Master Electrician package
 
 ICC G16 National Standard Master Electrician Exam Prep Package The ICC G16 National Standard Master Electrician Exam Prep Package from Pass Your Texas Contractor Exam is designed for individuals seeking master electrician certification under the International Code Council (ICC).

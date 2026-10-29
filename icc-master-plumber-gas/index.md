@@ -48,15 +48,17 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC F27 National Standard Master Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package/)
 
-### [ICC F27 National Standard Master Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package/)
+An exam prep package.
 
 $409 (was $455) Save 10%
 [Buy now](https://1examprep.com/cart/31670106226745:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package/)
 
 Exam Prep Package (any state)
+[ICC G27 National Standard Master Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package-2/)
 
-### [ICC G27 National Standard Master Plumber with Gas Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package-2/)
+An exam prep package.
 
 $409 (was $455) Save 10%
 [Buy now](https://1examprep.com/cart/39347459194937:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package-2/)

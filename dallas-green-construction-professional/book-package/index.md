@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Dallas Commercial Green Construction Professional exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $295 and is written for the Dallas Commercial Green Construction Professional exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Dallas Commercial Green Construction Professional package
 
 Dallas Texas Commercial Green Construction Professional - (ICC - GCP) Exam Book Package The Dallas Texas Commercial Green Construction Professional - (ICC - GCP) Exam Book Package is designed for candidates preparing for the ICC Commercial Green Construction Professional exam using the 2021 International Green Construction Code.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician and Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Books and Courses Rental costs $640 and is written for the Master Electrician and Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician and Electrical Contractor package
 
 Texas Master Electrical Contractor Books & Course Rental Prepare for the Texas Master Electrician licensing examination with a complete books and course rental package built around the National Electrical Code, NEC, 2026.

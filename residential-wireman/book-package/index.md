@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Residential Wireman exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $165 and is written for the Residential Wireman exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Residential Wireman package
 
 Texas Residential Wireman Electrician Book Package Prepare for the Texas Residential Wireman Electrician examination with the National Electrical Code, NEC, 2026 Edition, the current code reference for Texas electrician examinations. Texas adopted the 2026 National Electrical Code effective September 1, 2026, and the Texas Residential Wireman examination is now referenced to this code edition.

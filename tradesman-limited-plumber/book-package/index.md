@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Tradesman Plumber-Limited exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $745 and is written for the Tradesman Plumber-Limited exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Tradesman Plumber-Limited package
 
 Texas Tradesman Limited Plumber Book Package Prepare for the Texas Tradesman Plumber-Limited examination with a focused collection of residential plumbing, fuel-gas, and plumbing-code references.

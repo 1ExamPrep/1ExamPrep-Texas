@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC Residential Building Contractor (C) exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195 and is written for the ICC Residential Building Contractor (C) exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC Residential Building Contractor (C) package
 
 ICC F13 National Standard Residential Building Contractor (C) Exam Prep [Online Course Only]The ICC F13 National Standard Residential Building Contractor (C) Exam Prep Course by Pass Your Texas Contractor Exam is designed to prepare candidates for the International Code Council (ICC) F13 examination, which certifies residential building contractors under the authority of the ICC.

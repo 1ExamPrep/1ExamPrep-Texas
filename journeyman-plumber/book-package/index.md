@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $545 and is written for the Journeyman Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 Texas Journeyman Plumber Book Package Prepare for the Texas Journeyman Plumber examination with a focused collection of plumbing and fuel-gas references selected for Texas exam study.

@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC General Building Contractor (A) exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $468 and is written for the ICC General Building Contractor (A) exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC General Building Contractor (A) package
 
 ICC F11 NATIONAL STANDARD GENERAL BUILDING CONTRACTOR (A) EXAM PREP PACKAGEThe ICC F11 National Standard General Building Contractor (A) Exam Prep Package by Pass Your Texas Contractor Exam provides comprehensive study materials aligned with the International Code Council (ICC) requirements for the General Building Contractor (A) certification.

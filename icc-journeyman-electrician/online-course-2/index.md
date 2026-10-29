@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Journeyman Electrician exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $250 and is written for the ICC National Standard Journeyman Electrician exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Journeyman Electrician package
 
 ICC G17 National Standard Journeyman Electrician - Online Exam Prep CourseThe ICC G17 National Standard Journeyman Electrician Online Exam Prep Course from Pass Your Texas Contractor Exam is designed for electricians seeking certification under the International Code Council (ICC) licensing standards.

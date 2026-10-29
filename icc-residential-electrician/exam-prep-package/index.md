@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Residential Electrician exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $335 and is written for the ICC National Standard Residential Electrician exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Residential Electrician package
 
 ICC G18 National Standard Residential Electrician Exam Prep PackageThe ICC G18 National Standard Residential Electrician Exam Prep Package from Pass Your Texas Contractor Exam provides structured study materials aligned with the International Code Council’s (ICC) G18 credential requirements.

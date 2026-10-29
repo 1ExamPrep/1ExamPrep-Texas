@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Plumber exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $545 and is written for the Master Plumber exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Plumber package
 
 Texas Master Plumber Book Package Prepare for the Texas Master Plumber examination with a focused plumbing-code package built around the technical references identified for Texas plumbing exam preparation.

@@ -48,8 +48,9 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Exam Prep Package (any state)
+[ICC G16 National Standard Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-electrician/exam-prep-package/)
 
-### [ICC G16 National Standard Master Electrician Exam Prep Package](https://passyourtexascontractorexam.com/icc-master-electrician/exam-prep-package/)
+An exam prep package.
 
 $350 (was $389.50) Save 10%
 [Buy now](https://1examprep.com/cart/31663876931641:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/icc-master-electrician/exam-prep-package/)

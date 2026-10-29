@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician and Electrical Contractor exam
 - Books ship from our fulfillment center; online parts arrive by email
 
+The Ultimate Rental Package costs $1,065 and is written for the Master Electrician and Electrical Contractor exam. Books ship from our fulfillment center; online parts arrive by email, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician and Electrical Contractor package
 
 Texas Master Electrical Contractor Ultimate Exam Prep Rental Package Prepare for the Texas Master Electrician licensing examination with an Ultimate exam preparation package built around the National Electrical Code, NEC, 2026.

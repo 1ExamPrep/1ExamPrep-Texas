@@ -48,36 +48,41 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 Buy now adds the item to your cart and opens secure checkout at 1 Exam Prep. Details shows the full description first.
 
 Online Practice Exams (any state)
+[Online Practice Exam for Code of Federal Regulations, (OSHA) 29 Part 1926](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-3/)
 
-### [Online Practice Exam for Code of Federal Regulations, (OSHA) 29 Part 1926](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-3/)
+Timed practice questions online, with explanations.
 
 $59.95 (was $66.95) Save 10%
 [Buy now](https://1examprep.com/cart/18797677117497:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-3/)
 
 Online Practice Exams (any state)
+[Online Course Review to the International Plumbing Code (IPC)®](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-2/)
 
-### [Online Course Review to the International Plumbing Code (IPC)®](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-2/)
+Timed practice questions online, with explanations.
 
 $79.99 (was $129.99) Save 38%
 [Buy now](https://1examprep.com/cart/18815500517433:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-2/)
 
 Online Practice Exams (any state)
+[Online Course Review to the International Building Code (IBC)®](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams/)
 
-### [Online Course Review to the International Building Code (IBC)®](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams/)
+Timed practice questions online, with explanations.
 
 $125 (was $140) Save 11%
 [Buy now](https://1examprep.com/cart/18815488491577:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams/)
 
 Online Exam Prep Course (any state)
+[National Electrical Code Webinar - Complete Series [Parts 1 - 5]](https://passyourtexascontractorexam.com/code-books-and-courses/online-course/)
 
-### [National Electrical Code Webinar - Complete Series [Parts 1 - 5]](https://passyourtexascontractorexam.com/code-books-and-courses/online-course/)
+An online course with practice exams you can take on a phone or laptop.
 
 $395 (was $440) Save 10%
 [Buy now](https://1examprep.com/cart/31291007205433:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-books-and-courses/online-course/)
 
 Code Book (any state)
+[Calculations for Electrical Exam 2014 NEC](https://passyourtexascontractorexam.com/code-books-and-courses/code-book-2014/)
 
-### [Calculations for Electrical Exam 2014 NEC](https://passyourtexascontractorexam.com/code-books-and-courses/code-book-2014/)
+The printed code book.
 
 $49.95 (was $55.50) Save 10%
 [Buy now](https://1examprep.com/cart/39389084877:1?attributes%5BSite%5D=passyourtexascontractorexam.com&ref=passyourtexascontractorexam.com) · [Details](https://passyourtexascontractorexam.com/code-books-and-courses/code-book-2014/)

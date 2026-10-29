@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Master Electrician and Electrical Contractor exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $345 and is written for the Master Electrician and Electrical Contractor exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Master Electrician and Electrical Contractor package
 
 Texas Master Electrical Contractor - Highlighted and Tabbed Book Package Prepare for the Texas Master Electrician examination with a highlighted and tabbed 2026 National Electrical Code designed to make code navigation more efficient during study and exam preparation.

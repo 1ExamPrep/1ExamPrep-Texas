@@ -37,6 +37,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written to the 2020 code cycle. Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Options from $240 to $770, chosen above before checkout
 
+The Exam Prep Package costs $240 to $770 with the options above and is written for the Master Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 **Options at checkout:** Get Started Package; Jump Start Package; Power Up Package; Ultimate Package. Pick one above and the price updates.
 
 ## About this Master Electrician package

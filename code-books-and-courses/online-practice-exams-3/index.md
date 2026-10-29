@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Code Books, Courses and Practice Tests exam (any state)
 - Online access arrives by email after purchase
 
+The Online Practice Exams costs $59.95 and is written for the Code Books, Courses and Practice Tests exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Code Books, Courses and Practice Tests package
 
 ONLINE PRACTICE EXAM FOR CODE OF FEDERAL REGULATIONS, (OSHA) 29 PART 1926The ONLINE PRACTICE EXAM FOR CODE OF FEDERAL REGULATIONS, (OSHA) 29 PART 1926, offered by Pass Your Texas Contractor Exam, provides structured test preparation aligned with the U.S. Department of Labor’s Occupational Safety and Health Administration (OSHA) standards for construction safety and health.

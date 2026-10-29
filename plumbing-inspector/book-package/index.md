@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Plumbing Inspector exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Book Package costs $545 and is written for the Plumbing Inspector exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Plumbing Inspector package
 
 Texas Plumbing Inspector Book Package Prepare for the Texas Plumbing Inspector examination with a focused set of technical references covering plumbing systems, fuel-gas installations, water heaters, drainage, venting, water distribution, fixtures, piping materials, and code-compliant installation practices.

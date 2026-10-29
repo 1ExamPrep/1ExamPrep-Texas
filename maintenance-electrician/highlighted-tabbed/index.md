@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Maintenance Electrician exam
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Highlighted and Tabbed Books costs $345 and is written for the Maintenance Electrician exam. Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this Maintenance Electrician package
 
 Texas Maintenance Electrician - Highlighted and Tabbed Book Package Prepare for the Texas Maintenance Electrician examination with a highlighted and tabbed 2026 National Electrical Code designed to support faster code navigation, organized study, and efficient open-book exam preparation.

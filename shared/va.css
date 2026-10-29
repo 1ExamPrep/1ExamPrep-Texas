@@ -94,3 +94,4 @@ html:not([data-list]) .va-lic:hover b,[data-list="1"] .va-lic:hover b{color:var(
 .tx-qf dl{margin:0 0 1rem}.tx-qf dt{font-size:.75rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:.8rem}.tx-qf dd{margin:.15rem 0 0;font-weight:600}
 .tx-qf .btn{width:100%;text-align:center}.tx-qf-h{font-family:var(--font-display);font-weight:800;font-size:1.25rem;margin:0}.tx-qf-call{font-size:.88rem;color:var(--muted);margin:.7rem 0 0}
 .tx-collage img{display:block;width:100%;height:100%;object-fit:cover}
+.pc-what{margin:.1rem 0 0;font-size:.85rem;line-height:1.4;color:var(--muted)}.included-sum{margin:.8rem 0 0;color:var(--muted)}

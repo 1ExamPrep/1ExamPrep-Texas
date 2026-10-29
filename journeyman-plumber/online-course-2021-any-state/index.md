@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the Journeyman Plumber exam (any state)
 - Online access arrives by email after purchase
 
+The Online Exam Prep Course costs $195.95 and is written for the Journeyman Plumber exam (any state). Online access arrives by email after purchase, and Buy now takes you straight to checkout.
+
 ## About this Journeyman Plumber package
 
 JOURNEYMAN PLUMBER EXAM PREP - TEST SUCCESS ONLINE COURSE [BASED ON 2021 INTERNATIONAL PLUMBING CODE]The Journeyman Plumber Exam Prep – Test Success Online Course from Pass Your Texas Contractor Exam provides structured training aligned with the 2021 International Plumbing Code (IPC), preparing candidates for journeyman plumber licensing exams recognized by state and local licensing boards.

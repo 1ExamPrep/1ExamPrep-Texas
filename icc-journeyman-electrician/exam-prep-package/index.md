@@ -35,6 +35,8 @@ Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 - Written for the ICC National Standard Journeyman Electrician exam (any state)
 - Books ship from our fulfillment center, 1 Exam Prep
 
+The Exam Prep Package costs $350 and is written for the ICC National Standard Journeyman Electrician exam (any state). Books ship from our fulfillment center, 1 Exam Prep, and Buy now takes you straight to checkout.
+
 ## About this ICC National Standard Journeyman Electrician package
 
 ICC G17 National Standard Journeyman Electrician Exam Prep PackageThe ICC G17 National Standard Journeyman Electrician Exam Prep Package by Pass Your Texas Contractor Exam provides comprehensive study materials designed to prepare candidates for the International Code Council (ICC) G17 examination, which evaluates knowledge required for journeyman electrician certification.
