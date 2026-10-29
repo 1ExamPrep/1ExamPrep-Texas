@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Exam Prep
 url: https://passyourtexascontractorexam.com/journeyman-plumber/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Journeyman Plumber exam prep for Texas: 10 options from $59.95 to $545, including book package, complete package, exam prep package. One-click checkout.
 ---
@@ -45,7 +45,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - TSBPE charges $40 to apply for the exam and $40 for the license.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 10 Journeyman Plumber packages
 
@@ -215,7 +215,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

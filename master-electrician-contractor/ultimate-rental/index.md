@@ -1,7 +1,7 @@
 ---
 title: Master Electrician and Electrical Contractor Ultimate
 url: https://passyourtexascontractorexam.com/master-electrician-contractor/ultimate-rental/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Ultimate Rental Package for the Texas Master Electrician and Electrical Contractor exam: highlighted and tabbed rental books, the online course and live.
 ---
@@ -27,7 +27,7 @@ $1,065 (was $1,465) Save 27% [Buy now, go to checkout](https://1examprep.com/car
 - The Electrical Contractor license costs $110 a year and needs liability insurance of $300,000 per occurrence and $600,000 aggregate.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Rental Package include?
 
@@ -94,7 +94,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

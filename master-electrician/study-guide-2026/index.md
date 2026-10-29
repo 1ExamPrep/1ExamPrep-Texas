@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Study Guide (2026)
 url: https://passyourtexascontractorexam.com/master-electrician/study-guide-2026/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Study Guide for the Texas Master Electrician exam: the printed study guide with practice exams. $59.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.95 (was $70) Save 14% [Buy now, go to checkout](https://1examprep.com/cart/4
 - The PSI exam has two portions: 75 NEC knowledge items in 150 minutes and 33 calculation items in 170 minutes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide include?
 
@@ -93,7 +93,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

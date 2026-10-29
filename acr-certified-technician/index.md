@@ -1,7 +1,7 @@
 ---
 title: Texas Certified Air Conditioning and Refrigeration
 url: https://passyourtexascontractorexam.com/acr-certified-technician/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Certified Air Conditioning and Refrigeration Technician exam prep for Texas: 1 option from $1,045 to $1,045, including book package. One-click checkout.
 ---
@@ -45,7 +45,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - The TDLR application fee is $50 and the applicant must be at least 18.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Certified Air Conditioning and Refrigeration Technician package
 
@@ -144,7 +144,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TDLR ACR exams](https://www.tdlr.texas.gov/acr/acrexam.htm)
 - [PSI Texas ACR candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/554)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

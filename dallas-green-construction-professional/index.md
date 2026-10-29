@@ -1,7 +1,7 @@
 ---
 title: Dallas Commercial Green Construction Professional Exam Prep
 url: https://passyourtexascontractorexam.com/dallas-green-construction-professional/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Dallas Commercial Green Construction Professional exam prep for Texas: 1 option from $295 to $295, including book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Cities set their own registration rules, and some, such as San Antonio, require an ICC exam for certain trades.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 Dallas Commercial Green Construction Professional package
 
@@ -135,7 +135,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Dallas third-party green providers](https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/dallas_third_party.aspx)
 - [TDLR code enforcement officers](https://www.tdlr.texas.gov/ceo/ceoapply.htm)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Texas Plumbing Inspector Book Package
 url: https://passyourtexascontractorexam.com/plumbing-inspector/book-package/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Book Package for the Texas Plumbing Inspector exam: the reference books the exam is written to, new and unmarked. $545. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $545 (was $645) Save 16% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The exam fee, the license fee and the renewal fee are each $55.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -90,7 +90,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Texas San Antonio Structural Masonry (84CY) Exam Prep
 url: https://passyourtexascontractorexam.com/san-antonio-structural-masonry/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: San Antonio Structural Masonry (84CY) exam prep for Texas: 1 option from $1,445 to $1,445, including book package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Cities set their own registration rules, and some, such as San Antonio, require an ICC exam for certain trades.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 San Antonio Structural Masonry (84CY) package
 
@@ -135,7 +135,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [Dallas third-party green providers](https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/dallas_third_party.aspx)
 - [TDLR code enforcement officers](https://www.tdlr.texas.gov/ceo/ceoapply.htm)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

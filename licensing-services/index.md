@@ -1,7 +1,7 @@
 ---
 title: License Application and Business Setup Services Exam Prep
 url: https://passyourtexascontractorexam.com/licensing-services/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: License Application and Business Setup Services exam prep for Texas: 3 options from $495 to $990, including licensing service. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - An Electrical Contractor license costs $110 and needs a Master Electrician plus $300,000 per occurrence liability insurance.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 3 License Application and Business Setup Services packages
 
@@ -147,7 +147,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TDLR ACR contractor license](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas Secretary of State fee schedule (Form 806)](https://www.sos.texas.gov/corp/forms/806_boc.pdf)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

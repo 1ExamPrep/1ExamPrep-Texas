@@ -1,7 +1,7 @@
 ---
 title: Texas ICC Residential Building Contractor (C) Exam Prep
 url: https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: ICC Residential Building Contractor (C) exam prep for Texas: 4 options from $195 to $350, including exam prep package, online exam prep course. One-click.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Texas licenses electricians and air conditioning contractors through TDLR and plumbers through TSBPE, so these exams are mainly for work outside the state system.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 ## 4 ICC Residential Building Contractor (C) packages
 
@@ -162,7 +162,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

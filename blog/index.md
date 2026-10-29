@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Blog: Study Tips and Rules
 url: https://passyourtexascontractorexam.com/blog/
-updated: 2026-10-28
+updated: 2026-10-29
 site: Pass Your Texas Contractor Exam
 description: Study plans, Texas licensing rules and exam strategy for electrician, plumbing and A/C exams, from Pass Your Texas Contractor Exam.
 ---
@@ -19,7 +19,7 @@ Study plans, Texas licensing rules and exam strategy for electrician, plumbing, 
 - Exam prep for 40 Texas licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated October 28, 2026 · prices checked against the 1 Exam Prep store
+Updated October 29, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourtexascontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 
@@ -80,7 +80,7 @@ Exam prep for every Texas electrician, plumbing, A/C and city license on this si
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 28, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
