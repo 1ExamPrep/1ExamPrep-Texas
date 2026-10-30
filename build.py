@@ -362,10 +362,19 @@ def home_main():
            '<div><b>3</b><h3>Check out in one click</h3><p>Buy now opens secure checkout at %s. Books ship from the fulfillment center and online courses arrive by email.</p></div></div></div></section>' % esc(FUL["name"]))
     pairs = HOME_FAQ
     faq = '<section id="faq" aria-labelledby="h-faq"><div class="wrap center"><h2 id="h-faq">What do people ask before buying?</h2>%s</div></section>' % faq_html(pairs)
+    latest = [q for q in blogkit.load_posts(os.path.join(ROOT, "content", "posts"), SITE or "") if q.get("kind", "blog") != "page"][:3]
+    blog_sec = ""
+    if latest:
+        blog_sec = ('<section id="latest-posts" class="home-posts" aria-labelledby="h-latest"><div class="wrap"><h2 id="h-latest">What is new on the blog?</h2>'
+                    '<p class="sub-h">Study plans and Texas licensing news, each post checked against the board that sets the rule.</p><div class="hp-grid">%s</div>'
+                    '<p class="hp-all"><a href="blog/">See every post</a></p></div></section>' % "".join(
+                        '<a class="hp-card" href="blog/%s/">%s<span class="hp-body"><time datetime="%s">%s</time><b>%s</b><span>%s</span></span></a>' % (
+                            q["slug"], ('<img src="%s" alt="%s" loading="lazy">' % (esc(q["image"]), esc(q["title"]))) if q.get("image") else "",
+                            q["date"], nice_day(q["date"]), esc(q["title"]), esc(trim_desc(q["excerpt"], 150))) for q in latest))
     final = ('<section class="final" aria-labelledby="h-final"><div class="wrap"><h2 id="h-final">Your exam date is not moving. <em>Start today.</em></h2>'
              '<p>Find your license above, choose how much help you want, and check out in one click. Books ship from our fulfillment center, %s, and online courses arrive by email, so you can start the same day. Questions first? Call %s.</p>'
              '<a class="btn btn-buy" href="#electrical">Find my license</a></div></section>' % (esc(FUL["name"]), esc(CFG["phone"])))
-    return hero + tk + "".join(secs) + classes_tbl + types_tbl + how + faq + sources_html("electrical", [s for s in vacopy.MAIN_SOURCES[1:]]) + final, lead
+    return hero + tk + "".join(secs) + classes_tbl + types_tbl + how + blog_sec + faq + sources_html("electrical", [s for s in vacopy.MAIN_SOURCES[1:]]) + final, lead
 HOME_FAQ = [(q, a.replace("{ful}", FUL["name"])) for q, a in vacopy.HOME_FAQ]
 home_main_html, home_lead = home_main()
 u = render([], vacopy.HOME_TITLE, vacopy.HOME_DESC.format(n=n_cls),

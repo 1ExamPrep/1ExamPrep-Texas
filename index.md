@@ -158,6 +158,13 @@ Start with an online course, get the reference books highlighted and tabbed, or 
 
 Buy now opens secure checkout at 1 Exam Prep. Books ship from the fulfillment center and online courses arrive by email.
 
+## What is new on the blog?
+
+Study plans and Texas licensing news, each post checked against the board that sets the rule.
+
+[October 30, 2026**Texas Electrician Contractor Exam Topics and Best Prep Options** If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam.](https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/)
+[See every post](https://passyourtexascontractorexam.com/blog/)
+
 ## What do people ask before buying?
 
 ### Which Texas license do I need?

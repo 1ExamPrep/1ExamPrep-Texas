@@ -97,6 +97,7 @@ def load_posts(folder, site_url=""):
         slug = slugify(meta.get("slug") or fn[:-3])
         date = (meta.get("date") or datetime.date.fromtimestamp(os.path.getmtime(os.path.join(folder, fn))).isoformat())[:10]
         body_html = md_to_html(body)
+        body_html = re.sub(r"<(/?)h1\b", r"<\1h2", body_html, flags=re.I)  # the page shows the title as its H1; one H1 per page
         text = re.sub(r"<[^>]+>", " ", body_html); text = re.sub(r"\s+", " ", html.unescape(text)).strip()
         excerpt = meta.get("excerpt") or (text[:157].rsplit(" ", 1)[0] + "…" if len(text) > 160 else text)
         img = meta.get("image") or (re.search(r'<img[^>]+src="([^"]+)"', body_html) or [None, ""])[1]
