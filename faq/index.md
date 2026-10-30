@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam FAQ: 20 Answers
 url: https://passyourtexascontractorexam.com/faq/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: 20 answers about Texas electrician, plumbing, air conditioning and city exams: which board licenses what, the 2026 NEC switch, exam fees, open and closed.
 ---
@@ -19,7 +19,7 @@ description: 20 answers about Texas electrician, plumbing, air conditioning and 
 - Electrician exams cost $61 to $78 at PSI and use the 2026 NEC since September 1, 2026.
 - Electrical and A/C exams are open book; plumbing written exams are closed book.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 How do you get licensed in Texas? 6How does the Texas exam work? 5How should you study for it? 4How does ordering work? 5Where are the questions for my license? 40
 
@@ -171,7 +171,7 @@ Exam prep for 40 Texas licenses, from $49.95. Buy buttons go straight to checkou
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

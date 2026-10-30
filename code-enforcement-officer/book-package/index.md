@@ -1,7 +1,7 @@
 ---
 title: Texas Code Enforcement Officer Book Package
 url: https://passyourtexascontractorexam.com/code-enforcement-officer/book-package/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Book Package for the Texas Code Enforcement Officer exam: the reference books the exam is written to, new and unmarked. $395. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $395 (was $495) Save 20% [Buy now, go to checkout](https://1examprep.com/cart/45
 - The PSI exam has 70 scored items in 105 minutes, costs $50 and is closed book.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -93,7 +93,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Dallas third-party green providers](https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/dallas_third_party.aspx)
 - [TDLR code enforcement officers](https://www.tdlr.texas.gov/ceo/ceoapply.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

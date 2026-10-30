@@ -1,7 +1,7 @@
 ---
 title: License Application and Business Setup Services Licensing
 url: https://passyourtexascontractorexam.com/licensing-services/licensing-service-3/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Licensing Service for the Texas License Application and Business Setup Services exam: help preparing and filing the license application or business setup.
 ---
@@ -27,7 +27,7 @@ $495 (was $595) Save 17% [Buy now, go to checkout](https://1examprep.com/cart/45
 - A Texas LLC or corporation is formed with a certificate of formation at the Secretary of State, which costs $300.
 - The service starts after purchase; we contact you for the details. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Licensing Service include?
 
@@ -89,7 +89,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR ACR contractor license](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas Secretary of State fee schedule (Form 806)](https://www.sos.texas.gov/corp/forms/806_boc.pdf)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

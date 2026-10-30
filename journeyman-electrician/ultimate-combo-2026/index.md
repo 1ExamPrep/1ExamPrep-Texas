@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Electrician Ultimate Combo (2026)
 url: https://passyourtexascontractorexam.com/journeyman-electrician/ultimate-combo-2026/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Ultimate Combo for the Texas Journeyman Electrician exam: the full study set plus the online test kit. $399.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $399.95 (was $495) Save 19% [Buy now, go to checkout](https://1examprep.com/cart
 - The PSI exam has two portions: 59 NEC knowledge items in 130 minutes and 26 calculation items in 110 minutes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Combo include?
 
@@ -95,7 +95,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

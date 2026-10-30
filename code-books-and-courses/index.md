@@ -1,7 +1,7 @@
 ---
 title: Texas Code Books, Courses and Practice Tests Exam Prep
 url: https://passyourtexascontractorexam.com/code-books-and-courses/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Code Books, Courses and Practice Tests exam prep for Texas: 5 options from $49.95 to $395, including code book, online exam prep course, online practice.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - PSI allows the publisher's permanent index tabs in the NEC, plus highlighting and notes made before the exam.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## 5 Code Books, Courses and Practice Tests packages
 
@@ -168,7 +168,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [PSI Texas electrician candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/1682)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

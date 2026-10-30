@@ -1,7 +1,7 @@
 ---
 title: Texas ICC Journeyman Gas Pipe Fitter Exam Prep
 url: https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: ICC Journeyman Gas Pipe Fitter exam prep for Texas: 1 option from $275 to $275, including exam prep package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Texas licenses electricians and air conditioning contractors through TDLR and plumbers through TSBPE, so these exams are mainly for work outside the state system.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 ICC Journeyman Gas Pipe Fitter package
 
@@ -139,7 +139,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

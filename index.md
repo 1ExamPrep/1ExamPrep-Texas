@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Prep for Every License
 url: https://passyourtexascontractorexam.com/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Texas exam prep for 40 licenses: TDLR electrician and A/C contractor exams, TSBPE plumbing, and San Antonio and Dallas city exams. Books, courses and The 1.
 ---
@@ -20,7 +20,7 @@ Exam prep for 40 Texas licenses: TDLR electrician licenses from residential wire
 - Texas has no state general contractor license, so trade licenses and city registrations are what you test for.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## Texas electrician licenses
 
@@ -201,7 +201,7 @@ The 1 Package is the all-inclusive option for a Texas electrical license: the ex
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

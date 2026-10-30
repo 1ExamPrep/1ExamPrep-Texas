@@ -1,7 +1,7 @@
 ---
 title: ICC Residential Building Contractor: Online Exam Prep Course
 url: https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/online-course-2/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas ICC Residential Building Contractor (C) exam: an online course with practice exams you can take on a phone or laptop.
 ---
@@ -27,7 +27,7 @@ $195 (was $279) Save 30% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -89,7 +89,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

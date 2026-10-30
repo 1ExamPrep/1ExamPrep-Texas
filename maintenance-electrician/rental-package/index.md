@@ -1,7 +1,7 @@
 ---
 title: Texas Maintenance Electrician Books and Courses Rental
 url: https://passyourtexascontractorexam.com/maintenance-electrician/rental-package/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Books and Courses Rental for the Texas Maintenance Electrician exam: the reference books on rental plus the online course, returned after your exam. $640.
 ---
@@ -27,7 +27,7 @@ $640 (was $940) Save 32% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The PSI exam has 60 scored items in 180 minutes and costs $64.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Books and Courses Rental include?
 
@@ -96,7 +96,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

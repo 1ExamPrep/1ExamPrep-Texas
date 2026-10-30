@@ -1,7 +1,7 @@
 ---
 title: Master Electrician and Electrical Contractor The 1 Package
 url: https://passyourtexascontractorexam.com/master-electrician-contractor/the-1-package/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: The 1 Package (all-inclusive) for the Texas Master Electrician and Electrical Contractor exam: everything: exam prep, books, licensing paperwork and business.
 ---
@@ -27,7 +27,7 @@ $1,815 (was $2,315) Save 22% [Buy now, go to checkout](https://1examprep.com/car
 - The Electrical Contractor license costs $110 a year and needs liability insurance of $300,000 per occurrence and $600,000 aggregate.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the The 1 Package (all-inclusive) include?
 
@@ -96,7 +96,7 @@ It adds help with the TDLR application and the business setup, so the paperwork 
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

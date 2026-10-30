@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Blog: Study Tips and Rules
 url: https://passyourtexascontractorexam.com/blog/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Study plans, Texas licensing rules and exam strategy for electrician, plumbing and A/C exams, from Pass Your Texas Contractor Exam.
 ---
@@ -14,16 +14,23 @@ Study plans, Texas licensing rules and exam strategy for electrician, plumbing, 
 
 ## Key takeaways
 
-- 0 posts so far, written for Texas electrician, plumbing and A/C candidates.
+- 1 post so far, written for Texas electrician, plumbing and A/C candidates.
 - Topics cover study strategy, using the references and Texas licensing rules.
 - Exam prep for 40 Texas licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourtexascontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
+[
+Latest
 
-No posts yet. The first one is on its way.
+## Texas Electrician Contractor Exam Topics and Best Prep Options
+
+If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests your grasp of the National Electrical Code as it applies in Texas, electrical theory, safe installation practices, state-specific electrical laws
+
+October 30, 2026 9 min read
+](https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/)
 
 ## Where should you start if your Texas exam is coming up?
 
@@ -97,7 +104,7 @@ Exam prep for every Texas electrician, plumbing, A/C and city license on this si
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

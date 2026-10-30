@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Study Guide and Online Course
 url: https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-online-course-2026/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Study Guide and Online Course for the Texas Journeyman Plumber exam: the study guide plus the online course. $119.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $119.99 (was $150) Save 20% [Buy now, go to checkout](https://1examprep.com/cart
 - The written exam has 100 items in 120 minutes and costs $68.50 at Pearson VUE; the practical has 6 items in 240 minutes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide and Online Course include?
 
@@ -91,7 +91,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

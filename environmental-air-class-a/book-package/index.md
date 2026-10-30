@@ -1,7 +1,7 @@
 ---
 title: Texas ACR Contractor Class A, Environmental Air Book Package
 url: https://passyourtexascontractorexam.com/environmental-air-class-a/book-package/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Book Package for the Texas ACR Contractor Class A, Environmental Air exam: the reference books the exam is written to, new and unmarked. $1,595. One-click.
 ---
@@ -27,7 +27,7 @@ $1,595 (was $1,695) Save 6% [Buy now, go to checkout](https://1examprep.com/cart
 - The PSI exam has 120 items in 230 minutes and costs $74.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -92,7 +92,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR ACR exams](https://www.tdlr.texas.gov/acr/acrexam.htm)
 - [PSI Texas ACR candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/554)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

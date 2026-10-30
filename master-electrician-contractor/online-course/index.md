@@ -1,7 +1,7 @@
 ---
 title: Master Electrician and Electrical Contractor Online Exam
 url: https://passyourtexascontractorexam.com/master-electrician-contractor/online-course/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas Master Electrician and Electrical Contractor exam: an online course with practice exams you can take on a phone or.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The Electrical Contractor license costs $110 a year and needs liability insurance of $300,000 per occurrence and $600,000 aggregate.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -92,7 +92,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

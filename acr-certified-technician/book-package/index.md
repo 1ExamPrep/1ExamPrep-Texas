@@ -1,7 +1,7 @@
 ---
 title: Certified Air Conditioning and Refrigeration Technician
 url: https://passyourtexascontractorexam.com/acr-certified-technician/book-package/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Book Package for the Texas Certified Air Conditioning and Refrigeration Technician exam: the reference books the exam is written to, new and unmarked.
 ---
@@ -27,7 +27,7 @@ $1,045 (was $1,145) Save 9% [Buy now, go to checkout](https://1examprep.com/cart
 - The PSI exam has 60 scored items in 112 minutes and costs $60.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -92,7 +92,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR ACR exams](https://www.tdlr.texas.gov/acr/acrexam.htm)
 - [PSI Texas ACR candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/554)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

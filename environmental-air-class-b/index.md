@@ -1,7 +1,7 @@
 ---
 title: Texas ACR Contractor Class B, Environmental Air Exam Prep
 url: https://passyourtexascontractorexam.com/environmental-air-class-b/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: ACR Contractor Class B, Environmental Air exam prep for Texas: 1 option from $1,595 to $1,595, including book package. One-click checkout.
 ---
@@ -45,7 +45,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - References include the 2024 IMC, UMC and IFGC, ACCA Manuals J, D and S, and Modern Refrigeration and Air Conditioning, 22nd edition.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 ACR Contractor Class B, Environmental Air package
 
@@ -145,7 +145,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TDLR ACR exams](https://www.tdlr.texas.gov/acr/acrexam.htm)
 - [PSI Texas ACR candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/554)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

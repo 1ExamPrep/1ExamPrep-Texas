@@ -1,7 +1,7 @@
 ---
 title: Residential Appliance Installer Highlighted and Tabbed Books
 url: https://passyourtexascontractorexam.com/residential-appliance-installer/highlighted-tabbed/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Highlighted and Tabbed Books for the Texas Residential Appliance Installer exam: the reference books already highlighted and tabbed. $345. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $345 (was $545) Save 37% [Buy now, go to checkout](https://1examprep.com/cart/50
 - The PSI exam has 80 scored items in 240 minutes and costs $64.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Highlighted and Tabbed Books include?
 
@@ -92,7 +92,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

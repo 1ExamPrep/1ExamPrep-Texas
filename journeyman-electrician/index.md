@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Electrician Exam Prep
 url: https://passyourtexascontractorexam.com/journeyman-electrician/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Journeyman Electrician exam prep for Texas: 32 options from $59.95 to $1,065, including book package, books and courses rental, complete package. One-click.
 ---
@@ -45,7 +45,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - The exam fee is $78 for both portions and the TDLR application fee is $30.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## Journeyman Electrician options: online courses and practice
 
@@ -449,7 +449,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

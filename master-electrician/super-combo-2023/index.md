@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Super Combo (2023)
 url: https://passyourtexascontractorexam.com/master-electrician/super-combo-2023/
-updated: 2026-10-29
+updated: 2026-10-30
 site: Pass Your Texas Contractor Exam
 description: Super Combo for the Texas Master Electrician exam: study guide, calculations guide, flash cards, the NEC and tabs. $349.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $349.95 (was $395) Save 11% [Buy now, go to checkout](https://1examprep.com/cart
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 29, 2026 · prices checked against the 1 Exam Prep store
+Updated October 30, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Super Combo include?
 
@@ -100,7 +100,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 29, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
