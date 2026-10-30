@@ -4,9 +4,6 @@ date: 2026-10-30
 author: David D
 excerpt: If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests your grasp of the National Electrical Code as it applies in Texas, electrical theory, safe installation practices, state-specific electrical laws
 image: /content/images/texas-electrician-contractor-exam-topics.png
-metaTitle: Texas Electrician Contractor Exam Topics & Prep Options
-metaDescription: Discover the topics covered on the Texas Electrician Contractor exam and how Pass Your Texas Contractor Exam compares to other prep resources.
-externalId: 17cd37c4-2266-4749-80c1-556b46cccc74
 status: published
 updated: 2026-10-30
 ---
