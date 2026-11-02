@@ -1,7 +1,7 @@
 ---
 title: Texas Electrician Contractor Exam Topics and Best Prep Options
 url: https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests.
 ---
@@ -21,7 +21,7 @@ If you’re aiming to become a licensed electrician contractor in Texas, underst
 - Pass Your Texas Contractor Exam offers Texas-specific, updated study materials plus licensing and business setup guidance.
 - Other online prep sites and free resources lack Texas code focus and comprehensive exam coverage.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## Texas Electrician Contractor Exam Topics: Pass Your Texas Contractor Exam vs Other Prep Options
 

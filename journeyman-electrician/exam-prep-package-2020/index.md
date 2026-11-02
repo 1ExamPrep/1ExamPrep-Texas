@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Electrician Exam Prep Package (2020)
 url: https://passyourtexascontractorexam.com/journeyman-electrician/exam-prep-package-2020/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas Journeyman Electrician exam: an exam prep package. $240. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $240 (was $275) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/31
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -40,7 +40,21 @@ The Exam Prep Package costs $240 and is written for the Journeyman Electrician e
 
 ## About this Journeyman Electrician package
 
-TEXAS 2020 JOURNEYMAN ELECTRICIAN EXAM PREP PACKAGE The Texas 2020 Journeyman Electrician Exam Prep Package from Pass Your Texas Contractor Exam is specifically designed to help candidates prepare for the Texas Journeyman Electrician exam.
+The Texas 2020 Journeyman Electrician Exam Prep Package from Pass Your Texas Contractor Exam is specifically designed to help candidates prepare for the Texas Journeyman Electrician exam. This package is based on the 2020 National Electrical Code (NEC) and includes comprehensive study materials, such as practice exams, code guides, and reference books that are tailored to meet the specific requirements of the Texas licensing exam. Key topics include electrical theory, wiring methods, grounding, overcurrent protection, load calculations, and the application of NEC standards with a focus on Texas-specific regulations. With this thorough prep course, you will be well-prepared to pass the exam and perform electrical work safely and competently in Texas.
+
+The only package you will need to pass your Journeyman Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the great publications you receive:
+
+1) **2020 Journeyman Electrician Study Guide**; (ISBN 979-8617786356)
+
+An excellent study-aid when preparing for the Journeyman Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 12 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+2) **National Electrical Code 2020 Paperback with Tabs**;
+
+This set includes the NEC 2020 Code and the tabs that go along with it.
 
 ## How does the Journeyman Electrician exam work?
 
@@ -97,7 +111,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

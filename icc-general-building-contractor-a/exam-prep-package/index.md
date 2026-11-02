@@ -1,7 +1,7 @@
 ---
 title: ICC General Building Contractor: Exam Prep Package
 url: https://passyourtexascontractorexam.com/icc-general-building-contractor-a/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC General Building Contractor (A) exam: an exam prep package. $468. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $468 (was $521) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,37 @@ The Exam Prep Package costs $468 and is written for the ICC General Building Con
 
 ## About this ICC General Building Contractor (A) package
 
-ICC F11 NATIONAL STANDARD GENERAL BUILDING CONTRACTOR (A) EXAM PREP PACKAGEThe ICC F11 National Standard General Building Contractor (A) Exam Prep Package by Pass Your Texas Contractor Exam provides comprehensive study materials aligned with the International Code Council (ICC) requirements for the General Building Contractor (A) certification.
+The ICC F11 National Standard General Building Contractor (A) Exam Prep Package by Pass Your Texas Contractor Exam provides comprehensive study materials aligned with the International Code Council (ICC) requirements for the General Building Contractor (A) certification. This package focuses on exam domains including site work, concrete, masonry, steel construction, and building code compliance using the International Building Code (IBC) and related reference manuals. It is structured for those seeking ICC certification across multiple jurisdictions where the F11 National Standard exam is recognized. The prep materials incorporate practice questions, code references, and detailed content review consistent with ICC testing standards to support candidates in obtaining their General Building Contractor license.
+
+Get one step closer to becoming a **NationalF11 General Building Contractor (A) **with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2015 International Building Code
+  - Highlighting and tabbing locations for the 2021 ICC Concrete Manual (2015 edition is unavailable from publisher)
+  - Downloadable and printable practice exams with hundreds of questions
+
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2015 International Building Code and affixable pre-printed tabs
+  - 2021 ICC Concrete Manual and affixable pre-printed tabs (2015 edition is unavailable from publisher)
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Antonio, San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC General Building Contractor (A) exam work?
 
@@ -89,7 +119,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

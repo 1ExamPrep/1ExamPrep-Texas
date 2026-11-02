@@ -1,7 +1,7 @@
 ---
 title: Code Books, Courses and Practice Tests Online Practice Exams
 url: https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Practice Exams for the Texas Code Books, Courses and Practice Tests exam: timed practice questions online, with explanations. $125. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $125 (was $140) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/18
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so buy the 2026 edition for a Texas electrical exam.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Exams include?
 
@@ -39,7 +39,9 @@ The Online Practice Exams costs $125 and is written for the Code Books, Courses 
 
 ## About this Code Books, Courses and Practice Tests package
 
-ONLINE COURSE REVIEW TO THE INTERNATIONAL BUILDING CODE (IBC)®The Online Course Review to the International Building Code (IBC)® by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors.
+The *Online Course Review to the International Building Code (IBC)®* by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) requirements for building officials, plans examiners, and general contractors. This course focuses on the 2021 edition of the IBC, covering essential topics such as occupancy classifications, construction types, egress systems, and fire-resistance ratings. Designed to assist candidates preparing for ICC certification exams, it integrates study modules, practice exams, and code interpretation exercises that mirror actual testing conditions. Offered entirely online, the course supports Florida contractors and others seeking continuing education credits or compliance with state licensing authorities like the CILB. Students gain detailed instruction in code navigation and application relevant to residential, commercial, and mixed-use projects, ensuring readiness for both open-book and closed-book ICC exams.
+
+This course includes the following modules
 
 ## How does the Code Books, Courses and Practice Tests exam work?
 
@@ -89,7 +91,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI Texas electrician candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/1682)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ICC National Standard Master Electrician: Exam Prep Package
 url: https://passyourtexascontractorexam.com/icc-master-electrician/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC National Standard Master Electrician exam: an exam prep package. $350. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $350 (was $389.50) Save 10% [Buy now, go to checkout](https://1examprep.com/cart
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,36 @@ The Exam Prep Package costs $350 and is written for the ICC National Standard Ma
 
 ## About this ICC National Standard Master Electrician package
 
-ICC G16 National Standard Master Electrician Exam Prep Package The ICC G16 National Standard Master Electrician Exam Prep Package from Pass Your Texas Contractor Exam is designed for individuals seeking master electrician certification under the International Code Council (ICC).
+The ICC G16 National Standard Master Electrician Exam Prep Package from Pass Your Texas Contractor Exam is designed for individuals seeking master electrician certification under the International Code Council (ICC). This comprehensive course aligns with the National Electrical Code (NEC) and ICC G16 standards, covering electrical theory, wiring methods, load calculations, overcurrent protection, and grounding systems. The package includes practice exams, reference book lists, and study guidance tailored to the PSI-administered ICC National Standard Master Electrician examination. It supports candidates pursuing licensing recognized by jurisdictions adopting ICC codes, emphasizing compliance, safety standards, and code-based proficiency essential for professional electrical contractors.
+
+Get one step closer to becoming a **NationalG16 Master Electrician** with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2017 National Electrical Code
+  - Timed practice exams with hundreds of questions in a simulated computer-based format
+  - Downloadable and printable practice exams
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - NFPA 70 - National Electrical Code, 2017 and affixable pre-printed tabs
+  - Ugly's Electrical References (any edition)
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC National Standard Master Electrician exam work?
 
@@ -90,7 +119,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

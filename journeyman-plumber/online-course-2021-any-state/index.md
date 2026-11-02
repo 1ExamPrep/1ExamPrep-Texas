@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Online Exam Prep Course (any state)
 url: https://passyourtexascontractorexam.com/journeyman-plumber/online-course-2021-any-state/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas Journeyman Plumber exam: an online course with practice exams you can take on a phone or laptop. $195.95. One-click.
 ---
@@ -27,7 +27,7 @@ $195.95 (was $218) Save 10% [Buy now, go to checkout](https://1examprep.com/cart
 - The written exam has 100 items in 120 minutes and costs $68.50 at Pearson VUE; the practical has 6 items in 240 minutes.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -39,7 +39,36 @@ The Online Exam Prep Course costs $195.95 and is written for the Journeyman Plum
 
 ## About this Journeyman Plumber package
 
-JOURNEYMAN PLUMBER EXAM PREP - TEST SUCCESS ONLINE COURSE [BASED ON 2021 INTERNATIONAL PLUMBING CODE]The Journeyman Plumber Exam Prep – Test Success Online Course from Pass Your Texas Contractor Exam provides structured training aligned with the 2021 International Plumbing Code (IPC), preparing candidates for journeyman plumber licensing exams recognized by state and local licensing boards.
+The Journeyman Plumber Exam Prep – Test Success Online Course from Pass Your Texas Contractor Exam provides structured training aligned with the 2021 International Plumbing Code (IPC), preparing candidates for journeyman plumber licensing exams recognized by state and local licensing boards. This online course covers critical areas such as drainage systems, water supply design, venting, backflow prevention, and fixture installation requirements. Developed in coordination with national plumbing exam standards and test vendors like PSI and ICC, the curriculum references essential codebooks and approved reference materials to ensure compliance with current industry regulations. The program is designed to strengthen code comprehension, problem-solving accuracy, and exam readiness for those pursuing plumbing certification or licensure through CILB-approved pathways.
+
+### **Journeyman Plumber Exam Prep - Test Success Online Course**
+
+### **Based on the 2021 International Plumbing Code**
+
+If you are looking into a career change and are interested in pursuing a trade career, becoming a **Journeyman Plumber** could be a great choice. With our Journeyman Plumber Exam Prep Online Course, you will have access to practice problems, detailed explanations, and preliminary testing requirements for each state. Additionally packed with study and time management tips and videos to help you understand the International Plumbing Code, this online course is an excellent resource created to enhance your study sessions and help you pass your Journeyman Plumber exam.
+
+Includes:
+
+  - 8 Hours of Comprehensive Videos to Help You Understand Each Chapter of the Intentional Plumbing Code and Isometric Drawings
+  - Simulated Computer-Based Exams to give you the experience you need to pass
+  - Total of 750 Practice Questions
+
+  - State by State Guidance for Licensing and Testing Requirements
+  - Exclusive Test Taking Techniques
+  - Proven Study Plan to Pass the First Time
+  - Exam Topics from Actual Exam
+  - International Plumbing Code Review
+  - Plumber Math Review
+
+  - Isometrics Analysis
+  - OSHA Review
+  - International Fuel Gas Code Review
+
+  - A downloadable copy of all the material in the Journeyman Plumber Exam Study Guide
+
+  - Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.
+
+ Based on the 2021 International Plumbing Code and Fuel Gas Code
 
 ## How does the Journeyman Plumber exam work?
 
@@ -91,7 +120,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Online Exam Prep Course (any state)
 url: https://passyourtexascontractorexam.com/master-electrician/online-course-2014-any-state/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas Master Electrician exam: an online course with practice exams you can take on a phone or laptop. $129.95. One-click.
 ---
@@ -27,7 +27,7 @@ $129.95 (was $145) Save 10% [Buy now, go to checkout](https://1examprep.com/cart
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -40,7 +40,19 @@ The Online Exam Prep Course costs $129.95 and is written for the Master Electric
 
 ## About this Master Electrician package
 
-Ray Holder's 2014 Master Electrician Exam Questions Tests; Online CourseThis online course provides exam-style practice questions and test simulations based on the 2014 National Electrical Code for candidates preparing for the master electrician licensing exam, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load c...
+The Ray Holder's 2014 Master Electrician Exam Questions Tests; Online Course provides exam-style practice questions and test simulations based on the 2014 National Electrical Code for candidates preparing for the master electrician licensing exam, covering services, feeders, branch circuits, grounding and bonding, wiring methods, conductor and overcurrent protection sizing, load calculations, motors, transformers, and essential electrical safety requirements to strengthen code proficiency and exam readiness.
+
+ An excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the Master Electrical Exam. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+Written by Ray Holder and published by Brown Technical Publications. Brown has taken its 70 years of knowledge to combine all of the best and most comprehensive study prep book for Journeymen on the market.
+
+Includes:
+
+10 Open Book Practice Exams with Answers
+2 Complete Final Exams with Answers & Analysis
+Helpful Tips to Pass the Test
+Simulated Exams to give you the experience you need to pass
+A downloadable copy of all the material in the 2014 Master Electrician Study Guide!
 
 ## How does the Master Electrician exam work?
 
@@ -97,7 +109,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Code Books, Courses and Practice Tests Online Practice Exams
 url: https://passyourtexascontractorexam.com/code-books-and-courses/online-practice-exams-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Practice Exams for the Texas Code Books, Courses and Practice Tests exam: timed practice questions online, with explanations. $79.99. One-click.
 ---
@@ -27,7 +27,7 @@ $79.99 (was $129.99) Save 38% [Buy now, go to checkout](https://1examprep.com/ca
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so buy the 2026 edition for a Texas electrical exam.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Practice Exams include?
 
@@ -39,7 +39,9 @@ The Online Practice Exams costs $79.99 and is written for the Code Books, Course
 
 ## About this Code Books, Courses and Practice Tests package
 
-ONLINE COURSE REVIEW TO THE INTERNATIONAL PLUMBING CODE (IPC)®The ONLINE COURSE REVIEW TO THE INTERNATIONAL PLUMBING CODE (IPC)® by Pass Your Texas Contractor Exam provides a comprehensive study framework aligned with the International Code Council (ICC) standards for plumbing professionals.
+The ONLINE COURSE REVIEW TO THE INTERNATIONAL PLUMBING CODE (IPC)® by Pass Your Texas Contractor Exam provides a comprehensive study framework aligned with the International Code Council (ICC) standards for plumbing professionals. This course focuses on the structure and enforcement of the International Plumbing Code, covering fixture requirements, water distribution, sanitary drainage, vent systems, and health safeguards as defined by the IPC. Designed for plumbers, inspectors, and contractors pursuing licensing or certification, it emphasizes code interpretation, cross-references with local amendments, and exam-oriented practice questions. The IPC content supports state and county-level plumbing license exams and is a core reference for continuing education in plumbing systems and construction code compliance.
+
+This course includes the following modules:
 
 ## How does the Code Books, Courses and Practice Tests exam work?
 
@@ -89,7 +91,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI Texas electrician candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/1682)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

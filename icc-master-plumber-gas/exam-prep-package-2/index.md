@@ -1,7 +1,7 @@
 ---
 title: ICC Master Plumber with Gas Exam Prep Package (any state)
 url: https://passyourtexascontractorexam.com/icc-master-plumber-gas/exam-prep-package-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Master Plumber with Gas exam: an exam prep package. $409. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $409 (was $455) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,36 @@ The Exam Prep Package costs $409 and is written for the ICC Master Plumber with 
 
 ## About this ICC Master Plumber with Gas package
 
-ICC G27 NATIONAL STANDARD MASTER PLUMBER WITH GAS EXAM PREP PACKAGEThe ICC G27 National Standard Master Plumber with Gas Exam Prep Package by Pass Your Texas Contractor Exam is a complete study program for professionals preparing for the ICC Master Plumber with Gas (G27) examination, administered by the International Code Council (ICC).
+The ICC G27 National Standard Master Plumber with Gas Exam Prep Package by Pass Your Texas Contractor Exam is a complete study program for professionals preparing for the ICC Master Plumber with Gas (G27) examination, administered by the International Code Council (ICC). This package focuses on both plumbing and fuel gas systems, combining the International Plumbing Code (IPC) and the International Fuel Gas Code (IFGC) for full code compliance. Study materials include official reference books, detailed study guides, and ICC-style practice exams that cover gas piping, venting, combustion air, backflow prevention, and sanitary system design. Tailored for experienced plumbers seeking advanced certification, the course aligns with ICC’s national testing standards, ensuring candidates are equipped for licensure that validates expertise in both plumbing and fuel gas installation disciplines.
+
+Get one step closer to becoming a **NationalG27 Master Plumber with Gas** with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  -  Highlighting and tabbing locations for the references
+  - Downloadable and printable practice exams
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2018 International Plumbing Code and affixable pre-printed tabs
+
+  - 2018 Fuel Gas Code and affixable pre-printed tabs
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Master Plumber with Gas exam work?
 
@@ -89,7 +118,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

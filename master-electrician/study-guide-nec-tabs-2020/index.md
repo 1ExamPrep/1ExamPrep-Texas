@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Study Guide + NEC with Tabs (2020)
 url: https://passyourtexascontractorexam.com/master-electrician/study-guide-nec-tabs-2020/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Study Guide + NEC with Tabs for the Texas Master Electrician exam: the study guide, the National Electrical Code and tabs. $240. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $240 (was $275) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/31
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide + NEC with Tabs include?
 
@@ -40,7 +40,27 @@ The Study Guide + NEC with Tabs costs $240 and is written for the Master Electri
 
 ## About this Master Electrician package
 
-TEXAS 2020 MASTER ELECTRICIAN STUDY GUIDE & NATIONAL ELECTRICAL CODE COMBO WITH TABSThe Texas 2020 Master Electrician Study Guide & National Electrical Code Combo with Tabs from Pass Your Texas Contractor Exam is designed to help candidates prepare for the Texas Department of Licensing and Regulation (TDLR) Master Electrician exam.
+The Texas 2020 Master Electrician Study Guide & National Electrical Code Combo with Tabs from Pass Your Texas Contractor Exam is designed to help candidates prepare for the Texas Department of Licensing and Regulation (TDLR) Master Electrician exam. This comprehensive set includes the 2020 edition of the National Electrical Code (NEC), a key reference for all electrical installations and inspections, paired with an annotated study guide that aligns each chapter with Texas-specific testing standards. The materials cover electrical theory, wiring methods, grounding, overcurrent protection, and load calculations as defined by the National Fire Protection Association (NFPA 70). The guide and tab system assist test-takers in efficiently navigating code sections during open-book exams administered through PSI testing services. It is intended for professionals seeking the Master Electrician license in compliance with the 2020 NEC regulations and Texas licensing requirements.
+
+An essential package to passing your Master Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the two great publications you receive:
+
+1) **2020 Master Electrician Study Guide**; (ISBN 9798620738816)
+
+An excellent study-aid when preparing for the Master Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 12 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+**Includes:**
+
+- **12 Open Book Practice Exams with Answers**
+- **2 Complete Final Exams with Answers & Analysis**
+- **Helpful Tips to Pass the Test**
+
+2) **National Electrical Code 2020 Paperback with Tabs**;
+
+This set includes the NEC 2020 Code and the tabs that go along with it.
 
 ## How does the Master Electrician exam work?
 
@@ -97,7 +117,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

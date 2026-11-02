@@ -1,7 +1,7 @@
 ---
 title: ICC Journeyman Gas Pipe Fitter Exam Prep Package (any state)
 url: https://passyourtexascontractorexam.com/icc-journeyman-gas-pipe-fitter/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Journeyman Gas Pipe Fitter exam: an exam prep package. $275. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $275 (was $310) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,34 @@ The Exam Prep Package costs $275 and is written for the ICC Journeyman Gas Pipe 
 
 ## About this ICC Journeyman Gas Pipe Fitter package
 
-ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep PackageThe ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides complete preparation for the International Code Council (ICC) F34 certification exam, which validates a tradesperson’s competence in installing, maintaining, and testing gas piping systems in accordance with national fuel gas co...
+The ICC F34 National Standard Journeyman Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides complete preparation for the International Code Council (ICC) F34 certification exam, which validates a tradesperson’s competence in installing, maintaining, and testing gas piping systems in accordance with national fuel gas codes. This package includes reference materials and guided study aligned with the International Fuel Gas Code (IFGC) and ICC exam standards. The program covers topics such as piping installation, venting, combustion air requirements, pressure testing, and system sizing, supporting candidates seeking licensing or certification under ICC jurisdiction. Designed to assist journeyman-level professionals pursuing the National Standard credential, the prep course connects to recognized contractor and mechanical licensing pathways nationwide.
+
+Get one step closer to becoming a **NationalF34 Journeyman Gas Pipe Fitter** with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2015 International Fuel Gas Code
+  - Downloadable and printable practice questions
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2015 Fuel Gas Code and affixable pre-printed tabs
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Journeyman Gas Pipe Fitter exam work?
 
@@ -90,7 +117,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

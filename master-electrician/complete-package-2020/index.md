@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Complete Package (2020)
 url: https://passyourtexascontractorexam.com/master-electrician/complete-package-2020/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Complete Package for the Texas Master Electrician exam: the books, tabs and course together. $350. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $350 (was $390) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Package include?
 
@@ -40,7 +40,37 @@ The Complete Package costs $350 and is written for the Master Electrician exam. 
 
 ## About this Master Electrician package
 
-TEXAS 2020 COMPLETE MASTER ELECTRICIAN BOOK PACKAGEThe Texas 2020 Complete Master Electrician Book Package from Pass Your Texas Contractor Exam provides the full set of reference materials required for the Texas Department of Licensing and Regulation (TDLR) Master Electrician examination.
+The Texas 2020 Complete Master Electrician Book Package from Pass Your Texas Contractor Exam provides the full set of reference materials required for the Texas Department of Licensing and Regulation (TDLR) Master Electrician examination. This collection includes the 2020 National Electrical Code (NFPA 70), the Ugly’s Electrical References guide, and state-specific amendments reflecting Texas electrical laws and administrative rules. The materials emphasize electrical installations, conductor sizing, overcurrent protection, service calculations, and grounding per NEC 2020 standards. Designed for professional electricians advancing to the master level, this package supports candidates in understanding code interpretation, safety compliance, and trade regulations necessary to meet TDLR licensing requirements for Master Electricians in Texas.
+
+An essential package to passing your Master Electrician's exam. We offer a 100% satisfaction guarantee. Our Electrician Exam Prep books are #1 Amazon best sellers in their category!
+
+**Free Shipping on this package!!For Help Please Call 1-888-710-2550**
+
+Check out the four great publications you receive:
+
+1) **2020 Master Electrician Study Guide**; (ISBN 979-8620738816)
+
+An excellent study-aid when preparing for the Master Electrical Exam. This workbook will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit. Includes 12 open book tests and 2 final closed exams. A special intro dedicated to your specific state exam.
+
+2) **Electrician's Practice Calculations Exams 2020**; (ISBN 979-8615055973)
+
+This self-study exam prep book is based on the 2020 NEC® with 10 practice calculations exams consisting of 25 questions each and a final exam of 100 questions.
+
+3) **Online Master Electrician Test Success Kit**;
+
+Ray Holder's 2020 Master Electrician Exam Prep is an excellent ONLINE study-aid for the helper, apprentice, or electrician in preparing for the **Master Electrical Exam**. This Online Course will prepare you for both, the "open book" or code book related questions and the new "no book" (formally titled closed book) questions. It also includes the most popular electrical exam formats (number of questions, the time allowed, etc.) and is the best way to study the Code book as it forces you to find the answers in the time limit.
+
+**Includes:**
+
+- **12 Open Book Practice Exams with Answers**
+- **2 Complete Final Exams with Answers & Analysis**
+- **Helpful Tips to Pass the Test**
+- **Simulated Exams to give you the experience you need to pass**
+- **A downloadable copy of all the material in the 2020 Master Electrician Study Guide!**
+
+4) **National Electrical Code 2020 Paperback with Tabs**;
+
+This set includes the NEC 2020 Code and the tabs that go along with it.
 
 ## How does the Master Electrician exam work?
 
@@ -97,7 +127,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

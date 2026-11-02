@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Study Guide (any state) (2021)
 url: https://passyourtexascontractorexam.com/journeyman-plumber/study-guide-2021-any-state/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Study Guide for the Texas Journeyman Plumber exam: the printed study guide with practice exams. $59.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $59.95 (was $66.65) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - The written exam has 100 items in 120 minutes and costs $68.50 at Pearson VUE; the practical has 6 items in 240 minutes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Study Guide include?
 
@@ -39,7 +39,34 @@ The Study Guide costs $59.95 and is written for the Journeyman Plumber exam (any
 
 ## About this Journeyman Plumber package
 
-JOURNEYMAN PLUMBER EXAM STUDY GUIDE [BASED ON 2021 INTERNATIONAL PLUMBING CODE]The Journeyman Plumber Exam Study Guide from Pass Your Texas Contractor Exam is designed to prepare candidates for state and local journeyman plumbing licensing exams referencing the 2021 International Plumbing Code (IPC).
+The Journeyman Plumber Exam Study Guide from Pass Your Texas Contractor Exam is designed to prepare candidates for state and local journeyman plumbing licensing exams referencing the 2021 International Plumbing Code (IPC). This guide, aligned with credentialing authorities such as state contractor boards and municipal licensing departments, covers essential topics including drainage systems, venting requirements, water supply distribution, and plumbing fixtures. It also includes practice questions that simulate the format used by recognized exam vendors such as PSI and GITS. Serving as a comprehensive study tool, this publication helps candidates understand code compliance, piping materials, and fixture installation standards critical to journeyman-level plumbing certification and licensure testing.
+
+### **Journeyman Plumber Exam Study Guide**
+
+### **Based on the International Plumbing Code**
+
+If you are looking into a career change and are interested in pursuing a trade career, becoming a **Journeyman Plumber** could be a great choice. With our Journeyman Plumber Exam Study Guide, you will have access to practice problems, detailed explanations, and preliminary testing requirements for each state. Additionally packed with study and time management tips and tricks, this book is an excellent resource created to enhance your study sessions and help you pass your Journeyman Plumber exam.
+
+Includes:
+
+  - 750 Practice Questions with Answer Keys
+  - Exam Topics from Actual Exam
+  - Exclusive Test Taking Techniques
+  - Proven Study Plan to Pass the First Time
+  - OSHA Review
+  - International Plumbing Code Review
+  - International Fuel Gas Code Review
+  - Isometrics Analysis
+  - Plumber Math Review
+  - State by State Guidance for Licensing and Testing Requirements
+
+Softbound
+
+Pages: 260
+
+ISBN-13: 9798434781022
+
+Based on the 2021 International Plumbing Code and Fuel Gas Code
 
 ## How does the Journeyman Plumber exam work?
 
@@ -91,7 +118,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

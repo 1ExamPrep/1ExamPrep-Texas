@@ -1,7 +1,7 @@
 ---
 title: ICC National Standard Journeyman Electrician Online Exam
 url: https://passyourtexascontractorexam.com/icc-journeyman-electrician/online-course-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas ICC National Standard Journeyman Electrician exam: an online course with practice exams you can take on a phone or.
 ---
@@ -27,7 +27,7 @@ $250 (was $279) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/43
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -39,7 +39,31 @@ The Online Exam Prep Course costs $250 and is written for the ICC National Stand
 
 ## About this ICC National Standard Journeyman Electrician package
 
-ICC G17 National Standard Journeyman Electrician - Online Exam Prep CourseThe ICC G17 National Standard Journeyman Electrician Online Exam Prep Course from Pass Your Texas Contractor Exam is designed for electricians seeking certification under the International Code Council (ICC) licensing standards.
+The ICC G17 National Standard Journeyman Electrician Online Exam Prep Course from Pass Your Texas Contractor Exam is designed for electricians seeking certification under the International Code Council (ICC) licensing standards. This comprehensive online training program aligns with the NEC (National Electrical Code) and covers essential topics such as wiring methods, electrical theory, grounding, conductors, overcurrent protection, and electrical equipment installation. The course prepares candidates for the ICC G17 Journeyman Electrician exam, which tests knowledge of code compliance and practical field applications in residential, commercial, and industrial settings. Provided by Pass Your Texas Contractor Exam, a verified contractor education school, the course includes online study materials and practice exams to help users meet ICC competency requirements for electrical licensure.
+
+Get one step closer to becoming a **NationalG17 Journeyman Electrician** with an online exam prep course to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques video and tips
+  - Highlighting and tabbing locations for the 2017 National Electrical Code
+  - Timed practice exams with hundreds of questions in a simulated computer-based format
+  - Downloadable and printable practice exams
+  -  One (1) year of online access
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Mississippi: **Southaven
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC National Standard Journeyman Electrician exam work?
 
@@ -89,7 +113,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

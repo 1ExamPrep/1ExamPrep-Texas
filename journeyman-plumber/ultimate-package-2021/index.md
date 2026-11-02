@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Ultimate Exam Prep Package (2021)
 url: https://passyourtexascontractorexam.com/journeyman-plumber/ultimate-package-2021/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Ultimate Exam Prep Package for the Texas Journeyman Plumber exam: the complete exam prep package. $325. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $325 (was $362) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/40
 - The written exam has 100 items in 120 minutes and costs $68.50 at Pearson VUE; the practical has 6 items in 240 minutes.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Exam Prep Package include?
 
@@ -39,7 +39,59 @@ The Ultimate Exam Prep Package costs $325 and is written for the Journeyman Plum
 
 ## About this Journeyman Plumber package
 
-TEXAS JOURNEYMAN PLUMBER ULTIMATE EXAM PREP PACKAGE [2021 IPC]The Texas Journeyman Plumber Ultimate Exam Prep Package, offered by Pass Your Texas Contractor Exam, provides a complete set of study materials aligned with the Texas State Board of Plumbing Examiners (TSBPE) requirements.
+The Texas Journeyman Plumber Ultimate Exam Prep Package, offered by Pass Your Texas Contractor Exam, provides a complete set of study materials aligned with the Texas State Board of Plumbing Examiners (TSBPE) requirements. Based on the 2021 International Plumbing Code (IPC), this program prepares candidates for the Texas Journeyman Plumber licensing exam through code-based reference books, practice questions, and calculation exercises covering topics such as sanitary drainage, venting, fixtures, water distribution, and gas piping. It supports applicants seeking to demonstrate competency in state plumbing codes and installation standards. The prep course integrates resources from the International Code Council (ICC) and follows Texas trade exam specifications to ensure readiness for both the written and practical portions of the journeyman plumber examination.
+
+### **Texas Journeyman Plumber Ultimate Exam Prep Package**
+
+### **Based on the 2021 International Plumbing Code**
+
+If you are looking into a career change and are interested in pursuing a trade career, becoming a **Journeyman Plumber** could be a great choice. With our Journeyman Plumber Ultimate Exam Prep Package, you will get the 2021 International Plumbing Code plus tabs, our softbound Journeyman Plumber Exam Study Guide, and our test success online course with videos to help you understand the International Plumbing Code and simulated computer-based exams to give you the experience you need to pass your journeyman plumber exam. This package is an excellent resource created to enhance your study sessions and help you pass your Journeyman Plumber exam.
+
+Our Texas Journeyman Plumber Ultimate Exam Prep Package includes:
+
+#### 1) **2021 International Plumbing Code**
+
+- Softbound
+- ISBN: 978-1609839628
+
+#### 2) **Quick Reference Tabs for the 2021 International Plumbing Code**
+
+- Our permanent quick reference tabs will help you navigate quickly through the Code book during your exam.
+
+#### 3) **Journeyman Plumber Exam Study Guide (softbound book)**
+
+- 750 Practice Questions with Answer Keys
+
+- Exam Topics from Actual Exam
+
+- Exclusive Test Taking Techniques
+
+- Proven Study Plan to Pass the First Time
+
+- OSHA Review
+
+- International Plumbing Code Review
+
+- International Fuel Gas Code Review
+
+- Isometrics Analysis
+
+- Plumber Math Review
+
+- Texas Licensing and Testing Requirements
+
+- Number of Pages: 260
+- ISBN: 979-8434781022
+
+#### 4) Journeyman Plumber Test Success Online Course
+
+- 8 Hours of Comprehensive Videos to Help You Understand Each Chapter of the International Plumbing Code and Isometric Drawings
+- Simulated Computer-Based Exams to give you the experience you need to pass
+
+- A downloadable copy of all the material in the Journeyman Plumber Exam Study Guide
+- Android and iOS Compatible - Complete the course on your phone, anytime or anywhere.
+
+**For Questions Please Call 1-877-775-9400**
 
 ## How does the Journeyman Plumber exam work?
 
@@ -91,7 +143,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

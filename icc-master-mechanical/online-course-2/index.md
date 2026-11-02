@@ -1,7 +1,7 @@
 ---
 title: ICC National Standard Master Mechanical Online Exam Prep
 url: https://passyourtexascontractorexam.com/icc-master-mechanical/online-course-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas ICC National Standard Master Mechanical exam: an online course with practice exams you can take on a phone or laptop.
 ---
@@ -27,7 +27,7 @@ $195 (was $220) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -39,7 +39,29 @@ The Online Exam Prep Course costs $195 and is written for the ICC National Stand
 
 ## About this ICC National Standard Master Mechanical package
 
-ICC G29 National Standard Master Mechanical Exam Prep [Online Course Only]The ICC G29 National Standard Master Mechanical Exam Prep online course from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G29 Master Mechanical certification, recognized by authorities having jurisdiction for mechanical contractor licensing.
+The ICC G29 National Standard Master Mechanical Exam Prep online course from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G29 Master Mechanical certification, recognized by authorities having jurisdiction for mechanical contractor licensing. This course covers key sections of the International Mechanical Code (IMC), International Fuel Gas Code (IFGC), and related energy and ventilation standards used in national mechanical examinations. Students review topics such as load calculations, duct design, fuel gas piping, equipment installation, and combustion air requirements. Designed for experienced HVAC professionals seeking ICC certification, the course aligns with the official ICC G29 exam content outline and provides structured, code-based instruction for mastery of mechanical system design, installation, and code compliance within commercial and residential applications.
+
+Get one step closer to becoming a **NationalG29 Master Mechanical Contractor** with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Online Course Includes:**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2018 International Fuel Gas Code and Mechanical Code
+  - Downloadable and printable practice exams with hundreds of questions
+
+  - One (1) year of online access
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC National Standard Master Mechanical exam work?
 
@@ -89,7 +111,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

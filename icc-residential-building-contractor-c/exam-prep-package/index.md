@@ -1,7 +1,7 @@
 ---
 title: ICC Residential Building Contractor: Exam Prep Package
 url: https://passyourtexascontractorexam.com/icc-residential-building-contractor-c/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Residential Building Contractor (C) exam: an exam prep package. $350. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $350 (was $390) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,35 @@ The Exam Prep Package costs $350 and is written for the ICC Residential Building
 
 ## About this ICC Residential Building Contractor (C) package
 
-ICC F13 National Standard Residential Building Contractor (C) Exam Prep PackageThe ICC F13 National Standard Residential Building Contractor (C) Exam Prep Package by Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) F13 certification, which evaluates knowledge of residential construction, building codes, and project management under the C classification.
+The ICC F13 National Standard Residential Building Contractor (C) Exam Prep Package by Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) F13 certification, which evaluates knowledge of residential construction, building codes, and project management under the C classification. This prep course focuses on essential code references, including the International Residential Code (IRC) and building standards applicable to residential structures. The program is structured for contractors seeking to meet ICC testing standards and licensing requirements, offering study materials aligned with current exam content for general and residential contractor licensing. It supports candidates pursuing credentials through recognized authorities and includes comprehensive review resources for code interpretation, safety, and residential building compliance.
+
+Get one step closer to becoming a **NationalF13 Residential Building Contractor (C) **with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2015 International Residential Code
+  - Downloadable and printable practice exams with hundreds of questions
+
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2015 International Residential Code and affixable pre-printed tabs
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Antonio, San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Residential Building Contractor (C) exam work?
 
@@ -89,7 +117,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

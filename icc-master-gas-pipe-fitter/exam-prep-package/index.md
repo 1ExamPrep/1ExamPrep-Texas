@@ -1,7 +1,7 @@
 ---
 title: ICC Master Gas Pipe Fitter Exam Prep Package (any state)
 url: https://passyourtexascontractorexam.com/icc-master-gas-pipe-fitter/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Master Gas Pipe Fitter exam: an exam prep package. $290. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $290 (was $325) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,34 @@ The Exam Prep Package costs $290 and is written for the ICC Master Gas Pipe Fitt
 
 ## About this ICC Master Gas Pipe Fitter package
 
-ICC F33 NATIONAL STANDARD MASTER GAS PIPE FITTER EXAM PREP PACKAGEThe ICC F33 National Standard Master Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) standards for the F33 Master Gas Pipe Fitter license.
+The ICC F33 National Standard Master Gas Pipe Fitter Exam Prep Package by Pass Your Texas Contractor Exam provides structured training aligned with the International Code Council (ICC) standards for the F33 Master Gas Pipe Fitter license. This package covers topics such as gas system installation, pipe sizing, combustion air requirements, venting, and applicable codes under the International Fuel Gas Code (IFGC). Designed to assist candidates in meeting ICC’s licensing criteria, the course integrates study materials, code references, and sample exam questions to enhance comprehension of gas fitting practices and safety standards. The prep materials are intended for professionals seeking ICC certification in gas pipe fitting for both commercial and residential applications.
+
+Get one step closer to becoming a **NationalF33 Master Gas Pipe Fitter** with an online exam prep course and all of the approved references to help you conquer the required ICC open-book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2015 International Fuel Gas Code
+  - Downloadable and printable practice questions
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2015 Fuel Gas Code and affixable pre-printed tabs
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Master Gas Pipe Fitter exam work?
 
@@ -90,7 +117,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

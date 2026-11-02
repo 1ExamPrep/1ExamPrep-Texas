@@ -1,7 +1,7 @@
 ---
 title: ICC General Building Contractor: Online Exam Prep Course
 url: https://passyourtexascontractorexam.com/icc-general-building-contractor-a/online-course/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas ICC General Building Contractor (A) exam: an online course with practice exams you can take on a phone or laptop. $195.
 ---
@@ -27,7 +27,7 @@ $195 (was $220) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -39,7 +39,29 @@ The Online Exam Prep Course costs $195 and is written for the ICC General Buildi
 
 ## About this ICC General Building Contractor (A) package
 
-ICC F11 National Standard General Building Contractor (A) Exam Prep [Online Course Only] The ICC F11 National Standard General Building Contractor (A) Exam Prep Course by Pass Your Texas Contractor Exam provides study resources aligned with the International Code Council (ICC) standards for the General Building Contractor (A) credential.
+The ICC F11 National Standard General Building Contractor (A) Exam Prep Course by [Pass Your Texas Contractor Exam](https://1examprep.com/) provides study resources aligned with the International Code Council (ICC) standards for the General Building Contractor (A) credential. This online course covers topics within the 2021 International Building Code, International Residential Code, and OSHA safety requirements relevant to both residential and commercial construction projects. Developed to prepare candidates for the ICC F11 exam, it includes comprehensive coverage of structural design, construction administration, code compliance, and materials specifications. The program focuses on practice tests, code references, and online learning modules to assist contractors in meeting ICC certification requirements recognized nationwide for Class A [general contractors](https://1examprep.com/pages/general-contractors).
+
+Get one step closer to becoming a **NationalF11 General Building Contractor (A) **with an [online exam prep course](https://1examprep.com/pages/florida-contractor-exam-prep) to help conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Online Course Includes:**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2015 International Building Code
+  - Downloadable and printable practice exams with hundreds of questions
+
+  -  One (1) year of online access
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Antonio, San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC General Building Contractor (A) exam work?
 
@@ -89,7 +111,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

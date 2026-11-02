@@ -1,7 +1,7 @@
 ---
 title: ICC General Building Contractor: Online Exam Prep Course
 url: https://passyourtexascontractorexam.com/icc-general-building-contractor-a/online-course-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Online Exam Prep Course for the Texas ICC General Building Contractor (A) exam: an online course with practice exams you can take on a phone or laptop. $195.
 ---
@@ -27,7 +27,7 @@ $195 (was $220) Save 11% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Online access arrives by email after purchase. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Online Exam Prep Course include?
 
@@ -39,7 +39,30 @@ The Online Exam Prep Course costs $195 and is written for the ICC General Buildi
 
 ## About this ICC General Building Contractor (A) package
 
-ICC G11 NATIONAL STANDARD GENERAL BUILDING CONTRACTOR (A) EXAM PREP [ONLINE COURSE ONLY]The ICC G11 National Standard General Building Contractor (A) Exam Prep Online Course by Pass Your Texas Contractor Exam provides a complete web-based training solution for candidates preparing for the ICC General Building Contractor (A) examination, administered by the International Code Council (ICC).
+The ICC G11 National Standard General Building Contractor (A) Exam Prep Online Course by Pass Your Texas Contractor Exam provides a complete web-based training solution for candidates preparing for the ICC General Building Contractor (A) examination, administered by the International Code Council (ICC). This online course focuses on advanced construction topics, including structural design, steel and concrete framing, and high-rise building systems as referenced in the International Building Code (IBC). The curriculum includes timed practice tests, interactive modules, and digital study materials that parallel ICC’s official exam outline. It is designed for self-paced learning and compliance with the National Standard General Building Contractor (A) scope, supporting contractors seeking national certification for multi-story and commercial building projects in accordance with ICC regulatory standards.
+
+Get one step closer to becoming a **NationalG11 General Building Contractor (A) **with an online exam prep course to help conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Online Course Includes:**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the 2018 International Building Code
+  - Highlighting and tabbing locations for the 2021 ICC Concrete Manual (2015 edition is unavailable from publisher)
+  - Downloadable and printable practice exams with hundreds of questions
+
+  -  One (1) year of online access
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC General Building Contractor (A) exam work?
 
@@ -89,7 +112,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

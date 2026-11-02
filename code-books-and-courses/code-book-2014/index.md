@@ -1,7 +1,7 @@
 ---
 title: Code Books, Courses and Practice Tests Code Book (any state)
 url: https://passyourtexascontractorexam.com/code-books-and-courses/code-book-2014/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Code Book for the Texas Code Books, Courses and Practice Tests exam: the printed code book. $49.95. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $49.95 (was $55.50) Save 10% [Buy now, go to checkout](https://1examprep.com/car
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so buy the 2026 edition for a Texas electrical exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Code Book include?
 
@@ -39,7 +39,12 @@ The Code Book costs $49.95 and is written for the Code Books, Courses and Practi
 
 ## About this Code Books, Courses and Practice Tests package
 
-Calculations for Electrical Exam 2014 NECThis reference focuses on calculation methods aligned with the 2014 National Electrical Code, supporting exam preparation for electrical licensing tests by covering load calculations, conductor and overcurrent protection sizing, motor and transformer calculations, voltage drop, box and raceway fill, service and feeder sizing, and other NEC-based quantita...
+The Calculations for Electrical Exam 2014 NEC reference focuses on calculation methods aligned with the 2014 National Electrical Code, supporting exam preparation for electrical licensing tests by covering load calculations, conductor and overcurrent protection sizing, motor and transformer calculations, voltage drop, box and raceway fill, service and feeder sizing, and other NEC-based quantitative requirements commonly evaluated on electrical trade exams.
+
+Calculations for Electrical Exam 2014 NEC. This self-study exam prep book is based on the 2014 NEC® with ten practice calculations exams consisting of 25 questions each and a final exam of 100 questions. This calculations book covers most topics that are included on all Journeyman and Master Electricians exams such as conductor sizing and protection, motors, transformers, voltage drop, demand loads, box and conduit sizing, over-current protection and residential and commercial load calculations. The text contains the most widely used electrical calculations and formulas the reader needs to pass the journeyman and master electrical competency exam. -10 Open Book Practice Exam with Answers -2 Complete Final Exams with Answers and Analysis -Helpful Tips to Pass the Test This comprehensive electrical calculations textbook is based on the 2014 NEC® and contains complete coverage of core concepts of electrical calculations needed by every electrician. This book is arranged with topic-by-topic organization and step-by-step calculations giving the electrician insight and understanding to solving mathematical problems. The text contains 10 main topic units filled with related information, with a Self-Assessment Quiz following each unit, as well as a 90 question final exam. The book will familiarize you with formulas and calculations for branch circuits, AC motors, voltage drop, power factor, conductors, boxes & raceways, appliances, dwellings, commercial occupancies, and many more topics.
+
+### About the Author
+ H. Ray Holder has worked in the electrical industry for over fifty years as an apprentice, journeyman, master, field engineer, estimator, manager, contractor, inspector, consultant, and instructor. Mr. Holder is a graduate of Texas State University and holds a Bachelor of Science Degree in Occupational Education. He also holds a lifetime teaching certificate from the Texas Education Agency, in the field of Vocational Education. He is a certified instructor of electrical trades. His classes are presented in a simplified, easy-to-understand format for electricians. Since 1965, Mr. Holder has taught over 30,000 students at Austin Community College and the University of Texas, at Austin, Texas, Odessa College, at Odessa, Texas, Technical-Vocational Institute of Albuquerque, New Mexico, Howard College, at San Angelo, Texas and in the public school systems in Ft. Worth and San Antonio, Texas, as well as conducted electrical seminars throughout the United States. He is currently the Director of Education for Electrical Seminars, Inc. Mr. Holder is a former member of the National Fire Protection Association, International Association of Electrical Inspectors and retired member of the International Brotherhood of Electrical Workers. |title=Reference Materials|nfpa-70-national-electrical-code-nec-2014-edition|title=Extra Study Materials|online-2014-calculations-exam-prep-and-study-guide|2014-journeymans-electrician-licensing-online-tests|2014-masters-electrician-exam-questions-tests-online-version|
 
 ## How does the Code Books, Courses and Practice Tests exam work?
 
@@ -89,7 +94,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [PSI Texas electrician candidate bulletin](https://test-takers.psiexams.com/api/content/bulletin/1682)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

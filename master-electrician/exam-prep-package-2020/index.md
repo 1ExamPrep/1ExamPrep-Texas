@@ -1,7 +1,7 @@
 ---
 title: Texas Master Electrician Exam Prep Package (2020)
 url: https://passyourtexascontractorexam.com/master-electrician/exam-prep-package-2020/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas Master Electrician exam: an exam prep package. $240. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $240 (was $275) Save 13% [Buy now, go to checkout](https://1examprep.com/cart/31
 - Texas electrical exams have used the 2026 NEC since September 1, 2026, so pick a 2026 edition for a current exam.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -43,7 +43,11 @@ The Exam Prep Package costs $240 to $770 with the options above and is written f
 
 ## About this Master Electrician package
 
-TEXAS 2020 MASTER ELECTRICIAN EXAM PREP PACKAGEThe Texas 2020 Master Electrician Exam Prep Package from Pass Your Texas Contractor Exam is structured to prepare electricians for the Texas Department of Licensing and Regulation (TDLR) master electrician examination.
+The Texas 2020 Master Electrician Exam Prep Package from Pass Your Texas Contractor Exam is structured to prepare electricians for the Texas Department of Licensing and Regulation (TDLR) master electrician examination. Built around the 2020 National Electrical Code (NEC), this program provides in-depth coverage of service calculations, grounding and bonding, conductor sizing, overcurrent protection, and electrical system design. The prep materials include NEC code references, sample questions, and PSI-format practice tests focused on complex commercial and industrial applications. This course supports mastery of Texas-specific licensing requirements and equips candidates to perform advanced design, supervision, and inspection of electrical installations in compliance with state and national code standards.
+
+**NOTE:** The Test Success Kit included in some packages is an online course, not a book. You will receive a course invitation via email.
+
+Pass Your Texas Contractor Exam brings you the most advanced, comprehensive and user-friendly electrician exam prep on the market. Let's get your new career as an electrician started! With 4 distinct packages to choose from, you will get the tools that are right for your learning style and budget. Ranging from the complete book set to webinar access and highlights, this product has proven to help over 50,000 students to date (Available in all 50 states).
 
 ## How does the Master Electrician exam work?
 
@@ -100,7 +104,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

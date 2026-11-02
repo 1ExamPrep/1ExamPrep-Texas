@@ -1,7 +1,7 @@
 ---
 title: ICC Journeyman Plumber with Gas: Exam Prep Package
 url: https://passyourtexascontractorexam.com/icc-journeyman-plumber-gas/exam-prep-package-2/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Journeyman Plumber with Gas exam: an exam prep package. $409. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $409 (was $455) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/39
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,36 @@ The Exam Prep Package costs $409 and is written for the ICC Journeyman Plumber w
 
 ## About this ICC Journeyman Plumber with Gas package
 
-ICC G28 National Standard Journeyman Plumber with Gas Exam Prep PackageThe ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Package from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G28 examination, which certifies journeyman plumbers authorized to install, maintain, and repair plumbing systems including gas piping in accordance with the International ...
+The ICC G28 National Standard Journeyman Plumber with Gas Exam Prep Package from Pass Your Texas Contractor Exam prepares candidates for the International Code Council (ICC) G28 examination, which certifies journeyman plumbers authorized to install, maintain, and repair plumbing systems including gas piping in accordance with the International Plumbing Code (IPC) and International Fuel Gas Code (IFGC). This structured study package covers plumbing code requirements, materials, venting systems, gas distribution, and safety standards as outlined by the ICC. It aligns with trade licensing requirements for plumbing professionals seeking national credentialing, providing code-based practice questions and reference materials to reinforce compliance and proficiency in both residential and commercial plumbing applications.
+
+Get one step closer to becoming a **NationalG28 Journeyman Plumber with Gas** with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  -  Highlighting and tabbing locations for the references
+  - Downloadable and printable practice exams
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2018 International Plumbing Code and affixable pre-printed tabs
+
+  - 2018 Fuel Gas Code and affixable pre-printed tabs
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos, Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Journeyman Plumber with Gas exam work?
 
@@ -89,7 +118,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ICC Building Contractor (B) Exam Prep Package (any state)
 url: https://passyourtexascontractorexam.com/icc-building-contractor-b/exam-prep-package/
-updated: 2026-10-30
+updated: 2026-11-02
 site: Pass Your Texas Contractor Exam
 description: Exam Prep Package for the Texas ICC Building Contractor (B) exam: an exam prep package. $698. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $698 (was $776) Save 10% [Buy now, go to checkout](https://1examprep.com/cart/31
 - ICC National Standard and NASCLA exams are national exams, used by cities, counties and other states that do not write their own.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated October 30, 2026 · prices checked against the 1 Exam Prep store
+Updated November 2, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Exam Prep Package include?
 
@@ -39,7 +39,37 @@ The Exam Prep Package costs $698 and is written for the ICC Building Contractor 
 
 ## About this ICC Building Contractor (B) package
 
-ICC F12 NATIONAL STANDARD BUILDING CONTRACTOR (B) EXAM PREP PACKAGE The ICC F12 National Standard Building Contractor (B) Exam Prep Package by Pass Your Texas Contractor Exam provides study resources aligned with the International Code Council’s F12 Building Contractor (B) certification.
+The ICC F12 National Standard Building Contractor (B) Exam Prep Package by Pass Your Texas Contractor Exam provides study resources aligned with the International Code Council’s F12 Building Contractor (B) certification. This comprehensive prep program supports contractors seeking licensing under the ICC National Contractor Exam system, covering subjects such as structural framing, masonry, concrete, roofing, and code compliance under the International Building Code (IBC). It includes detailed reference materials, practice exams, and explanations based on the ICC exam content outline, helping candidates prepare for the contractor licensing standards required across multiple U.S. jurisdictions.
+
+Get one step closer to becoming a **NationalF12 Building Contractor (B) **with an online exam prep course and all of the approved references to help you conquer the required ICC open book examination.
+
+Use the online course structure to tailor your prep to your individual learning style. You’ll have a one full year of access to the online course.
+
+**The Exam Prep Package Includes:**
+
+- **Online Exam Prep Course**
+
+  - Test-taking techniques and tips
+  - Highlighting and tabbing locations for the references
+  - Downloadable and printable practice exams with hundreds of questions
+
+  - One (1) year of online access
+
+- **Approved References for the Exam**
+
+  - 2015 International Building Code and affixable pre-printed tabs
+  - 2015 International Residential Code and affixable pre-printed tabs
+  - 2021 ICC Concrete Manual and affixable pre-printed tabs (2015 edition is unavailable from publisher)
+
+**The ICC National Contractor Exam is used in many municipalities across the country including:Colorado:** Arvada, Aurora, Colorado Springs, Denver, Grand Junction, Pueblo
+
+**Kansas: **Johnson County, Sedgwick County, Shawnee County
+
+**Texas:** San Marcos , Seguin
+
+**Wyoming: **Casper, Cheyenne
+
+**Examination Outline **- This examination is OPEN BOOK
 
 ## How does the ICC Building Contractor (B) exam work?
 
@@ -89,7 +119,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated October 30, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
