@@ -1,7 +1,7 @@
 ---
 title: Dallas Commercial Green Construction Professional Book
 url: https://passyourtexascontractorexam.com/dallas-green-construction-professional/book-package/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your Texas Contractor Exam
 description: Book Package for the Texas Dallas Commercial Green Construction Professional exam: the reference books the exam is written to, new and unmarked. $295.
 ---
@@ -27,7 +27,7 @@ $295 (was $395) Save 25% [Buy now, go to checkout](https://1examprep.com/cart/45
 - Texas does not license general contractors at the state level; the Texas Residential Construction Commission was abolished in 2009.
 - Books ship from our fulfillment center, 1 Exam Prep. Buying does not grant exam eligibility.
 
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Book Package include?
 
@@ -204,7 +204,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [Dallas third-party green providers](https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/dallas_third_party.aspx)
 - [TDLR code enforcement officers](https://www.tdlr.texas.gov/ceo/ceoapply.htm)
 
-Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 9, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

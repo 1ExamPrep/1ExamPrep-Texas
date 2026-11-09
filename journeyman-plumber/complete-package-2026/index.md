@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Plumber Complete Package (2026)
 url: https://passyourtexascontractorexam.com/journeyman-plumber/complete-package-2026/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your Texas Contractor Exam
 description: Complete Package for the Texas Journeyman Plumber exam: the books, tabs and course together. $344.99. One-click checkout.
 ---
@@ -27,7 +27,7 @@ $344.99 (was $400) Save 14% [Buy now, go to checkout](https://1examprep.com/cart
 - The written exam has 100 items in 120 minutes and costs $68.50 at Pearson VUE; the practical has 6 items in 240 minutes.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Complete Package include?
 
@@ -187,7 +187,7 @@ Online courses and practice exams arrive by email after purchase. Books ship fro
 - [TSBPE master plumber license](https://tsbpe.texas.gov/licensing/master/)
 - [Pearson VUE: Texas plumbing exams](https://www.pearsonvue.com/us/en/tsbpe.html)
 
-Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 9, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

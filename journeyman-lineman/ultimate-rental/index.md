@@ -1,7 +1,7 @@
 ---
 title: Texas Journeyman Lineman Ultimate Rental Package
 url: https://passyourtexascontractorexam.com/journeyman-lineman/ultimate-rental/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your Texas Contractor Exam
 description: Ultimate Rental Package for the Texas Journeyman Lineman exam: highlighted and tabbed rental books, the online course and live training. $1,065. One-click.
 ---
@@ -27,7 +27,7 @@ $1,065 (was $1,465) Save 27% [Buy now, go to checkout](https://1examprep.com/car
 - The PSI exam has 40 scored items in 120 minutes and costs $61.
 - Books ship from our fulfillment center; online parts arrive by email. Buying does not grant exam eligibility.
 
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 ## What does the Ultimate Rental Package include?
 
@@ -350,7 +350,7 @@ Yes. Rental books are returned after your exam, using the return instructions th
 - [TDLR: 2026 NEC adopted for September 1, 2026](https://content.govdelivery.com/accounts/TXDLR/bulletins/422bc69)
 - [TDLR electrician continuing education](https://www.tdlr.texas.gov/electricians/elecce.htm)
 
-Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 9, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

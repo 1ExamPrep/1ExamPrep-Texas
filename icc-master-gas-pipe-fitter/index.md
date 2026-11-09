@@ -1,7 +1,7 @@
 ---
 title: Texas ICC Master Gas Pipe Fitter Exam Prep
 url: https://passyourtexascontractorexam.com/icc-master-gas-pipe-fitter/
-updated: 2026-11-02
+updated: 2026-11-09
 site: Pass Your Texas Contractor Exam
 description: ICC Master Gas Pipe Fitter exam prep for Texas: 1 option from $290 to $290, including exam prep package. One-click checkout.
 ---
@@ -41,7 +41,7 @@ Not sure which one? Call [(877) 775-9400](tel:+18777759400)
 - Texas licenses electricians and air conditioning contractors through TDLR and plumbers through TSBPE, so these exams are mainly for work outside the state system.
 - Buy now goes straight to secure checkout; books ship from 1 Exam Prep and online courses arrive by email.
 
-Updated November 2, 2026 · prices checked against the 1 Exam Prep store
+Updated November 9, 2026 · prices checked against the 1 Exam Prep store
 
 ## 1 ICC Master Gas Pipe Fitter package
 
@@ -139,7 +139,7 @@ Printed and rental books ship from our fulfillment center, 1 Exam Prep. Online c
 - [NASCLA accredited examinations](https://www.nascla.org/page/AccreditedExam)
 - [TDLR electrician exams](https://www.tdlr.texas.gov/electricians/elecexam.htm)
 
-Licensing facts checked against these pages; last updated November 2, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 9, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
