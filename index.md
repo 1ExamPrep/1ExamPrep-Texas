@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Prep for Every License
 url: https://passyourtexascontractorexam.com/
-updated: 2026-11-16
+updated: 2026-11-17
 site: Pass Your Texas Contractor Exam
 description: Texas exam prep for 40 licenses: TDLR electrician and A/C contractor exams, TSBPE plumbing, and San Antonio and Dallas city exams. Books, courses and The 1.
 ---
@@ -20,7 +20,7 @@ Exam prep for 40 Texas licenses: TDLR electrician licenses from residential wire
 - Texas has no state general contractor license, so trade licenses and city registrations are what you test for.
 - Every Buy now button goes straight to secure checkout at our fulfillment center, 1 Exam Prep.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 17, 2026 · prices checked against the 1 Exam Prep store
 
 ## Texas electrician licenses
 
@@ -162,7 +162,7 @@ Buy now opens secure checkout at 1 Exam Prep. Books ship from the fulfillment ce
 
 Study plans and Texas licensing news, each post checked against the board that sets the rule.
 
-[October 30, 2026**Texas Electrician Contractor Exam Topics and Best Prep Options** If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam.](https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/)
+[November 17, 2026**What Study Materials Are Best for City Contractor Exams in Texas Cities Like Houston or Dallas?** If you’re taking a city contractor exam in Texas, especially in Houston or Dallas, picking the right study materials is a big deal. Prices for these.](https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/) · [October 30, 2026**Texas Electrician Contractor Exam Topics and Best Prep Options** If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam.](https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/)
 [See every post](https://passyourtexascontractorexam.com/blog/)
 
 ## What do people ask before buying?
@@ -208,7 +208,7 @@ The 1 Package is the all-inclusive option for a Texas electrical license: the ex
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated November 16, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 17, 2026. Rules change, so confirm with the board before you apply.
 
 ## Your exam date is not moving. *Start today.*
 

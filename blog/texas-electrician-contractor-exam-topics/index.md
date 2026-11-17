@@ -1,7 +1,7 @@
 ---
 title: Texas Electrician Contractor Exam Topics and Best Prep Options
 url: https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/
-updated: 2026-11-16
+updated: 2026-11-17
 site: Pass Your Texas Contractor Exam
 description: If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests.
 ---
@@ -21,7 +21,7 @@ If you’re aiming to become a licensed electrician contractor in Texas, underst
 - Pass Your Texas Contractor Exam offers Texas-specific, updated study materials plus licensing and business setup guidance.
 - Other online prep sites and free resources lack Texas code focus and comprehensive exam coverage.
 
-Updated November 16, 2026 · prices checked against the 1 Exam Prep store
+Updated November 17, 2026 · prices checked against the 1 Exam Prep store
 
 ## Texas Electrician Contractor Exam Topics: Pass Your Texas Contractor Exam vs Other Prep Options
 
@@ -126,6 +126,17 @@ Find your license, then choose a package.
 
 Exam prep for 40 Texas electrician, plumbing, A/C and city licenses.
 [Find my license](https://passyourtexascontractorexam.com/#electrical)
+
+## Keep reading
+
+[
+
+November 17, 2026 10 min read
+
+## What Study Materials Are Best for City Contractor Exams in Texas Cities Like Houston or Dallas?
+
+If you’re taking a city contractor exam in Texas, especially in Houston or Dallas, picking the right study materials is a big deal. Prices for these materials vary a lot, basic sets might cost around $100, while complete packages with everything you want could be up to $500. The right materials will
+](https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/)
 
 ---
 
