@@ -1,7 +1,7 @@
 ---
 title: Texas Electrician Contractor Exam Topics and Best Prep Options
 url: https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/
-updated: 2026-11-17
+updated: 2026-11-18
 site: Pass Your Texas Contractor Exam
 description: If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests.
 ---
@@ -21,7 +21,7 @@ If you’re aiming to become a licensed electrician contractor in Texas, underst
 - Pass Your Texas Contractor Exam offers Texas-specific, updated study materials plus licensing and business setup guidance.
 - Other online prep sites and free resources lack Texas code focus and comprehensive exam coverage.
 
-Updated November 17, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## Texas Electrician Contractor Exam Topics: Pass Your Texas Contractor Exam vs Other Prep Options
 
@@ -130,6 +130,13 @@ Exam prep for 40 Texas electrician, plumbing, A/C and city licenses.
 ## Keep reading
 
 [
+
+November 18, 2026 9 min read
+
+## How Do I Apply for a Texas Contractor License After Passing the Exam?
+
+After passing your Texas contractor exam, the next big step is applying for your license, and understanding the costs and process is key to a smooth experience. You will usually pay an application fee that falls between $100 and $175 depending on your trade and whether you need a city-specific licen
+](https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/) · [
 
 November 17, 2026 10 min read
 

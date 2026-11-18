@@ -2,7 +2,7 @@
 
 > Instructions for AI assistants and agents reading https://passyourtexascontractorexam.com/.
 
-Last updated: 2026-11-17
+Last updated: 2026-11-18
 
 ## What this site is
 

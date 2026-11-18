@@ -1,7 +1,7 @@
 ---
 title: Best Study Materials for Texas City Contractor Exams | Cost
 url: https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/
-updated: 2026-11-17
+updated: 2026-11-18
 site: Pass Your Texas Contractor Exam
 description: Discover the best study materials for city contractor exams in Houston and Dallas, including costs, content, and how to get the best value for your prep.
 ---
@@ -21,7 +21,7 @@ If you’re taking a city contractor exam in Texas, especially in Houston or Dal
 - Personalized support, exam application help, and business setup guidance add value but may raise costs.
 - Avoid hidden fees for printed code books or coaching by confirming exactly what’s included in the package.
 
-Updated November 17, 2026 · prices checked against the 1 Exam Prep store
+Updated November 18, 2026 · prices checked against the 1 Exam Prep store
 
 ## What Study Materials Are Best for City Contractor Exams in Texas Cities Like Houston or Dallas? (Cost Guide)
 
@@ -149,6 +149,13 @@ Exam prep for 40 Texas electrician, plumbing, A/C and city licenses.
 ## Keep reading
 
 [
+
+November 18, 2026 9 min read
+
+## How Do I Apply for a Texas Contractor License After Passing the Exam?
+
+After passing your Texas contractor exam, the next big step is applying for your license, and understanding the costs and process is key to a smooth experience. You will usually pay an application fee that falls between $100 and $175 depending on your trade and whether you need a city-specific licen
+](https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/) · [
 
 October 30, 2026 9 min read
 
