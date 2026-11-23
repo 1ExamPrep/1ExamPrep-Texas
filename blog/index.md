@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Blog: Study Tips and Rules
 url: https://passyourtexascontractorexam.com/blog/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Texas Contractor Exam
 description: Study plans, Texas licensing rules and exam strategy for electrician, plumbing and A/C exams, from Pass Your Texas Contractor Exam.
 ---
@@ -11,27 +11,35 @@ description: Study plans, Texas licensing rules and exam strategy for electricia
 # The Texas contractor exam blog
 
 Study plans, Texas licensing rules and exam strategy for electrician, plumbing, air conditioning and city exams, written for people who work full days and study at night. Each post links to the license it covers, and every rule we quote, from the 2026 NEC switch to the PSI tab rules, links to the board that sets it.
+[All](https://passyourtexascontractorexam.com/blog/) · [acr](https://passyourtexascontractorexam.com/blog/tag/acr/) · [electrical](https://passyourtexascontractorexam.com/blog/tag/electrical/) · [plumbing](https://passyourtexascontractorexam.com/blog/tag/plumbing/) · [texas contractor license](https://passyourtexascontractorexam.com/blog/tag/texas-contractor-license/)
 
 ## Key takeaways
 
-- 3 posts so far, written for Texas electrician, plumbing and A/C candidates.
-- Topics cover study strategy, using the references and Texas licensing rules.
+- 4 posts so far, written for Texas electrician, plumbing and A/C candidates.
+- Topics: acr, electrical, plumbing, texas contractor license.
 - Exam prep for 40 Texas licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourtexascontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
 Latest
 
+## Texas Contractor License: 15 Questions People Ask, Answered
+
+Texas has no state general contractor license, but electricians, plumbers and A/C contractors are licensed by TDLR or TSBPE. Here are straight answers to the 15 questions Texans search most about getting licensed. Each answer is short, plain and checked against the official board and exam sources.
+
+November 23, 2026 7 min read
+](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/)
+[
+
+November 18, 2026 9 min read
+
 ## How Do I Apply for a Texas Contractor License After Passing the Exam?
 
 After passing your Texas contractor exam, the next big step is applying for your license, and understanding the costs and process is key to a smooth experience. You will usually pay an application fee that falls between $100 and $175 depending on your trade and whether you need a city-specific licen
-
-November 18, 2026 9 min read
-](https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/)
-[
+](https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/) · [
 
 November 17, 2026 10 min read
 
@@ -119,7 +127,7 @@ Exam prep for every Texas electrician, plumbing, A/C and city license on this si
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated November 20, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 

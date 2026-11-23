@@ -1,7 +1,7 @@
 ---
 title: How to Apply for Texas Contractor License After Passing Exam
 url: https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/
-updated: 2026-11-20
+updated: 2026-11-23
 site: Pass Your Texas Contractor Exam
 description: Learn the step-by-step process and costs to apply for your Texas contractor license after passing the exam, including city and state fees.
 ---
@@ -21,7 +21,7 @@ After passing your Texas contractor exam, the next big step is applying for your
 - Check official state and city licensing websites to confirm exact fees and potential fee waivers before applying.
 - Avoid unnecessary expenses by handling applications yourself unless third-party services deliver valuable extras.
 
-Updated November 20, 2026 · prices checked against the 1 Exam Prep store
+Updated November 23, 2026 · prices checked against the 1 Exam Prep store
 
 ## How Much Does It Cost to Apply for a Texas Contractor License After Passing the Exam?
 
@@ -143,6 +143,14 @@ Exam prep for 40 Texas electrician, plumbing, A/C and city licenses.
 ## Keep reading
 
 [
+Texas Contractor License: 15 Questions People As
+
+November 23, 2026 7 min read
+
+## Texas Contractor License: 15 Questions People Ask, Answered
+
+Texas has no state general contractor license, but electricians, plumbers and A/C contractors are licensed by TDLR or TSBPE. Here are straight answers to the 15 questions Texans search most about getting licensed. Each answer is short, plain and checked against the official board and exam sources.
+](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/) · [
 
 November 17, 2026 10 min read
 
