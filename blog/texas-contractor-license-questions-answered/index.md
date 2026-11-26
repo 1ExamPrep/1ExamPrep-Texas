@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor License: 15 Common Questions Answered
 url: https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your Texas Contractor Exam
 description: Does Texas require a contractor license? Costs, exams, hours, open-book rules and renewals for Texas electrical, plumbing and A/C licenses, answered.
 ---
@@ -22,7 +22,7 @@ Texas has no state general contractor license, but electricians, plumbers and A/
 - Electrical and A/C exams are open book; Texas plumbing written exams are closed book.
 - An Electrical Contractor license costs $110 and needs a Master Electrician plus $300,000 per occurrence liability insurance.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 Texas does not license general contractors at the state level, so most builders need no state license at all. Electricians, plumbers and air conditioning contractors do: TDLR licenses electrical and A/C work and tests at PSI, while the Texas State Board of Plumbing Examiners (TSBPE) licenses plumbers. The answers below cover the 15 questions Texans search most.
 
@@ -159,6 +159,13 @@ Exam prep for 40 Texas electrician, plumbing, A/C and city licenses.
 
 [
 
+November 26, 2026 11 min read
+
+## Is There a Difference Between Preparing for a Statewide vs City-Specific Contractor Exam in Texas?
+
+Contractor licensing in Texas involves navigating two main types of exams: statewide specialty trade exams and city-specific contractor exams. Statewide exams, such as those for electrical or plumbing licenses, are regulated by the Texas Department of Licensing and Regulation (TDLR) or the Texas Sta
+](https://passyourtexascontractorexam.com/blog/statewide-vs-city-contractor-exam-prep-texas/) · [
+
 November 18, 2026 9 min read
 
 ## How Do I Apply for a Texas Contractor License After Passing the Exam?
@@ -171,14 +178,7 @@ November 17, 2026 10 min read
 ## What Study Materials Are Best for City Contractor Exams in Texas Cities Like Houston or Dallas?
 
 If you’re taking a city contractor exam in Texas, especially in Houston or Dallas, picking the right study materials is a big deal. Prices for these materials vary a lot, basic sets might cost around $100, while complete packages with everything you want could be up to $500. The right materials will
-](https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/) · [
-
-October 30, 2026 9 min read
-
-## Texas Electrician Contractor Exam Topics and Best Prep Options
-
-If you’re aiming to become a licensed electrician contractor in Texas, understanding the exam topics is vital. The Texas Electrician Contractor exam tests your grasp of the National Electrical Code as it applies in Texas, electrical theory, safe installation practices, state-specific electrical laws
-](https://passyourtexascontractorexam.com/blog/texas-electrician-contractor-exam-topics/)
+](https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/)
 
 ---
 

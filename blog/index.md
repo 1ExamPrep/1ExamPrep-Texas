@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor Exam Blog: Study Tips and Rules
 url: https://passyourtexascontractorexam.com/blog/
-updated: 2026-11-23
+updated: 2026-11-26
 site: Pass Your Texas Contractor Exam
 description: Study plans, Texas licensing rules and exam strategy for electrician, plumbing and A/C exams, from Pass Your Texas Contractor Exam.
 ---
@@ -15,24 +15,32 @@ Study plans, Texas licensing rules and exam strategy for electrician, plumbing, 
 
 ## Key takeaways
 
-- 4 posts so far, written for Texas electrician, plumbing and A/C candidates.
+- 5 posts so far, written for Texas electrician, plumbing and A/C candidates.
 - Topics: acr, electrical, plumbing, texas contractor license.
 - Exam prep for 40 Texas licenses, with every rule linked to the board that sets it.
 - New posts appear in the RSS feed at /blog/feed.xml the moment they are published.
 
-Updated November 23, 2026 · prices checked against the 1 Exam Prep store
+Updated November 26, 2026 · prices checked against the 1 Exam Prep store
 
 Most people who fail a licensing exam do not fail on knowledge. They run out of time in the references, misread an exception, or bring the wrong edition. New posts land here first and in the [RSS feed](https://passyourtexascontractorexam.com/blog/feed.xml). When a post is about one license, it links straight to that license page so you can act on it.
 [
 Latest
 
+## Is There a Difference Between Preparing for a Statewide vs City-Specific Contractor Exam in Texas?
+
+Contractor licensing in Texas involves navigating two main types of exams: statewide specialty trade exams and city-specific contractor exams. Statewide exams, such as those for electrical or plumbing licenses, are regulated by the Texas Department of Licensing and Regulation (TDLR) or the Texas Sta
+
+November 26, 2026 11 min read
+](https://passyourtexascontractorexam.com/blog/statewide-vs-city-contractor-exam-prep-texas/)
+[
+Texas Contractor License: 15 Questions People As
+
+November 23, 2026 7 min read
+
 ## Texas Contractor License: 15 Questions People Ask, Answered
 
 Texas has no state general contractor license, but electricians, plumbers and A/C contractors are licensed by TDLR or TSBPE. Here are straight answers to the 15 questions Texans search most about getting licensed. Each answer is short, plain and checked against the official board and exam sources.
-
-November 23, 2026 7 min read
-](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/)
-[
+](https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/) · [
 
 November 18, 2026 9 min read
 
@@ -127,7 +135,7 @@ Exam prep for every Texas electrician, plumbing, A/C and city license on this si
 - [TDLR air conditioning and refrigeration contractors](https://www.tdlr.texas.gov/acr/contractor-apply.htm)
 - [Texas State Board of Plumbing Examiners](https://tsbpe.texas.gov/license-types/journeyman)
 
-Licensing facts checked against these pages; last updated November 23, 2026. Rules change, so confirm with the board before you apply.
+Licensing facts checked against these pages; last updated November 26, 2026. Rules change, so confirm with the board before you apply.
 
 ---
 
