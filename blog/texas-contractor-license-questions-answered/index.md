@@ -1,7 +1,7 @@
 ---
 title: Texas Contractor License: 15 Common Questions Answered
 url: https://passyourtexascontractorexam.com/blog/texas-contractor-license-questions-answered/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Texas Contractor Exam
 description: Does Texas require a contractor license? Costs, exams, hours, open-book rules and renewals for Texas electrical, plumbing and A/C licenses, answered.
 ---
@@ -22,7 +22,7 @@ Texas has no state general contractor license, but electricians, plumbers and A/
 - Electrical and A/C exams are open book; Texas plumbing written exams are closed book.
 - An Electrical Contractor license costs $110 and needs a Master Electrician plus $300,000 per occurrence liability insurance.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 Texas does not license general contractors at the state level, so most builders need no state license at all. Electricians, plumbers and air conditioning contractors do: TDLR licenses electrical and A/C work and tests at PSI, while the Texas State Board of Plumbing Examiners (TSBPE) licenses plumbers. The answers below cover the 15 questions Texans search most.
 

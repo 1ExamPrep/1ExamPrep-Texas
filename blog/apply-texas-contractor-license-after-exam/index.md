@@ -1,7 +1,7 @@
 ---
 title: How to Apply for Texas Contractor License After Passing Exam
 url: https://passyourtexascontractorexam.com/blog/apply-texas-contractor-license-after-exam/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Texas Contractor Exam
 description: Learn the step-by-step process and costs to apply for your Texas contractor license after passing the exam, including city and state fees.
 ---
@@ -21,7 +21,7 @@ After passing your Texas contractor exam, the next big step is applying for your
 - Check official state and city licensing websites to confirm exact fees and potential fee waivers before applying.
 - Avoid unnecessary expenses by handling applications yourself unless third-party services deliver valuable extras.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## How Much Does It Cost to Apply for a Texas Contractor License After Passing the Exam?
 

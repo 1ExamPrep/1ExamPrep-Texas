@@ -1,7 +1,7 @@
 ---
 title: Statewide vs City-Specific Texas Contractor Exam Prep Costs
 url: https://passyourtexascontractorexam.com/blog/statewide-vs-city-contractor-exam-prep-texas/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Texas Contractor Exam
 description: Discover key differences in cost, content, and prep for Texas statewide versus city-specific contractor exams, essential info for your licensing success.
 ---
@@ -21,7 +21,7 @@ Contractor licensing in Texas involves navigating two main types of exams: state
 - Hidden costs, such as exam fees, retakes, and updated materials, can add significantly to the budget.
 - Exam formats differ: statewide exams often combine business law and trade knowledge, city exams may include local ordinance questions or practical tests.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 <style>.bh{max-width:1400px;margin:0 auto;padding:0 16px;color:#0f1c46;line-height:1.7;font-size:17px}.bh *{box-sizing:border-box}.bh-card{background:#fff;border:1px solid #e3e6ec;border-radius:12px;padding:24px;margin:0 0 18px}.bh-card--accent{border-left:5px solid #f5b800;background:#fffdf5}.bh-card--navy{background:#0f1c46;color:#fff;border-color:#0f1c46}.bh-card--navy a{color:#f5b800}.bh h1{font-size:clamp(26px,4vw,38px);line-height:1.2;margin:0 0 14px}.bh h2{font-size:clamp(21px,3vw,27px);line-height:1.25;margin:0 0 12px}.bh h3{font-size:19px;margin:18px 0 8px}.bh p{margin:0 0 14px}.bh ul,.bh ol{padding-left:22px;margin:0 0 14px}.bh li{margin-bottom:7px}.bh a{color:#1f7a99;font-weight:600}.bh table{width:100%;border-collapse:collapse;margin:0 0 16px;font-size:16px}.bh th{background:#0f1c46;color:#fff;text-align:left;padding:11px;border:1px solid #e3e6ec}.bh td{padding:11px;border:1px solid #e3e6ec}.bh tbody tr:nth-child(even){background:#f6f7f9} @media(max-width:600px){.bh-card{padding:18px}.bh{font-size:16px}}.bh-faq{margin:0 0 22px}.bh-faq h1,.bh-faq h2{color:#0f1c46;margin:0 0 16px}.bh-faq__item{background:#fff;border:1px solid #e3e6ec;border-radius:12px;margin:0 0 10px;overflow:hidden}.bh-faq__q{width:100%;display:flex;justify-content:space-between;align-items:center;gap:12px;background:none;border:0;padding:16px 18px;text-align:left;font:inherit;font-weight:700;color:#0f1c46;cursor:pointer}.bh-faq__q::after{content:"+";font-size:24px;line-height:1;color:#f5b800;transition:transform.25s;flex:0 0 auto}.bh-faq__item.is-open.bh-faq__q::after{transform:rotate(45deg)}.bh-faq__a{display:grid;grid-template-rows:0fr;transition:grid-template-rows.3s ease}.bh-faq__a>div{overflow:hidden;padding:0 18px;color:#0f1c46}.bh-faq__a p{margin:0 0 12px}.bh-faq__item.is-open.bh-faq__a{grid-template-rows:1fr}.bh-faq__item.is-open.bh-faq__a>div{padding:0 18px 16px}.bh-faq--static.bh-faq__q{cursor:default}.bh-faq--static.bh-faq__q::after{display:none}.bh-takeaways li{margin-bottom:10px}.bh-takeaways li::marker{color:#f5b800;font-weight:700}.bh-video__frame{position:relative;width:100%;aspect-ratio:16/9;border-radius:10px;overflow:hidden;background:#000;margin:0 0 18px}.bh-video__frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 

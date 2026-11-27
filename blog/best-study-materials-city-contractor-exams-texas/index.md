@@ -1,7 +1,7 @@
 ---
 title: Best Study Materials for Texas City Contractor Exams | Cost
 url: https://passyourtexascontractorexam.com/blog/best-study-materials-city-contractor-exams-texas/
-updated: 2026-11-26
+updated: 2026-11-27
 site: Pass Your Texas Contractor Exam
 description: Discover the best study materials for city contractor exams in Houston and Dallas, including costs, content, and how to get the best value for your prep.
 ---
@@ -21,7 +21,7 @@ If you’re taking a city contractor exam in Texas, especially in Houston or Dal
 - Personalized support, exam application help, and business setup guidance add value but may raise costs.
 - Avoid hidden fees for printed code books or coaching by confirming exactly what’s included in the package.
 
-Updated November 26, 2026 · prices checked against the 1 Exam Prep store
+Updated November 27, 2026 · prices checked against the 1 Exam Prep store
 
 ## What Study Materials Are Best for City Contractor Exams in Texas Cities Like Houston or Dallas? (Cost Guide)
 
